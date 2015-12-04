@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="327" height="107" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+	</e:states>
+	<e:UIAsset source="XZ_di" includeIn="normal" width="327" x="0" y="1" height="107"/>
+	<e:UIAsset id="cancel_btn" source="XZ_cha" includeIn="normal" x="29" y="35"/>
+	<e:UIAsset id="buy_btn" source="XZ_gou" includeIn="normal" x="222" y="35"/>
+	<e:Label id="opType_lb" text="购买" fontFamily="微软雅黑" includeIn="normal" bold="true" size="22" y="10" textAlign="left" width="51" x="84"/>
+	<e:Label id="goldNum_lb" width="77" includeIn="normal" bold="true" fontFamily="微软雅黑" height="35" x="131" textAlign="right" text="6666" y="11" size="20"/>
+	<e:UIAsset id="jinbiAsset" y="9" x="208" source="Dd-jib"/>
+</e:Skin>

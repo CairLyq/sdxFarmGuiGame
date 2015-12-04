@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="480" height="400" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset source="LC_diban" horizontalCenter="0" bottom="0" locked="true"/>
+	<e:UIAsset scale9Grid="56,33,337,203" source="LC_baibang" x="15" y="101" locked="true"/>
+	<e:UIAsset source="LC_dioahua" x="16" y="105" locked="true"/>
+	<e:UIAsset cacheAsBitmap="false" source="LC_dioahua" height="52" scaleY="-1" x="16" y="365" locked="true"/>
+	<e:UIAsset scaleY="-1" source="LC_dioahua" height="52" cacheAsBitmap="false" scaleX="-1" x="464" y="365" locked="true"/>
+	<e:UIAsset source="LC_dioahua" cacheAsBitmap="false" scaleX="-1" height="52" x="464" y="105" locked="true"/>
+	<e:UIAsset source="LC_tiao" y="91" horizontalCenter="0" touchEnabled="false"/>
+	<e:Label id="poorLabel" width="278" fontFamily="Arial" bold="true" verticalAlign="middle" stroke="2" strokeColor="0x2C0000" size="18" touchEnabled="false" height="31" maxDisplayedLines="1" textAlign="center" text="当前储量: 2000  提升后储量: 2000" x="101" y="98"/>
+	<e:Group id="tabGroup" height="38" width="166" left="23" top="42"/>
+	<e:UIAsset id="returnBtn" width="56" height="54" source="KJ_fanhui" autoScale="false" x="405" y="36" locked="true"/>
+	<e:Group id="listGroup" width="429" height="128" x="24" y="149">
+		<e:layout>
+			<e:HorizontalLayout horizontalAlign="center" verticalAlign="contentJustify"/>
+		</e:layout>
+	</e:Group>
+	<e:Button id="okBtn" label="确定" width="204" height="72" anchorX="0.5" anchorY="0.5" y="325" x="240" skinName="skins.uicompenet.Buttons.ButtonSkin"/>
+</e:Skin>

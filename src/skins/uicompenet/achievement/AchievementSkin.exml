@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?><e:Skin width="480" height="467" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">	<w:HostComponent name="egret.gui.SkinnableComponent"/>	<w:Declarations/>	<e:states>		<e:State name="normal"/>	</e:states>
+	<e:UIAsset source="ZY_dikuang" x="0" y="0" textAlign="center" verticalAlign="middle"/>			<e:Scroller id="scrollerDisplay" width="421" height="303" x="31" top="122">		<e:DataGroup id="dataGroup" height="303" width="421">			<e:layout>				<e:HorizontalLayout/>			</e:layout>		</e:DataGroup>	</e:Scroller>
+	<e:UIAsset id="closeBtn" source="LC_guanbi" x="416" y="3"/>
+	<e:UIAsset y="15" horizontalCenter="0.5" source="CH-10"/>
+	<e:UIAsset source="LC_jiantou" alpha="0.6" x="448" y="256"/>
+	<e:UIAsset source="LC_jiantou" alpha="0.6" scaleX="-1" x="35" y="256"/></e:Skin>

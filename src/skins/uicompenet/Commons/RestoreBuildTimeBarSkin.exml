@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing" width="145" height="130">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset x="-1" y="-1" scale9Grid="18,25,109,59" height="130" source="YZ_05"/>
+	<e:Label id="timeLabel" width="130" textAlign="center" textColor="0x272822" verticalAlign="middle" bold="true" height="28" y="53" fontFamily="微软雅黑" size="20" x="8"/>
+	<e:Button id="speed_btn" skinName="skins.uicompenet.Production.ProductionSpeedButtonSkin" label="1" y="86" x="8"/>
+	<e:Label id="nameLabel" textColor="0x3B230B" width="131" textAlign="center" verticalAlign="middle" y="21" height="30" fontFamily="微软雅黑" bold="true" size="22" x="7"/>
+</e:Skin>

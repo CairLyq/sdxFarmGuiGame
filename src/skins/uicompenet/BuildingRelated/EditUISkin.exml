@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="241" height="107" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset includeIn="normal" source="XZ_di" width="241" height="107" x="0" y="0"/>
+	<e:UIAsset id="confirm_btn" includeIn="normal" source="XZ_gou" y="22" verticalAlign="middle" textAlign="left" x="85"/>
+	<e:UIAsset id="grayOnConfirm" source="XZ_chahei" x="85" y="22"/>
+</e:Skin>

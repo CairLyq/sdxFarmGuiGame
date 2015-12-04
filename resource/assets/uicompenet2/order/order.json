@@ -1,0 +1,172 @@
+{"file": "order.png", "frames": {
+    "DD_1": {
+        "x": 370,
+        "y": 854,
+        "w": 78,
+        "h": 46,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 78,
+        "sourceH": 46
+    },
+    "DD_2": {
+        "x": 455,
+        "y": 758,
+        "w": 52,
+        "h": 32,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 52,
+        "sourceH": 32
+    },
+    "DD_3": {
+        "x": 330,
+        "y": 602,
+        "w": 111,
+        "h": 179,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 111,
+        "sourceH": 179
+    },
+    "DD_4": {
+        "x": 1,
+        "y": 736,
+        "w": 327,
+        "h": 64,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 327,
+        "sourceH": 64
+    },
+    "DD_5": {
+        "x": 126,
+        "y": 802,
+        "w": 88,
+        "h": 69,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 88,
+        "sourceH": 69
+    },
+    "DD_6": {
+        "x": 330,
+        "y": 783,
+        "w": 123,
+        "h": 69,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 123,
+        "sourceH": 69
+    },
+    "DD_7": {
+        "x": 455,
+        "y": 792,
+        "w": 52,
+        "h": 31,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 52,
+        "sourceH": 31
+    },
+    "DD_8": {
+        "x": 1,
+        "y": 802,
+        "w": 123,
+        "h": 69,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 123,
+        "sourceH": 69
+    },
+    "DD_9": {
+        "x": 1,
+        "y": 602,
+        "w": 277,
+        "h": 132,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 277,
+        "sourceH": 132
+    },
+    "DD_10": {
+        "x": 471,
+        "y": 67,
+        "w": 36,
+        "h": 52,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 36,
+        "sourceH": 52
+    },
+    "DD_11": {
+        "x": 443,
+        "y": 706,
+        "w": 50,
+        "h": 50,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 50,
+        "sourceH": 50
+    },
+    "DD_13": {
+        "x": 443,
+        "y": 654,
+        "w": 50,
+        "h": 50,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 50,
+        "sourceH": 50
+    },
+    "DD_14": {
+        "x": 216,
+        "y": 802,
+        "w": 75,
+        "h": 76,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 75,
+        "sourceH": 76
+    },
+    "DD_15": {
+        "x": 443,
+        "y": 602,
+        "w": 50,
+        "h": 50,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 50,
+        "sourceH": 50
+    },
+    "DD_16": {
+        "x": 293,
+        "y": 854,
+        "w": 75,
+        "h": 75,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 75,
+        "sourceH": 75
+    },
+    "DD_17": {
+        "x": 1,
+        "y": 1,
+        "w": 468,
+        "h": 599,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 468,
+        "sourceH": 599
+    },
+    "DD_22": {
+        "x": 471,
+        "y": 1,
+        "w": 36,
+        "h": 64,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 36,
+        "sourceH": 64
+    }
+}}

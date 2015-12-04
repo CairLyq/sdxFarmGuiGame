@@ -1,0 +1,482 @@
+{"file": "building.png", "frames": {
+    "fixing_bg": {
+        "x": 463,
+        "y": 397,
+        "w": 160,
+        "h": 145,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 160,
+        "sourceH": 145
+    },
+    "1_trophy44": {
+        "x": 1,
+        "y": 1,
+        "w": 229,
+        "h": 250,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 229,
+        "sourceH": 250
+    },
+    "2_silo33": {
+        "x": 1,
+        "y": 253,
+        "w": 126,
+        "h": 113,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 126,
+        "sourceH": 113
+    },
+    "3_barn33": {
+        "x": 736,
+        "y": 536,
+        "w": 133,
+        "h": 153,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 133,
+        "sourceH": 153
+    },
+    "4_order_coin": {
+        "x": 1,
+        "y": 548,
+        "w": 97,
+        "h": 168,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 97,
+        "sourceH": 168
+    },
+    "4_order_full": {
+        "x": 871,
+        "y": 536,
+        "w": 97,
+        "h": 168,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 97,
+        "sourceH": 168
+    },
+    "4_order": {
+        "x": 463,
+        "y": 544,
+        "w": 97,
+        "h": 168,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 97,
+        "sourceH": 168
+    },
+    "4_order12": {
+        "x": 889,
+        "y": 866,
+        "w": 71,
+        "h": 104,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 71,
+        "sourceH": 104
+    },
+    "5_merchant11": {
+        "x": 338,
+        "y": 580,
+        "w": 109,
+        "h": 101,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 109,
+        "sourceH": 101
+    },
+    "6_shop22": {
+        "x": 100,
+        "y": 548,
+        "w": 117,
+        "h": 115,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 117,
+        "sourceH": 115
+    },
+    "7_airship": {
+        "x": 260,
+        "y": 397,
+        "w": 201,
+        "h": 181,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 201,
+        "sourceH": 181
+    },
+    "7_dock35": {
+        "x": 625,
+        "y": 397,
+        "w": 109,
+        "h": 188,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 109,
+        "sourceH": 188
+    },
+    "101_farmland11_shop": {
+        "x": 129,
+        "y": 360,
+        "w": 64,
+        "h": 32,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 64,
+        "sourceH": 32
+    },
+    "101_farmland11": {
+        "x": 1,
+        "y": 718,
+        "w": 64,
+        "h": 32,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 64,
+        "sourceH": 32
+    },
+    "102_bird_down": {
+        "x": 232,
+        "y": 215,
+        "w": 257,
+        "h": 180,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 257,
+        "sourceH": 180
+    },
+    "102_bird33_shop": {
+        "x": 112,
+        "y": 847,
+        "w": 109,
+        "h": 78,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 109,
+        "sourceH": 78
+    },
+    "102_bird33": {
+        "x": 491,
+        "y": 215,
+        "w": 257,
+        "h": 180,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 257,
+        "sourceH": 180
+    },
+    "103_cow_down": {
+        "x": 750,
+        "y": 1,
+        "w": 257,
+        "h": 190,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 257,
+        "sourceH": 190
+    },
+    "103_cow44_shop": {
+        "x": 223,
+        "y": 847,
+        "w": 109,
+        "h": 78,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 109,
+        "sourceH": 78
+    },
+    "103_cow44": {
+        "x": 750,
+        "y": 193,
+        "w": 257,
+        "h": 190,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 257,
+        "sourceH": 190
+    },
+    "104_pig_down": {
+        "x": 750,
+        "y": 385,
+        "w": 257,
+        "h": 149,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 257,
+        "sourceH": 149
+    },
+    "104_pig44_shop": {
+        "x": 556,
+        "y": 851,
+        "w": 109,
+        "h": 78,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 109,
+        "sourceH": 78
+    },
+    "104_pig44": {
+        "x": 1,
+        "y": 397,
+        "w": 257,
+        "h": 149,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 257,
+        "sourceH": 149
+    },
+    "105_sheep_down": {
+        "x": 232,
+        "y": 1,
+        "w": 257,
+        "h": 212,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 257,
+        "sourceH": 212
+    },
+    "105_sheep44_shop": {
+        "x": 445,
+        "y": 850,
+        "w": 109,
+        "h": 78,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 109,
+        "sourceH": 78
+    },
+    "105_sheep44": {
+        "x": 491,
+        "y": 1,
+        "w": 257,
+        "h": 212,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 257,
+        "sourceH": 212
+    },
+    "201_bakery33": {
+        "x": 667,
+        "y": 866,
+        "w": 109,
+        "h": 78,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 109,
+        "sourceH": 78
+    },
+    "202_feedmill33": {
+        "x": 778,
+        "y": 866,
+        "w": 109,
+        "h": 78,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 109,
+        "sourceH": 78
+    },
+    "203_dairy33": {
+        "x": 205,
+        "y": 687,
+        "w": 109,
+        "h": 78,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 109,
+        "sourceH": 78
+    },
+    "204_sugarmill22": {
+        "x": 685,
+        "y": 691,
+        "w": 109,
+        "h": 78,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 109,
+        "sourceH": 78
+    },
+    "205_popcom22": {
+        "x": 796,
+        "y": 706,
+        "w": 109,
+        "h": 78,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 109,
+        "sourceH": 78
+    },
+    "206_bbq33": {
+        "x": 907,
+        "y": 706,
+        "w": 109,
+        "h": 78,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 109,
+        "sourceH": 78
+    },
+    "207_pieoven33": {
+        "x": 426,
+        "y": 714,
+        "w": 109,
+        "h": 78,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 109,
+        "sourceH": 78
+    },
+    "208_loom33": {
+        "x": 1,
+        "y": 766,
+        "w": 109,
+        "h": 78,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 109,
+        "sourceH": 78
+    },
+    "209_sewing33": {
+        "x": 112,
+        "y": 767,
+        "w": 109,
+        "h": 78,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 109,
+        "sourceH": 78
+    },
+    "210_cakeoven33": {
+        "x": 223,
+        "y": 767,
+        "w": 109,
+        "h": 78,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 109,
+        "sourceH": 78
+    },
+    "211_refinery33": {
+        "x": 537,
+        "y": 770,
+        "w": 109,
+        "h": 78,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 109,
+        "sourceH": 78
+    },
+    "212_juicepress22": {
+        "x": 648,
+        "y": 771,
+        "w": 109,
+        "h": 78,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 109,
+        "sourceH": 78
+    },
+    "213_icecream33": {
+        "x": 759,
+        "y": 786,
+        "w": 109,
+        "h": 78,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 109,
+        "sourceH": 78
+    },
+    "214_jam33": {
+        "x": 870,
+        "y": 786,
+        "w": 109,
+        "h": 78,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 109,
+        "sourceH": 78
+    },
+    "215_jewery33": {
+        "x": 334,
+        "y": 794,
+        "w": 109,
+        "h": 78,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 109,
+        "sourceH": 78
+    },
+    "216_caffee22": {
+        "x": 1,
+        "y": 846,
+        "w": 109,
+        "h": 78,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 109,
+        "sourceH": 78
+    },
+    "1001_apple11": {
+        "x": 338,
+        "y": 683,
+        "w": 86,
+        "h": 105,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 86,
+        "sourceH": 105
+    },
+    "1002_grape11": {
+        "x": 562,
+        "y": 681,
+        "w": 121,
+        "h": 87,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 121,
+        "sourceH": 87
+    },
+    "1003_cherry11": {
+        "x": 219,
+        "y": 580,
+        "w": 117,
+        "h": 105,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 117,
+        "sourceH": 105
+    },
+    "1004_blackb11": {
+        "x": 562,
+        "y": 587,
+        "w": 115,
+        "h": 92,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 115,
+        "sourceH": 92
+    },
+    "1005_coco11": {
+        "x": 129,
+        "y": 253,
+        "w": 87,
+        "h": 105,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 87,
+        "sourceH": 105
+    },
+    "1006_caffee11": {
+        "x": 100,
+        "y": 665,
+        "w": 103,
+        "h": 99,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 103,
+        "sourceH": 99
+    }
+}}

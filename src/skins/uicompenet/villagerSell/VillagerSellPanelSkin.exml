@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="480" height="350" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset id="img_villager" x="-18" source="3_ermo" y="-1"/>
+	<e:UIAsset source="DD_4" scale9Grid="50,40,235,6" height="104" x="94" y="76" width="320"/>
+	<e:Label id="txt_dialog" textColor="0x5C300D" width="274" text="你好我现在需要这个，你可以卖给我吗？" fontFamily="Microsoft YaHei" size="18" lineSpacing="5" y="101" x="127"/>
+	<e:UIAsset id="Doing" source="SCJZ_xiaodilan" x="5" y="191"/>
+	<e:UIAsset id="productList" source="LC_baibang" width="450" height="138" x="14" scale9Grid="56,33,337,203" y="202"/>
+	<e:UIAsset source="LC_dioahua" x="10" y="202"/>
+	<e:UIAsset scaleX="-1" source="LC_dioahua" x="469" y="202"/>
+	<e:UIAsset scaleY="-1" source="LC_dioahua" x="10" y="336"/>
+	<e:UIAsset scaleY="-1" scaleX="-1" source="LC_dioahua" x="469" y="336"/>
+	<e:UIAsset id="btn_sell" source="TC_anniu1" x="338" width="123" scale9Grid="33,0,31,52" y="217"/>
+	<e:Label text=" 没问题" fontFamily="Microsoft YaHei" size="18" strokeColor="0x3C6602" stroke="2" height="30" x="363" y="232"/>
+	<e:UIAsset id="btn_refuse" source="TC_anniu2" scale9Grid="22,0,59,52" width="123" x="338" y="273"/>
+	<e:Label text=" 这个不卖哟" textColor="0xFFFFFF" fontFamily="Microsoft YaHei" size="18" stroke="2" strokeColor="0x925517" height="30" x="346" y="288"/>
+	<e:Button id="btn_close" skinName="skins.simple.CloseButtonSkin" label="按钮" y="137" x="413"/>
+	<e:Label text=" 你拥有：" textColor="0x5C300D" size="18" x="55" fontFamily="微软雅黑" y="293"/>
+	<e:Label id="txt_goldNum" text="1234" size="18" fontFamily="Arial" bold="true" x="269" textColor="0xFFFFFF" stroke="2" strokeColor="0x000000" y="245"/>
+	<e:Label id="txt_ownNum" text="1234" fontFamily="Arial" bold="true" textColor="0x1BFB1F" stroke="2" width="57" x="139" size="18" y="298"/>
+	<e:Label id="txt_sellNum" text="1234" size="18" fontFamily="Arial" bold="true" y="249" stroke="2" strokeColor="0x000000" textColor="0xFFFFFF" x="89"/>
+	<e:UIAsset id="img_itemSmall" source="102_yumi" width="40" height="40" x="193" y="287"/>
+	<e:UIAsset id="img_itemBig" source="201_niaodan" y="219" x="29"/>
+	<e:UIAsset source="CCDD_03" x="160" y="233"/>
+	<e:UIAsset source="Dd-jib" x="233" y="240"/>
+</e:Skin>

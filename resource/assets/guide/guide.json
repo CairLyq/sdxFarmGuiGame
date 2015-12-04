@@ -1,0 +1,42 @@
+{"file": "guide.png", "frames": {
+    "GQ_03": {
+        "x": 221,
+        "y": 134,
+        "w": 126,
+        "h": 124,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 126,
+        "sourceH": 124
+    },
+    "TX_07": {
+        "x": 308,
+        "y": 1,
+        "w": 128,
+        "h": 131,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 128,
+        "sourceH": 131
+    },
+    "DHK_234": {
+        "x": 1,
+        "y": 370,
+        "w": 305,
+        "h": 93,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 305,
+        "sourceH": 93
+    },
+    "GUIDE_npc": {
+        "x": 1,
+        "y": 1,
+        "w": 218,
+        "h": 367,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 218,
+        "sourceH": 367
+    }
+}}

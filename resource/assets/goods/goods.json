@@ -1,0 +1,1152 @@
+{"file": "goods.png", "frames": {
+    "21_luosiding": {
+        "x": 96,
+        "y": 299,
+        "w": 40,
+        "h": 40,
+        "offX": 12,
+        "offY": 12,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "22_muban": {
+        "x": 2,
+        "y": 337,
+        "w": 48,
+        "h": 32,
+        "offX": 8,
+        "offY": 16,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "23_chuizi": {
+        "x": 155,
+        "y": 104,
+        "w": 42,
+        "h": 52,
+        "offX": 11,
+        "offY": 6,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "24_zhuantou": {
+        "x": 199,
+        "y": 160,
+        "w": 47,
+        "h": 40,
+        "offX": 9,
+        "offY": 12,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "25_shuini": {
+        "x": 166,
+        "y": 58,
+        "w": 53,
+        "h": 41,
+        "offX": 6,
+        "offY": 14,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "26_youqi": {
+        "x": 166,
+        "y": 2,
+        "w": 42,
+        "h": 52,
+        "offX": 11,
+        "offY": 6,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "51_hezuichu": {
+        "x": 2,
+        "y": 239,
+        "w": 45,
+        "h": 44,
+        "offX": 13,
+        "offY": 12,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "52_zhayao": {
+        "x": 50,
+        "y": 149,
+        "w": 51,
+        "h": 41,
+        "offX": 7,
+        "offY": 12,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "53_chanzi": {
+        "x": 269,
+        "y": 2,
+        "w": 41,
+        "h": 43,
+        "offX": 12,
+        "offY": 11,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "54_futou": {
+        "x": 212,
+        "y": 2,
+        "w": 53,
+        "h": 41,
+        "offX": 6,
+        "offY": 12,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "55_juzi": {
+        "x": 54,
+        "y": 2,
+        "w": 46,
+        "h": 53,
+        "offX": 9,
+        "offY": 6,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "101_xiaomai": {
+        "x": 134,
+        "y": 248,
+        "w": 39,
+        "h": 40,
+        "offX": 14,
+        "offY": 15,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "102_yumi": {
+        "x": 373,
+        "y": 212,
+        "w": 35,
+        "h": 35,
+        "offX": 16,
+        "offY": 16,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "103_wandou": {
+        "x": 448,
+        "y": 2,
+        "w": 37,
+        "h": 36,
+        "offX": 12,
+        "offY": 13,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "104_ganzhe": {
+        "x": 112,
+        "y": 55,
+        "w": 50,
+        "h": 45,
+        "offX": 7,
+        "offY": 10,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "105_huluobo": {
+        "x": 302,
+        "y": 135,
+        "w": 46,
+        "h": 36,
+        "offX": 12,
+        "offY": 14,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "106_xunyicao": {
+        "x": 314,
+        "y": 2,
+        "w": 41,
+        "h": 42,
+        "offX": 12,
+        "offY": 11,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "107_nangua": {
+        "x": 219,
+        "y": 362,
+        "w": 34,
+        "h": 33,
+        "offX": 17,
+        "offY": 16,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "108_mianhua": {
+        "x": 2,
+        "y": 469,
+        "w": 34,
+        "h": 35,
+        "offX": 15,
+        "offY": 15,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "109_lajiao": {
+        "x": 177,
+        "y": 285,
+        "w": 33,
+        "h": 38,
+        "offX": 16,
+        "offY": 13,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "110_fanqie": {
+        "x": 130,
+        "y": 438,
+        "w": 34,
+        "h": 33,
+        "offX": 15,
+        "offY": 16,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "111_caomei": {
+        "x": 37,
+        "y": 422,
+        "w": 33,
+        "h": 36,
+        "offX": 16,
+        "offY": 14,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "112_tudou": {
+        "x": 251,
+        "y": 276,
+        "w": 36,
+        "h": 32,
+        "offX": 14,
+        "offY": 16,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "201_niaodan": {
+        "x": 214,
+        "y": 285,
+        "w": 33,
+        "h": 38,
+        "offX": 16,
+        "offY": 13,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "202_niunai": {
+        "x": 324,
+        "y": 464,
+        "w": 23,
+        "h": 43,
+        "offX": 21,
+        "offY": 11,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "203_peigen": {
+        "x": 176,
+        "y": 368,
+        "w": 39,
+        "h": 29,
+        "offX": 13,
+        "offY": 18,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "204_yangmao": {
+        "x": 333,
+        "y": 257,
+        "w": 38,
+        "h": 33,
+        "offX": 13,
+        "offY": 16,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1001_mianbao": {
+        "x": 250,
+        "y": 147,
+        "w": 48,
+        "h": 37,
+        "offX": 8,
+        "offY": 15,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1002_yumimianbao": {
+        "x": 251,
+        "y": 399,
+        "w": 37,
+        "h": 30,
+        "offX": 14,
+        "offY": 17,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1003_quqi": {
+        "x": 321,
+        "y": 399,
+        "w": 38,
+        "h": 28,
+        "offX": 13,
+        "offY": 18,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1004_putaomianbao": {
+        "x": 168,
+        "y": 438,
+        "w": 35,
+        "h": 32,
+        "offX": 15,
+        "offY": 16,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1005_heimeimianbao": {
+        "x": 333,
+        "y": 294,
+        "w": 36,
+        "h": 34,
+        "offX": 14,
+        "offY": 15,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1006_pisa": {
+        "x": 130,
+        "y": 343,
+        "w": 42,
+        "h": 28,
+        "offX": 11,
+        "offY": 18,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1007_malapisa": {
+        "x": 40,
+        "y": 462,
+        "w": 42,
+        "h": 28,
+        "offX": 11,
+        "offY": 18,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1008_tudoumianbao": {
+        "x": 363,
+        "y": 411,
+        "w": 35,
+        "h": 30,
+        "offX": 15,
+        "offY": 17,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1101_niaosiliao": {
+        "x": 2,
+        "y": 287,
+        "w": 41,
+        "h": 46,
+        "offX": 11,
+        "offY": 12,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1102_niusiliao": {
+        "x": 154,
+        "y": 160,
+        "w": 41,
+        "h": 46,
+        "offX": 11,
+        "offY": 12,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1103_zhusiliao": {
+        "x": 105,
+        "y": 198,
+        "w": 41,
+        "h": 46,
+        "offX": 11,
+        "offY": 12,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1104_yangsiliao": {
+        "x": 51,
+        "y": 240,
+        "w": 41,
+        "h": 46,
+        "offX": 11,
+        "offY": 12,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1201_naiyou": {
+        "x": 375,
+        "y": 251,
+        "w": 36,
+        "h": 26,
+        "offX": 14,
+        "offY": 19,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1202_huangyou": {
+        "x": 207,
+        "y": 439,
+        "w": 35,
+        "h": 29,
+        "offX": 15,
+        "offY": 18,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1203_nailao": {
+        "x": 285,
+        "y": 464,
+        "w": 35,
+        "h": 29,
+        "offX": 15,
+        "offY": 18,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1301_hongtang": {
+        "x": 317,
+        "y": 98,
+        "w": 31,
+        "h": 32,
+        "offX": 17,
+        "offY": 16,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1302_baishatang": {
+        "x": 247,
+        "y": 472,
+        "w": 30,
+        "h": 31,
+        "offX": 17,
+        "offY": 17,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1303_tangjiang": {
+        "x": 374,
+        "y": 366,
+        "w": 26,
+        "h": 41,
+        "offX": 19,
+        "offY": 12,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1401_baomihua": {
+        "x": 257,
+        "y": 352,
+        "w": 29,
+        "h": 38,
+        "offX": 18,
+        "offY": 13,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1402_niunaibaomihua": {
+        "x": 35,
+        "y": 379,
+        "w": 31,
+        "h": 39,
+        "offX": 17,
+        "offY": 13,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1403_xianglabaomihua": {
+        "x": 2,
+        "y": 426,
+        "w": 31,
+        "h": 39,
+        "offX": 17,
+        "offY": 13,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1501_danjuan": {
+        "x": 221,
+        "y": 245,
+        "w": 25,
+        "h": 33,
+        "offX": 20,
+        "offY": 16,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1502_peigendanjuan": {
+        "x": 373,
+        "y": 182,
+        "w": 47,
+        "h": 26,
+        "offX": 9,
+        "offY": 19,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1503_hanbao": {
+        "x": 333,
+        "y": 332,
+        "w": 36,
+        "h": 30,
+        "offX": 14,
+        "offY": 17,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1504_kaofanqie": {
+        "x": 292,
+        "y": 431,
+        "w": 35,
+        "h": 29,
+        "offX": 15,
+        "offY": 18,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1505_jutudou": {
+        "x": 207,
+        "y": 472,
+        "w": 36,
+        "h": 27,
+        "offX": 14,
+        "offY": 19,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1601_huluobopai": {
+        "x": 292,
+        "y": 347,
+        "w": 37,
+        "h": 31,
+        "offX": 14,
+        "offY": 17,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1602_nanguapai": {
+        "x": 214,
+        "y": 327,
+        "w": 38,
+        "h": 31,
+        "offX": 16,
+        "offY": 18,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1603_peigenpai": {
+        "x": 130,
+        "y": 475,
+        "w": 43,
+        "h": 22,
+        "offX": 11,
+        "offY": 24,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1604_pingguopai": {
+        "x": 292,
+        "y": 312,
+        "w": 37,
+        "h": 31,
+        "offX": 13,
+        "offY": 19,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1605_shaguo": {
+        "x": 150,
+        "y": 210,
+        "w": 42,
+        "h": 31,
+        "offX": 12,
+        "offY": 19,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1606_muyangrenxianbing": {
+        "x": 412,
+        "y": 212,
+        "w": 33,
+        "h": 28,
+        "offX": 15,
+        "offY": 20,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1701_maoyi": {
+        "x": 269,
+        "y": 49,
+        "w": 44,
+        "h": 40,
+        "offX": 10,
+        "offY": 12,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1702_mianbu": {
+        "x": 267,
+        "y": 93,
+        "w": 46,
+        "h": 38,
+        "offX": 9,
+        "offY": 13,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1703_lanseyangmaomao": {
+        "x": 317,
+        "y": 49,
+        "w": 39,
+        "h": 45,
+        "offX": 12,
+        "offY": 10,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1704_lansemaoyi": {
+        "x": 359,
+        "y": 2,
+        "w": 43,
+        "h": 40,
+        "offX": 12,
+        "offY": 12,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1705_shengdanmao": {
+        "x": 199,
+        "y": 204,
+        "w": 49,
+        "h": 37,
+        "offX": 7,
+        "offY": 12,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1706_shengdanyifu": {
+        "x": 96,
+        "y": 248,
+        "w": 34,
+        "h": 47,
+        "offX": 15,
+        "offY": 10,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1801_mianchenshan": {
+        "x": 54,
+        "y": 334,
+        "w": 35,
+        "h": 41,
+        "offX": 14,
+        "offY": 12,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1802_mianmaoku": {
+        "x": 2,
+        "y": 60,
+        "w": 41,
+        "h": 56,
+        "offX": 11,
+        "offY": 4,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1803_ziselianyiqun": {
+        "x": 252,
+        "y": 227,
+        "w": 36,
+        "h": 45,
+        "offX": 14,
+        "offY": 9,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1901_huluobodangao": {
+        "x": 414,
+        "y": 42,
+        "w": 31,
+        "h": 43,
+        "offX": 16,
+        "offY": 12,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1902_naiyoudangao": {
+        "x": 333,
+        "y": 366,
+        "w": 37,
+        "h": 29,
+        "offX": 13,
+        "offY": 20,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1903_yingtaodangao": {
+        "x": 393,
+        "y": 89,
+        "w": 34,
+        "h": 38,
+        "offX": 14,
+        "offY": 13,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1904_zhishidangao": {
+        "x": 246,
+        "y": 439,
+        "w": 35,
+        "h": 29,
+        "offX": 14,
+        "offY": 21,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1905_caomeidangao": {
+        "x": 406,
+        "y": 2,
+        "w": 38,
+        "h": 36,
+        "offX": 13,
+        "offY": 15,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1906_qiaokelidangao": {
+        "x": 93,
+        "y": 466,
+        "w": 33,
+        "h": 37,
+        "offX": 15,
+        "offY": 15,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "1907_tudouzhishidangao": {
+        "x": 50,
+        "y": 106,
+        "w": 54,
+        "h": 39,
+        "offX": 5,
+        "offY": 12,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "2001_yinshi": {
+        "x": 352,
+        "y": 98,
+        "w": 37,
+        "h": 37,
+        "offX": 15,
+        "offY": 15,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "2002_jinshi": {
+        "x": 292,
+        "y": 270,
+        "w": 37,
+        "h": 37,
+        "offX": 14,
+        "offY": 14,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "2003_baijinshi": {
+        "x": 332,
+        "y": 216,
+        "w": 37,
+        "h": 37,
+        "offX": 14,
+        "offY": 14,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "2004_jingtieshi": {
+        "x": 54,
+        "y": 59,
+        "w": 54,
+        "h": 43,
+        "offX": 5,
+        "offY": 13,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "2004_jintieshi": {
+        "x": 373,
+        "y": 46,
+        "w": 37,
+        "h": 37,
+        "offX": 13,
+        "offY": 13,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "2005_miyinshi": {
+        "x": 304,
+        "y": 175,
+        "w": 37,
+        "h": 37,
+        "offX": 14,
+        "offY": 14,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "2101_huluobozhi": {
+        "x": 394,
+        "y": 459,
+        "w": 23,
+        "h": 39,
+        "offX": 20,
+        "offY": 13,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "2102_pingguozhi": {
+        "x": 430,
+        "y": 414,
+        "w": 24,
+        "h": 40,
+        "offX": 20,
+        "offY": 13,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "2103_yingtaozhi": {
+        "x": 430,
+        "y": 458,
+        "w": 24,
+        "h": 39,
+        "offX": 20,
+        "offY": 14,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "2104_fanqiezhi": {
+        "x": 430,
+        "y": 131,
+        "w": 22,
+        "h": 37,
+        "offX": 21,
+        "offY": 14,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "2105_putaozhi": {
+        "x": 402,
+        "y": 414,
+        "w": 24,
+        "h": 41,
+        "offX": 20,
+        "offY": 12,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "2201_xiangcaobingjilin": {
+        "x": 404,
+        "y": 366,
+        "w": 24,
+        "h": 44,
+        "offX": 21,
+        "offY": 11,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "2202_yingtaobingbang": {
+        "x": 292,
+        "y": 382,
+        "w": 25,
+        "h": 45,
+        "offX": 20,
+        "offY": 11,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "2203_caomeibingjilin": {
+        "x": 2,
+        "y": 373,
+        "w": 29,
+        "h": 49,
+        "offX": 20,
+        "offY": 11,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "2204_qiaokelibingjilin": {
+        "x": 363,
+        "y": 445,
+        "w": 27,
+        "h": 38,
+        "offX": 19,
+        "offY": 15,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "2301_pingguojiang": {
+        "x": 177,
+        "y": 327,
+        "w": 33,
+        "h": 37,
+        "offX": 16,
+        "offY": 15,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "2302_putaojiang": {
+        "x": 93,
+        "y": 343,
+        "w": 33,
+        "h": 37,
+        "offX": 16,
+        "offY": 15,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "2303_heimeijiang": {
+        "x": 256,
+        "y": 312,
+        "w": 32,
+        "h": 36,
+        "offX": 15,
+        "offY": 16,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "2304_yingtaojiang": {
+        "x": 93,
+        "y": 384,
+        "w": 33,
+        "h": 37,
+        "offX": 14,
+        "offY": 14,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "2305_caomeijiang": {
+        "x": 93,
+        "y": 425,
+        "w": 33,
+        "h": 37,
+        "offX": 14,
+        "offY": 16,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "2401_yaojingerhuan": {
+        "x": 55,
+        "y": 194,
+        "w": 46,
+        "h": 42,
+        "offX": 10,
+        "offY": 13,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "2402_shouhuzhijie": {
+        "x": 391,
+        "y": 139,
+        "w": 35,
+        "h": 39,
+        "offX": 15,
+        "offY": 16,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "2403_baoshixianglian": {
+        "x": 223,
+        "y": 97,
+        "w": 40,
+        "h": 46,
+        "offX": 14,
+        "offY": 9,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "2404_guangmangshouzhuo": {
+        "x": 252,
+        "y": 188,
+        "w": 48,
+        "h": 35,
+        "offX": 8,
+        "offY": 15,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "2501_yishikafei": {
+        "x": 177,
+        "y": 245,
+        "w": 40,
+        "h": 36,
+        "offX": 13,
+        "offY": 15,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "2502_natiekafei": {
+        "x": 223,
+        "y": 47,
+        "w": 40,
+        "h": 46,
+        "offX": 13,
+        "offY": 8,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "2503_mokakafei": {
+        "x": 47,
+        "y": 290,
+        "w": 38,
+        "h": 40,
+        "offX": 13,
+        "offY": 12,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "2504_caomeimoka": {
+        "x": 292,
+        "y": 227,
+        "w": 36,
+        "h": 39,
+        "offX": 15,
+        "offY": 13,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "2505_kabuqinuo": {
+        "x": 108,
+        "y": 106,
+        "w": 43,
+        "h": 38,
+        "offX": 11,
+        "offY": 14,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "3001_pingguo": {
+        "x": 214,
+        "y": 401,
+        "w": 33,
+        "h": 34,
+        "offX": 17,
+        "offY": 16,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "3002_putao": {
+        "x": 140,
+        "y": 292,
+        "w": 33,
+        "h": 39,
+        "offX": 15,
+        "offY": 15,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "3003_yingtao": {
+        "x": 130,
+        "y": 401,
+        "w": 34,
+        "h": 33,
+        "offX": 14,
+        "offY": 17,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "3004_heimei": {
+        "x": 352,
+        "y": 139,
+        "w": 35,
+        "h": 39,
+        "offX": 14,
+        "offY": 15,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "3005_keke": {
+        "x": 168,
+        "y": 401,
+        "w": 34,
+        "h": 33,
+        "offX": 15,
+        "offY": 18,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "3006_kafeidou": {
+        "x": 130,
+        "y": 375,
+        "w": 40,
+        "h": 21,
+        "offX": 13,
+        "offY": 25,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "4001_yinkuang": {
+        "x": 104,
+        "y": 2,
+        "w": 47,
+        "h": 49,
+        "offX": 9,
+        "offY": 15,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "4002_jinkuang": {
+        "x": 2,
+        "y": 194,
+        "w": 49,
+        "h": 41,
+        "offX": 8,
+        "offY": 12,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "4003_baijinkuang": {
+        "x": 105,
+        "y": 149,
+        "w": 45,
+        "h": 45,
+        "offX": 10,
+        "offY": 10,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "4004_jingtiekuang": {
+        "x": 2,
+        "y": 120,
+        "w": 44,
+        "h": 48,
+        "offX": 10,
+        "offY": 8,
+        "sourceW": 64,
+        "sourceH": 64
+    },
+    "4005_miyinkuang": {
+        "x": 2,
+        "y": 2,
+        "w": 48,
+        "h": 54,
+        "offX": 8,
+        "offY": 5,
+        "sourceW": 64,
+        "sourceH": 64
+    }
+}}

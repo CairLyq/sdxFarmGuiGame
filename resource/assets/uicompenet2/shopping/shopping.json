@@ -1,0 +1,182 @@
+{"file": "shopping.png", "frames": {
+    "ZF_032": {
+        "x": 247,
+        "y": 470,
+        "w": 121,
+        "h": 136,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 121,
+        "sourceH": 136
+    },
+    "ZF_level": {
+        "x": 183,
+        "y": 611,
+        "w": 52,
+        "h": 26,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 52,
+        "sourceH": 26
+    },
+    "ZY_01": {
+        "x": 347,
+        "y": 740,
+        "w": 78,
+        "h": 46,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 78,
+        "sourceH": 46
+    },
+    "ZY_02": {
+        "x": 183,
+        "y": 698,
+        "w": 82,
+        "h": 48,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 82,
+        "sourceH": 48
+    },
+    "ZY_03": {
+        "x": 429,
+        "y": 650,
+        "w": 82,
+        "h": 48,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 82,
+        "sourceH": 48
+    },
+    "ZY_04": {
+        "x": 429,
+        "y": 700,
+        "w": 80,
+        "h": 48,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 80,
+        "sourceH": 48
+    },
+    "ZY_05": {
+        "x": 80,
+        "y": 701,
+        "w": 78,
+        "h": 46,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 78,
+        "sourceH": 46
+    },
+    "ZY_06": {
+        "x": 267,
+        "y": 740,
+        "w": 78,
+        "h": 46,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 78,
+        "sourceH": 46
+    },
+    "ZY_07": {
+        "x": 1,
+        "y": 701,
+        "w": 77,
+        "h": 48,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 77,
+        "sourceH": 48
+    },
+    "ZY_baidibang": {
+        "x": 1,
+        "y": 470,
+        "w": 121,
+        "h": 139,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 121,
+        "sourceH": 139
+    },
+    "ZY_dikuang": {
+        "x": 1,
+        "y": 1,
+        "w": 480,
+        "h": 467,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 480,
+        "sourceH": 467
+    },
+    "ZY_gengzhong": {
+        "x": 338,
+        "y": 650,
+        "w": 89,
+        "h": 88,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 89,
+        "sourceH": 88
+    },
+    "ZY_jinbi": {
+        "x": 370,
+        "y": 470,
+        "w": 89,
+        "h": 88,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 89,
+        "sourceH": 88
+    },
+    "ZY_zhognzhiwu": {
+        "x": 370,
+        "y": 560,
+        "w": 89,
+        "h": 88,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 89,
+        "sourceH": 88
+    },
+    "ZY_zuangshiwu": {
+        "x": 247,
+        "y": 608,
+        "w": 89,
+        "h": 88,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 89,
+        "sourceH": 88
+    },
+    "ZY_zuangsi": {
+        "x": 1,
+        "y": 611,
+        "w": 89,
+        "h": 88,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 89,
+        "sourceH": 88
+    },
+    "ZY_zuofang": {
+        "x": 92,
+        "y": 611,
+        "w": 89,
+        "h": 88,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 89,
+        "sourceH": 88
+    },
+    "ZY-huisezz": {
+        "x": 124,
+        "y": 470,
+        "w": 121,
+        "h": 139,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 121,
+        "sourceH": 139
+    }
+}}

@@ -1,0 +1,212 @@
+﻿{
+    "mc": {
+        "sexChose_man": {
+            "frameRate": 6,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "sexChose_man0000",
+                    "x": -58,
+                    "y": -293,
+                    "duration": 1
+                },
+                {
+                    "res": "sexChose_man0001",
+                    "x": -58,
+                    "y": -293,
+                    "duration": 1
+                },
+                {
+                    "res": "sexChose_man0002",
+                    "x": -58,
+                    "y": -293,
+                    "duration": 1
+                },
+                {
+                    "res": "sexChose_man0003",
+                    "x": -58,
+                    "y": -293,
+                    "duration": 1
+                },
+                {
+                    "res": "sexChose_man0004",
+                    "x": -58,
+                    "y": -293,
+                    "duration": 1
+                },
+                {
+                    "res": "sexChose_man0005",
+                    "x": -58,
+                    "y": -293,
+                    "duration": 1
+                },
+                {
+                    "res": "sexChose_man0006",
+                    "x": -58,
+                    "y": -293,
+                    "duration": 1
+                },
+                {
+                    "res": "sexChose_man0007",
+                    "x": -58,
+                    "y": -293,
+                    "duration": 1
+                }
+            ]
+        },
+        "sexChose_woman": {
+            "frameRate": 6,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "sexChose_woman0000",
+                    "x": -53.5,
+                    "y": -305,
+                    "duration": 1
+                },
+                {
+                    "res": "sexChose_woman0001",
+                    "x": -53.5,
+                    "y": -305,
+                    "duration": 1
+                },
+                {
+                    "res": "sexChose_woman0002",
+                    "x": -53.5,
+                    "y": -305,
+                    "duration": 1
+                },
+                {
+                    "res": "sexChose_woman0003",
+                    "x": -53.5,
+                    "y": -305,
+                    "duration": 1
+                },
+                {
+                    "res": "sexChose_woman0004",
+                    "x": -53.5,
+                    "y": -305,
+                    "duration": 1
+                },
+                {
+                    "res": "sexChose_woman0005",
+                    "x": -53.5,
+                    "y": -305,
+                    "duration": 1
+                },
+                {
+                    "res": "sexChose_woman0006",
+                    "x": -53.5,
+                    "y": -305,
+                    "duration": 1
+                },
+                {
+                    "res": "sexChose_woman0007",
+                    "x": -53.5,
+                    "y": -305,
+                    "duration": 1
+                }
+            ]
+        }
+    },
+    "res": {
+        "sexChose_man0000": {
+            "x": 0,
+            "y": 0,
+            "w": 116,
+            "h": 293
+        },
+        "sexChose_man0001": {
+            "x": 116,
+            "y": 0,
+            "w": 116,
+            "h": 293
+        },
+        "sexChose_man0002": {
+            "x": 232,
+            "y": 0,
+            "w": 116,
+            "h": 293
+        },
+        "sexChose_man0003": {
+            "x": 348,
+            "y": 0,
+            "w": 116,
+            "h": 293
+        },
+        "sexChose_man0004": {
+            "x": 464,
+            "y": 0,
+            "w": 116,
+            "h": 293
+        },
+        "sexChose_man0005": {
+            "x": 580,
+            "y": 0,
+            "w": 116,
+            "h": 293
+        },
+        "sexChose_man0006": {
+            "x": 696,
+            "y": 0,
+            "w": 116,
+            "h": 293
+        },
+        "sexChose_man0007": {
+            "x": 812,
+            "y": 0,
+            "w": 116,
+            "h": 293
+        },
+        "sexChose_woman0000": {
+            "x": 0,
+            "y": 293,
+            "w": 107,
+            "h": 305
+        },
+        "sexChose_woman0001": {
+            "x": 107,
+            "y": 293,
+            "w": 107,
+            "h": 305
+        },
+        "sexChose_woman0002": {
+            "x": 214,
+            "y": 293,
+            "w": 107,
+            "h": 305
+        },
+        "sexChose_woman0003": {
+            "x": 321,
+            "y": 293,
+            "w": 107,
+            "h": 305
+        },
+        "sexChose_woman0004": {
+            "x": 428,
+            "y": 293,
+            "w": 107,
+            "h": 305
+        },
+        "sexChose_woman0005": {
+            "x": 535,
+            "y": 293,
+            "w": 107,
+            "h": 305
+        },
+        "sexChose_woman0006": {
+            "x": 642,
+            "y": 293,
+            "w": 107,
+            "h": 305
+        },
+        "sexChose_woman0007": {
+            "x": 749,
+            "y": 293,
+            "w": 107,
+            "h": 305
+        }
+    }
+}

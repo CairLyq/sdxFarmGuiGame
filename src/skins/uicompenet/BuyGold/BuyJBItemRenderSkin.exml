@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="126" height="143" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.ItemRenderer"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="up"/>
+		<e:State name="down"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset source="ZY_baidibang" horizontalCenter="0" verticalCenter="0"/>
+	<e:UIAsset id="imgId" autoScale="false" anchorX="0.5" anchorY="0.5" x="61.5" y="68.5" source="JBGMER-1000"/>
+	<e:Label id="incomeLabel" textColor="0x603C05" width="98" text="500" verticalAlign="middle" height="29" x="12" bold="true" textAlign="center" fontFamily="Arial" size="18" y="6"/>
+	<e:Label id="priceLabel" text="50" textColor="16777215" width="69" height="33" verticalAlign="middle" textAlign="center" strokeColor="0x666666" stroke="2" bold="true" x="45" fontFamily="Arial" size="18" y="101"/>
+	<e:Label id="giveLabel" fontFamily="Arial" bold="true" width="54" verticalAlign="bottom" textColor="14483456" textAlign="right" x="62" text="+100%" y="30" size="14"/>
+	<e:UIAsset source="TYER-zuanshi" x="13" y="98"/>
+</e:Skin>

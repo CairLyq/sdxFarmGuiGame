@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="480" height="300" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset id="npc" x="0" y="-51" source="10_sylph"/>
+	<e:UIAsset source="SCJZ_xiaodilan" bottom="0" horizontalCenter="0"/>
+	<e:UIAsset source="LC_baibang" scale9Grid="24,29,399,211" width="440" height="119" horizontalCenter="-3" bottom="20"/>
+	<e:UIAsset x="149" y="12" source="DHK_234"/>
+	<e:UIAsset height="28" y="181" x="42" source="NPC_07" width="88" scale9Grid="6,6,72,15"/>
+	<e:UIAsset id="closeBtn" source="LC_guanbi" x="414" y="96"/>
+	<e:UIAsset source="LC_dioahua" scaleX="-1" x="459" y="161"/>
+	<e:UIAsset source="LC_dioahua" x="13" y="161"/>
+	<e:UIAsset source="LC_dioahua" scaleY="-1" x="13" y="281"/>
+	<e:UIAsset source="LC_dioahua" scaleY="-1" scaleX="-1" x="459" y="281"/>
+	<e:UIAsset id="dialog" width="280" height="72" x="169" y="21"/>
+	<e:Label id="progressLable" text="0/1" x="44" size="22" width="82" textAlign="center" y="185" fontFamily="Arial" locked="true"/>
+	<e:Label id="discriptionLable" width="211" text="使用一次砖石加速" textColor="0x603C05" x="136" bold="true" height="44" fontFamily="Microsoft YaHei" size="20" y="183"/>
+	<e:Label text="任务奖励：" bold="true" fontFamily="Microsoft YaHei" textAlign="left" textColor="0x603C05" size="20" x="40" y="235"/>
+	<e:UIAsset source="NPC_11" x="266" y="236"/>
+	<e:UIAsset source="NPC_11" y="236" x="145"/>
+	<e:UIAsset id="awardIcon0" x="134" source="cj-zuans" y="233"/>
+	<e:UIAsset id="awardIcon1" source="cj-jiny" y="233" x="252"/>
+	<e:Label id="awardLable0" size="18" width="60" textAlign="center" text="123" x="154" y="239" bold="true" fontFamily="Arial" textColor="0x603C05"/>
+	<e:Label id="awardLable1" size="18" width="69" textAlign="center" text="123" x="264" y="240" bold="true" fontFamily="Arial" textColor="0x603C05"/>
+	<e:Group id="acceptBtn" x="342" y="186">
+		<e:UIAsset source="TC_anniu1" y="0"/>
+		<e:Label stroke="2" strokeColor="0x3C6602" text="领取奖励" size="18" x="15" y="13" fontFamily="Microsoft YaHei"/>
+	</e:Group>
+</e:Skin>

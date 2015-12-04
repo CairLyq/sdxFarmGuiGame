@@ -1,0 +1,68 @@
+[
+    {
+        "buildingId": 201,
+        "background": "bakery"
+    },
+    {
+        "buildingId": 202,
+        "background": "feedmill"
+    },
+    {
+        "buildingId": 203,
+        "background": "dairy"
+    },
+    {
+        "buildingId": 204,
+        "background": "sugarmill"
+    },
+    {
+        "buildingId": 205,
+        "background": "popcom"
+    },
+    {
+        "buildingId": 206,
+        "background": "bbq"
+    },
+    {
+        "buildingId": 207,
+        "background": "pieoven"
+    },
+    {
+        "buildingId": 208,
+        "background": "loom"
+    },
+    {
+        "buildingId": 209,
+        "background": "sewing"
+    },
+    {
+        "buildingId": 210,
+        "background": "cakeoven"
+    },
+    {
+        "buildingId": 211,
+        "background": "refinery"
+    },
+    {
+        "buildingId": 212,
+        "background": "juicepress"
+    },
+    {
+        "buildingId": 213,
+        "background": "icecream"
+    },
+    {
+        "buildingId": 214,
+        "background": "jam"
+    },
+    {
+        "buildingId": 215,
+        "background": "jewery"
+    },
+    {
+        "buildingId": 216,
+        "background": "caffee"
+    }
+
+
+]

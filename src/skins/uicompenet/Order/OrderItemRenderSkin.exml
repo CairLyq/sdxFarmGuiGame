@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="75" height="75" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.ItemRenderer"/>
+	<w:Declarations/>
+	<e:UIAsset id="unfinished" source="DD_11" horizontalCenter="0" verticalCenter="0" locked="true"/>
+	<e:UIAsset id="finished" source="DD_13" horizontalCenter="0" verticalCenter="0" locked="true"/>
+	<e:UIAsset id="choose" source="DD_14" horizontalCenter="0" verticalCenter="0" locked="true"/>
+	<e:UIAsset id="wait" source="DD_15" horizontalCenter="0" verticalCenter="0"/>
+	<e:UIAsset id="chooseWait" source="DD_16" horizontalCenter="0" verticalCenter="0" locked="true"/>
+	<e:UIAsset id="avatar" source="DD_10" horizontalCenter="-1.5" verticalCenter="-5.5" locked="true"/>
+</e:Skin>

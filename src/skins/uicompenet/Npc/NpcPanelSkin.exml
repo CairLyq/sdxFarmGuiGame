@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="640" height="630" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:Group id="contentGroup" width="100%" height="100%">
+		<e:UIAsset scale9Grid="80,50,480,27" source="DB-XIAO" height="400" horizontalCenter="0" bottom="0"/>
+		<e:UIAsset scale9Grid="10,9,30,50" source="DB1" width="434" height="232" right="19" bottom="120"/>
+		<e:UIAsset source="SCJZ-npc" y="0" x="-85"/>
+		<e:UIAsset source="TYER-1_55" horizontalCenter="0" bottom="0"/>
+		<e:UIAsset width="412" height="93" source="SDER-dikuang" scale9Grid="15,13,125,142" y="303" x="198"/>
+		<e:Label id="explainLabel" text="收获牛奶" width="210" height="73" verticalAlign="middle" maxDisplayedLines="2" size="26" lineSpacing="5" textColor="2883584" fontFamily="sans-serif" y="322" x="397"/>
+		<e:Label fontFamily="Microsoft YaHei" width="120" height="43" stroke="2" strokeColor="0x2C0000" textColor="16777215" size="26" text="任务奖励:" bold="true" x="200" y="415"/>
+		
+		<e:Label id="taskProgressLabel" strokeColor="0x2C0000" stroke="2" fontFamily="Arial" textColor="0xffffff" width="104" height="31" verticalAlign="middle" size="22" bold="true" x="294" y="342" text="25 / 25"/>
+		<e:UIAsset source="ZXRW-niunai" x="229" y="311"/>
+		<e:Label verticalAlign="middle" id="titleDisplay" textColor="0x654417" text="蒙娜丽莎" fontFamily="Microsoft YaHei" textAlign="center" size="26" width="127" bold="true" x="48" y="493"/>
+	</e:Group>
+</e:Skin>

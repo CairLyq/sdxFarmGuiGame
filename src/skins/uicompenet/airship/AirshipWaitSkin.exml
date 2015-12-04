@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="460" height="700" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset source="TC_dikuang" height="629" width="460" scale9Grid="149,88,71,194"/>
+	<e:UIAsset horizontalCenter="0" source="FKT_08" y="11"/>
+	<e:Label size="18" x="86" text="距离飞空艇回来还有" y="64" fontFamily="Microsoft YaHei"/>
+	<e:Label height="27" textColor="0x53EF16" stroke="2" strokeColor="0x5E3700" width="174" text="3分60秒" id="waitTime" bold="true" textAlign="left" size="18" y="63" x="251" fontFamily="Microsoft YaHei"/>
+	<e:UIAsset height="285" source="LC_baibang" width="430" scale9Grid="27,32,398,204" horizontalCenter="-1" y="92"/>
+	<e:UIAsset source="LC_dioahua" y="90" x="19"/>
+	<e:UIAsset source="LC_dioahua" scaleX="-1" y="90" x="440"/>
+	<e:UIAsset scaleY="-1" source="LC_dioahua" x="18" y="364"/>
+	<e:UIAsset scaleY="-1" scaleX="-1" source="LC_dioahua" y="365" x="439"/>
+	<e:Group id="refreshBtn" width="184" height="67" y="426" horizontalCenter="0">
+		<e:UIAsset source="KJ_daanniu" x="0" y="0"/>
+		<e:UIAsset source="TYER-zuanshi" y="19" x="130"/>
+		<e:Label textColor="0xFFFFFF" stroke="2" width="116" height="38" strokeColor="0x346a08" bold="true" fontFamily="Microsoft YaHei" textAlign="left" y="24" text="立即到达   10" size="18" x="20"/>
+	</e:Group>
+	<e:UIAsset source="SJ_15" scale9Grid="13,12,68,57" width="354" y="160" height="184" horizontalCenter="0"/>
+	<e:UIAsset id="item0" source="1503_hanbao" y="209" x="94"/>
+	<e:UIAsset id="item2" source="1503_hanbao" y="209" x="302"/>
+	<e:Label text="下次装箱预告" y="117" textColor="0x000000" size="24" horizontalCenter="0" fontFamily="Microsoft YaHei"/>
+	<e:UIAsset id="closeBtn" source="LC_guanbi" y="1" x="388"/>
+	<e:UIAsset id="item1" source="1503_hanbao" y="209" horizontalCenter="0"/>
+</e:Skin>

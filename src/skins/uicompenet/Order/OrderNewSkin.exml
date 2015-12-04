@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="449" height="193" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	
+	
+	<e:UIAsset width="247" height="171" source="DD_9" scale9Grid="16,16,247,100" horizontalCenter="-88" bottom="11"/>
+	<e:Label textColor="0x654417" width="231" bold="true" height="51" verticalAlign="bottom" text="该订单已取消。" textAlign="center" y="20" x="21" size="18"/>
+	<e:Label id="waitTime" stroke="2" width="230" height="37" strokeColor="0x5E3700" bold="true" text="3分60秒" fontFamily="Microsoft YaHei" textColor="0x53EF16" textAlign="center" y="131" x="13" size="20"/>
+	
+	<e:Label textColor="0x654417" fontFamily="Microsoft YaHei" width="231" height="51" textAlign="center" bold="true" verticalAlign="top" y="87" text="下一个订单将会出现在" x="20" size="18"/>
+	<e:Group id="refreshBtn" width="184" height="67" y="100" x="254">
+		<e:UIAsset source="KJ_daanniu" x="0" y="0"/>
+		<e:UIAsset source="TYER-zuanshi" x="122" y="19"/>
+		<e:Label textColor="0xFFFFFF" stroke="2" width="79" height="38" strokeColor="0x5E3700" bold="true" fontFamily="Microsoft YaHei" textAlign="left" size="16" text="刷新   1" y="26" x="51"/>
+	</e:Group>
+	<e:Label textColor="0x654417" fontFamily="Microsoft YaHei" width="151" height="51" verticalAlign="bottom" textAlign="center" bold="true" text="等候或加速" y="35" x="274" size="22"/>
+</e:Skin>

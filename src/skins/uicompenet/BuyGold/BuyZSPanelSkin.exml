@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="480" height="500" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset source="ZY_dikuang" horizontalCenter="0" bottom="0" locked="true"/>
+	
+	<e:Scroller id="scrollerDisplay" width="400" height="290" y="146" x="42">
+		<e:DataGroup id="dataGroup" height="290" width="400">
+			<e:layout>
+				<e:TileLayout requestedRowCount="2" verticalAlign="justify" horizontalGap="10" verticalGap="8"/>
+			</e:layout>
+		</e:DataGroup>
+	</e:Scroller>
+	<e:Group id="contentGroup" width="100%" height="100%" locked="true"/>
+	<e:UIAsset id="titleAsset" x="207" y="50" source="ZY_06" locked="true"/>
+	<e:UIAsset id="returnButton" source="KJ_fanhui" x="405" y="46" touchEnabled="true" visible="false" locked="true"/>
+	<e:UIAsset id="closeButton" source="LC_guanbi" x="405" y="46" touchEnabled="true" locked="true" visible="false"/>
+</e:Skin>

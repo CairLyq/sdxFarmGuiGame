@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="140" height="120" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.ItemRenderer"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="up"/>
+		<e:State name="down"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:Label text="/" width="12" height="32" bold="true" textAlign="center" verticalAlign="middle" textColor="7687192" fontFamily="Microsoft YaHei" x="86" y="48" size="16"/>
+	<e:Label id="totalLabel" width="42" bold="true" textColor="7687192" verticalAlign="middle" fontFamily="Microsoft YaHei" text="999" height="32" y="48.5" x="97" size="16" locked="true"/>
+	<e:Label id="currentLabel" width="46" textAlign="right" textColor="13186307" bold="true" verticalAlign="middle" fontFamily="Microsoft YaHei" text="888" height="32" y="48.5" x="42" size="16" locked="true"/>
+	<e:UIAsset id="meetAsset" source="KJ_gou" horizontalCenter="0" bottom="0" locked="true"/>
+	<e:Button id="addPostExtendBtn" label="按钮" skinName="skins.uicompenet.Depot.DepotExtendItemButtionSkin" scaleX="0.9" scaleY="0.9" height="38" horizontalCenter="0" bottom="0"/>
+	<e:UIAsset id="iconAsset" source="23_chuizi" anchorX="0.5" anchorY="0.5" left="36" top="36"/>
+	<e:HSlider scaleY="0.5" id="numberHSlider" skinName="skins.uicompenet.Roadsite.SoldPriceHSliderSkin" height="54" width="180" scaleX="0.5" x="22" y="91" locked="true" visible="false"/>
+</e:Skin>

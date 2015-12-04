@@ -1,0 +1,182 @@
+{"file": "merchant_notice_buy.png", "frames": {
+    "JBGMER-50": {
+        "x": 1,
+        "y": 349,
+        "w": 77,
+        "h": 63,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 77,
+        "sourceH": 63
+    },
+    "JBGMER-1000": {
+        "x": 344,
+        "y": 325,
+        "w": 77,
+        "h": 63,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 77,
+        "sourceH": 63
+    },
+    "JBGMER-2000": {
+        "x": 361,
+        "y": 252,
+        "w": 86,
+        "h": 71,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 86,
+        "sourceH": 71
+    },
+    "JBGMER-5000": {
+        "x": 177,
+        "y": 325,
+        "w": 75,
+        "h": 71,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 75,
+        "sourceH": 71
+    },
+    "JBGMER-15000": {
+        "x": 101,
+        "y": 325,
+        "w": 74,
+        "h": 74,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 74,
+        "sourceH": 74
+    },
+    "JBGMER-20000": {
+        "x": 422,
+        "y": 1,
+        "w": 86,
+        "h": 80,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 86,
+        "sourceH": 80
+    },
+    "ZSGMER-60": {
+        "x": 254,
+        "y": 355,
+        "w": 82,
+        "h": 57,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 82,
+        "sourceH": 57
+    },
+    "ZSGMER-300": {
+        "x": 257,
+        "y": 283,
+        "w": 85,
+        "h": 70,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 85,
+        "sourceH": 70
+    },
+    "ZSGMER-1280": {
+        "x": 257,
+        "y": 202,
+        "w": 102,
+        "h": 79,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 102,
+        "sourceH": 79
+    },
+    "ZSGMER-1980": {
+        "x": 422,
+        "y": 83,
+        "w": 85,
+        "h": 76,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 85,
+        "sourceH": 76
+    },
+    "ZSGMER-4880": {
+        "x": 1,
+        "y": 264,
+        "w": 98,
+        "h": 83,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 98,
+        "sourceH": 83
+    },
+    "ZSGMER-7800": {
+        "x": 151,
+        "y": 202,
+        "w": 104,
+        "h": 83,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 104,
+        "sourceH": 83
+    },
+    "LV-2": {
+        "x": 101,
+        "y": 287,
+        "w": 133,
+        "h": 29,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 133,
+        "sourceH": 29
+    },
+    "LX_3": {
+        "x": 361,
+        "y": 202,
+        "w": 147,
+        "h": 48,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 147,
+        "sourceH": 48
+    },
+    "LX-1": {
+        "x": 80,
+        "y": 401,
+        "w": 91,
+        "h": 39,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 91,
+        "sourceH": 39
+    },
+    "GG_07": {
+        "x": 1,
+        "y": 1,
+        "w": 419,
+        "h": 199,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 419,
+        "sourceH": 199
+    },
+    "GG_08": {
+        "x": 423,
+        "y": 325,
+        "w": 87,
+        "h": 46,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 87,
+        "sourceH": 46
+    },
+    "GG_11": {
+        "x": 1,
+        "y": 202,
+        "w": 148,
+        "h": 60,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 148,
+        "sourceH": 60
+    }
+}}

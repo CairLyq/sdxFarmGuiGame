@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="179" height="53" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.HSlider"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:Button id="track" skinName="skins.uicompenet.Roadsite.SoldPriceHSliderTrackSkin" horizontalCenter="0" verticalCenter="0"/>
+	<e:UIAsset source="SP-jian" x="48" y="16"/>
+	<e:Button id="thumb" label="按钮" skinName="skins.uicompenet.Roadsite.SoldHSliderThumbButtonSkin" y="0" x="64"/>
+</e:Skin>

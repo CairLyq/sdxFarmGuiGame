@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="121" height="136" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.Button"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="up"/>
+		<e:State name="down"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset verticalCenter="0" source="ZF_032" horizontalCenter="0" x="10" y="10" locked="true"/>
+	<e:UIAsset id="levelAsset" source="ZF_level" scaleX=".8" scaleY=".8" height="27" x="22" y="84" locked="true"/>
+	<e:BitmapLabel id="unlevelBmplabel" width="37" font="unlockLevel2_fnt" x="63" text="3" y="85"/>
+	<e:Label id="upperLabel" text="已上限" x="20" fontFamily="Arial" textColor="0x93D400" verticalAlign="middle" textAlign="center" bold="true" width="81" stroke="2" strokeColor="0x345B00" size="18" y="85" locked="true"/>
+</e:Skin>

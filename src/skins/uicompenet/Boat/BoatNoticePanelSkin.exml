@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="640" height="630" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:Group id="contentGroup" width="100%" height="100%"/>
+	
+	<e:UIAsset source="DB-XIAO" height="437" scale9Grid="80,50,480,27" horizontalCenter="0" bottom="0"/>
+	<e:UIAsset width="413" scale9Grid="11,11,27,46" height="100" source="SDER-dikuang" y="323" x="209"/>
+	<e:UIAsset source="SCJZ-npc" x="-88" y="0"/>
+	<e:UIAsset source="TYER-1_55" horizontalCenter="0" bottom="0"/>
+	<e:Label id="titleDisplay" width="127" x="48" y="493" size="26" verticalAlign="middle" textAlign="center" bold="true" fontFamily="Microsoft YaHei" text="蒙娜丽莎" textColor="6636567"/>
+	<e:Label text="距离飞空艇回来还有1小时24分" stroke="2" strokeColor="0x5D3000" fontFamily="Microsoft YaHei" bold="true" size="24" y="244" x="209"/>
+	<e:Label text="下次装箱预告：" size="20" fontFamily="Microsoft YaHei" textColor="2883584" y="288" x="209"/>
+	<e:UIAsset source="LC-hg" x="383" y="345"/>
+	<e:UIAsset source="LC-hug" x="509" y="343"/>
+	<e:UIAsset source="kj-lb" x="250" y="339"/>
+	<e:Button id="BoatBuyBtn" label="立刻发送" skinName="skins.uicompenet.Boat.BoatBuyButtonSkin" x="300" y="449"/>
+	
+	
+	
+</e:Skin>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="640" height="630" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:Group id="contentGroup" width="100%" height="100%"/>
+
+	<e:UIAsset height="457" source="DB-XIAO" scale9Grid="80,50,480,27" horizontalCenter="0" bottom="0"/>
+	<e:UIAsset id="returnBtn" source="KJ-fanhui" x="560" y="160"/>
+	<e:UIAsset source="DB1" height="254" scale9Grid="10,9,30,50" width="420" horizontalCenter="92" bottom="136"/>
+	<e:UIAsset id="npc" source="SCJZ-npc" width="259" height="487" x="-58" y="31"/>
+	<e:UIAsset source="TYER-1_55" horizontalCenter="0" bottom="0"/>
+	<e:Label textColor="0x654417" text="蒙娜丽莎" id="titleDisplay" width="127" x="48" y="493" size="26" verticalAlign="middle" textAlign="center" bold="true" fontFamily="Microsoft YaHei"/>
+	<e:UIAsset source="SDER-dikuang" scale9Grid="15,13,125,142" width="398" height="151" y="251" x="213"/>
+	<e:Button id="soldDownBtn" skinName="skins.uicompenet.Roadsite.SoldDownButtonSkin" label="下架" width="179" x="328" y="421"/>
+	<e:UIAsset id="goodsAsset" source="sp-lajiao" y="296" x="247"/>
+	<e:Label id="goodsNumLabel" stroke="2" fontFamily="Arial" size="20" strokeColor="0x5D3000" width="71" text="10" bold="true" y="313" x="307"/>
+	<e:UIAsset source="SP-jiantou" y="302" x="381"/>
+	<e:Label id="goodsPriceLabel" fontFamily="Arial" size="20" strokeColor="0x5D3000" width="89" stroke="2" bold="true" y="313" x="520" text="30"/>
+	<e:UIAsset source="ZJMER-jinbi" y="303" x="472"/>
+</e:Skin>

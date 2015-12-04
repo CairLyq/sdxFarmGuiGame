@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="480" height="500" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset source="ZY_dikuang" horizontalCenter="0" bottom="0" locked="true"/>
+	<e:UIAsset id="titleAsset" source="ZY_01" autoScale="false" horizontalCenter="10" y="50" locked="true"/>
+	<e:Scroller height="299" id="scrollerDisplay" width="400" x="42" y="138" horizontalScrollPolicy="on">
+		<e:Group id="dataGroup" width="400" height="299">
+			<e:layout>
+				<e:TileLayout id="dataLayout" requestedRowCount="2" verticalAlign="justify" horizontalGap="10" verticalGap="0" horizontalAlign="left" requestedColumnCount="3" orientation="columns"/>
+			</e:layout>
+		</e:Group>
+	</e:Scroller>
+	<e:UIAsset id="returnButton" cacheAsBitmap="false" touchEnabled="true" x="405" y="46" source="KJ_fanhui" locked="true"/>
+	<e:UIAsset id="arrowRight" source="LC_jiantou" x="447" y="278.5" alpha=".6" locked="true"/>
+	<e:UIAsset id="arrowLeft" source="LC_jiantou" scaleX="-1" x="34" y="278.5" alpha=".6" locked="true"/>
+	<e:UIAsset id="loadMoreAsset" source="Socket_jiazai" cacheAsBitmap="false" alpha="0.6" scaleX=".5" scaleY=".5" anchorX="0.5" anchorY="0.5" y="287" x="45" locked="true" visible="false"/>
+	
+	
+	
+</e:Skin>

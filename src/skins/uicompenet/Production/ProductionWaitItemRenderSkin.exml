@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="95" height="71" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.Button"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset id="boxAsset" horizontalCenter="0" verticalCenter="0" source="SCJZ_xiangzi"/>
+	<e:UIAsset id="iconAsset" fillMode="scale" scaleX="0.7" scaleY="0.7" x="22" y="26" width="64" height="64"/>
+	<e:UIAsset id="capAsset" source="SCJZ_dikuanglantou" x="15" width="61" height="35" y="-14" locked="true" visible="false"/>
+</e:Skin>

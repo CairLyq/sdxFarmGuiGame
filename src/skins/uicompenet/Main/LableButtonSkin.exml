@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.Button"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="up"/>
+		<e:State name="down"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset id="iconDisplay" y="0" x="0" source="TY_LB_tiaoloujia"/>
+	<e:Label id="labelDisplay" rotation="-45" fontFamily="Microsoft YaHei" bold="true" text="跳楼价" size="14" textAlign="center" width="53" x="-4" y="30"/>
+</e:Skin>

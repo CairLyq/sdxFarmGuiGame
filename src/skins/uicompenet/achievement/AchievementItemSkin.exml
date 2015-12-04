@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="140" height="280" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset textAlign="center" verticalAlign="top" source="MRRW_07" horizontalCenter="0" locked="true"/>
+	<e:UIAsset y="11" horizontalCenter="0" source="CH-1" locked="true"/>
+	<e:Label id="awardLabel1" textColor="0xFFFFFF" text="17" size="20" stroke="2" width="40" verticalAlign="middle" strokeColor="0x5E3700" height="24" bold="true" textAlign="center" x="63" y="198" fontFamily="Microsoft YaHei"/>
+	<e:Label id="awardLabel0" textColor="0xFFFFFF" text="50" size="20" stroke="2" width="40" verticalAlign="middle" strokeColor="0x5E3700" height="24" bold="true" textAlign="center" x="63" y="167" fontFamily="Microsoft YaHei"/>
+	<e:UIAsset id="awardIcon1" scaleY="0.8" source="ZJMER-jinyan" width="38" scaleX="0.8" height="38" y="10" top="195" x="28"/>
+	<e:UIAsset id="awardIcon0" x="30" source="cj-zuans" y="167"/>
+	<e:UIAsset id="starGray1" y="11" horizontalCenter="0" source="CH-2da" locked="true"/>
+	<e:UIAsset id="star1" y="11" horizontalCenter="0" source="CH-3da" locked="true"/>
+	<e:UIAsset id="starGray0" x="31" y="21" source="CH-4xiao" locked="true"/>
+	<e:UIAsset id="star0" x="31" y="21" source="CH-5xiao" locked="true"/>
+	<e:UIAsset id="starGray2" x="81" y="21" source="CH-4xiao" locked="true"/>
+	<e:UIAsset id="star2" x="81" y="21" source="CH-5xiao" locked="true"/>
+	<e:Group id="acceptBtn" y="224" horizontalCenter="0">
+		<e:UIAsset source="TC_anniu1"/>
+		<e:Label text="领取奖励" fontFamily="Microsoft YaHei" x="16" size="18" strokeColor="0x3C6602" y="12"/>
+	</e:Group>
+	<e:Label height="50" textColor="0x683802" text="使用生产建筑生产10个产物" size="16" width="119" id="discriptLable" verticalAlign="top" textAlign="center" bold="true" x="10" y="93" horizontalCenter="0" fontFamily="Microsoft YaHei"/>
+	<e:Label id="title" height="29" width="119" verticalAlign="top" bold="true" textAlign="center" x="20" text="养鸟大户" size="18" textColor="0x4F2800" horizontalCenter="0.5" y="66" fontFamily="Microsoft YaHei" locked="true"/>
+	<e:UIAsset y="141" horizontalCenter="0.5" source="CH-6"/>
+	<e:UIAsset id="progressBar" y="141" x="13" source="CH-7" scale9Grid="10,11,96,3"/>
+	<e:Label id="progressLabel" verticalAlign="middle" strokeColor="0x5E3700" textColor="0xFFFFFF" fontFamily="Microsoft YaHei" stroke="2" width="96" height="23" textAlign="center" bold="true" y="141" size="16" horizontalCenter="0" text="50/50"/>
+	<e:UIAsset id="moonGray0" source="CJ-yueliang2" x="39" y="18"/>
+	<e:UIAsset id="moonGray1" source="CJ-yueliang2" x="79" y="18"/>
+	<e:UIAsset id="moon0" source="CJ-yueliang1" x="39" y="18"/>
+	<e:UIAsset id="moon1" source="CJ-yueliang1" x="79" y="18"/>
+</e:Skin>

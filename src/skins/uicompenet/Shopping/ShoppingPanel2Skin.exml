@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?><e:Skin width="640" height="630" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">	<w:HostComponent name="egret.gui.SkinnableComponent"/>	<w:Declarations/>	<e:states>		<e:State name="normal"/>		<e:State name="disabled"/>	</e:states>
+	<e:UIAsset source="DB-XIAO" horizontalCenter="0" bottom="0" height="446" scale9Grid="80,50,480,27"/>
+	<e:UIAsset source="DB1" width="441" height="229" scale9Grid="10,9,30,50" horizontalCenter="90.5" bottom="128"/>	<e:Scroller id="scrollerDisplay_contents" height="184" left="197" right="11" top="297">		<e:DataGroup id="dataGroup_contents" width="429" height="200" x="0">			<e:layout>				<e:HorizontalLayout gap="0" id="layout_contents"/>			</e:layout>		</e:DataGroup>	</e:Scroller>			<e:Scroller id="scrollerDisplay_tabs" height="50" left="200" right="14" y="223">		<e:Group id="tabGroup" width="420" height="50" x="0" />	</e:Scroller>
+	<e:UIAsset id="npc" width="261" height="487" x="-70" y="32"/>
+	<e:UIAsset source="TYER-1_55" width="619" bottom="0" horizontalCenter="0"/>
+	<e:Label verticalAlign="middle" id="titleDisplay" textColor="0x654417" text="蒙娜丽莎" fontFamily="Microsoft YaHei" textAlign="center" size="26" width="128" bold="true" x="50" y="494"/>
+	<e:Group id="contentGroup" width="100%" height="100%"/>			</e:Skin>

@@ -1,0 +1,13 @@
+{
+    "texture": "product_particle.png",
+    "emitter": {
+        "x": 0,
+        "y": 0
+    }, "rotatePerSecondVariance": 10, "endSize": 0, "startRedVariance": 0, "emitAngle": 90, "endAlphaVariance": 0.9529411764705882, "duration": -1, "startGreenVariance": 0, "startRotation": 0, "endBlueVariance": 0, "startRotationVariance": 0, "endGreen": 255, "emitAngleVariance": 0, "endRotation": 0, "endRed": 255, "gravity": {
+    "x": 20,
+    "y": -552.57
+}, "endRotationVariance": 0, "engGreenVariance": 0, "startAlphaVariance": 0.6941176470588235, "endRedVariance": 0, "emitterVariance": {
+    "x": 64,
+    "y": 14
+}, "startBlueVariance": 0, "maxParticles": 206, "emitterType": 0, "blendFactorSource": "one", "speedVariance": 0, "radialAcceleration": -200, "blendFactorDestination": "oneMinusSourceAlpha", "speed": 6, "radialAccelerationVariance": 200, "startGreen": 255, "startBlue": 255, "startAlpha": 0.29411764705882354, "endAlpha": 0.8156862745098039, "lifespanVariance": 0, "startRed": 255, "tangentialAcceleration": 0, "maxRadiusVariance": 30, "lifespan": 1000, "tangentialAccelerationVariance": 0, "minRadius": 20, "endBlue": 255, "maxRadius": 100, "minRadiusVariance": 10, "startSize": 11.41, "endSizeVariance": 1, "rotatePerSecond": 30, "startSizeVariance": 21.82
+}

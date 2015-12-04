@@ -1,0 +1,212 @@
+{"file": "depot.png", "frames": {
+    "CC_03": {
+        "x": 195,
+        "y": 662,
+        "w": 138,
+        "h": 61,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 138,
+        "sourceH": 61
+    },
+    "CC_05": {
+        "x": 452,
+        "y": 613,
+        "w": 50,
+        "h": 50,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 50,
+        "sourceH": 50
+    },
+    "CC_07": {
+        "x": 452,
+        "y": 552,
+        "w": 49,
+        "h": 59,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 49,
+        "sourceH": 59
+    },
+    "CC_15": {
+        "x": 195,
+        "y": 725,
+        "w": 79,
+        "h": 24,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 79,
+        "sourceH": 24
+    },
+    "KJ_daanniu": {
+        "x": 1,
+        "y": 662,
+        "w": 192,
+        "h": 69,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 192,
+        "sourceH": 69
+    },
+    "KJ_di": {
+        "x": 335,
+        "y": 662,
+        "w": 114,
+        "h": 37,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 114,
+        "sourceH": 37
+    },
+    "KJ_fanhui": {
+        "x": 452,
+        "y": 442,
+        "w": 55,
+        "h": 53,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 55,
+        "sourceH": 53
+    },
+    "KJ_gou": {
+        "x": 89,
+        "y": 733,
+        "w": 37,
+        "h": 29,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 37,
+        "sourceH": 29
+    },
+    "KJ_queding": {
+        "x": 451,
+        "y": 665,
+        "w": 52,
+        "h": 31,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 52,
+        "sourceH": 31
+    },
+    "LC_baibang": {
+        "x": 1,
+        "y": 334,
+        "w": 449,
+        "h": 269,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 449,
+        "sourceH": 269
+    },
+    "LC_diban": {
+        "x": 1,
+        "y": 1,
+        "w": 480,
+        "h": 331,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 480,
+        "sourceH": 331
+    },
+    "LC_ding": {
+        "x": 335,
+        "y": 701,
+        "w": 81,
+        "h": 38,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 81,
+        "sourceH": 38
+    },
+    "LC_dingx": {
+        "x": 418,
+        "y": 701,
+        "w": 77,
+        "h": 32,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 77,
+        "sourceH": 32
+    },
+    "LC_dioahua": {
+        "x": 452,
+        "y": 334,
+        "w": 58,
+        "h": 51,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 58,
+        "sourceH": 51
+    },
+    "LC_guanbi": {
+        "x": 452,
+        "y": 387,
+        "w": 55,
+        "h": 53,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 55,
+        "sourceH": 53
+    },
+    "LC_huocang": {
+        "x": 45,
+        "y": 733,
+        "w": 42,
+        "h": 27,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 42,
+        "sourceH": 27
+    },
+    "LC_jia": {
+        "x": 276,
+        "y": 725,
+        "w": 34,
+        "h": 36,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 34,
+        "sourceH": 36
+    },
+    "LC_jiantou": {
+        "x": 483,
+        "y": 1,
+        "w": 10,
+        "h": 15,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 10,
+        "sourceH": 15
+    },
+    "LC_liangc": {
+        "x": 1,
+        "y": 733,
+        "w": 42,
+        "h": 28,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 42,
+        "sourceH": 28
+    },
+    "LC_tiao": {
+        "x": 1,
+        "y": 605,
+        "w": 449,
+        "h": 55,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 449,
+        "sourceH": 55
+    },
+    "LC—guanbi": {
+        "x": 452,
+        "y": 497,
+        "w": 55,
+        "h": 53,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 55,
+        "sourceH": 53
+    }
+}}

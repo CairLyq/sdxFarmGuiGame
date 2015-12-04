@@ -1,0 +1,45 @@
+﻿{
+    "mc": {
+        "finger": {
+            "frameRate": 2,
+            "labels": [
+                {
+                    "name": "start",
+                    "frame": 1
+                },
+                {
+                    "name": "end",
+                    "frame": 2
+                }
+            ],
+            "frames": [
+                {
+                    "res": "finger0000",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 1
+                },
+                {
+                    "res": "finger0001",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 1
+                }
+            ]
+        }
+    },
+    "res": {
+        "finger0000": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 75
+        },
+        "finger0001": {
+            "x": 64,
+            "y": 0,
+            "w": 64,
+            "h": 75
+        }
+    }
+}

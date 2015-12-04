@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "cropSpeedUp": 1,
+        "recharge": 1,
+        "productionSpeedUp": 1,
+        "treeSpeedUp": 1,
+        "vipDesc": "特权描述1",
+        "vipLevel": 1
+    },
+    {
+        "id": 2,
+        "cropSpeedUp": 2,
+        "recharge": 10,
+        "productionSpeedUp": 2,
+        "treeSpeedUp": 2,
+        "vipDesc": "特权描述2",
+        "vipLevel": 2
+    },
+    {
+        "id": 3,
+        "cropSpeedUp": 3,
+        "recharge": 100,
+        "productionSpeedUp": 3,
+        "treeSpeedUp": 3,
+        "vipDesc": "特权描述3",
+        "vipLevel": 3
+    },
+    {
+        "id": 4,
+        "cropSpeedUp": 5,
+        "recharge": 200,
+        "productionSpeedUp": 5,
+        "treeSpeedUp": 5,
+        "vipDesc": "特权描述4",
+        "vipLevel": 4
+    },
+    {
+        "id": 5,
+        "cropSpeedUp": 8,
+        "recharge": 500,
+        "productionSpeedUp": 8,
+        "treeSpeedUp": 8,
+        "vipDesc": "特权描述5",
+        "vipLevel": 5
+    },
+    {
+        "id": 6,
+        "cropSpeedUp": 12,
+        "recharge": 1000,
+        "productionSpeedUp": 12,
+        "treeSpeedUp": 12,
+        "vipDesc": "特权描述6",
+        "vipLevel": 6
+    },
+    {
+        "id": 7,
+        "cropSpeedUp": 20,
+        "recharge": 2000,
+        "productionSpeedUp": 20,
+        "treeSpeedUp": 20,
+        "vipDesc": "特权描述7",
+        "vipLevel": 7
+    },
+    {
+        "id": 8,
+        "cropSpeedUp": 35,
+        "recharge": 5000,
+        "productionSpeedUp": 35,
+        "treeSpeedUp": 35,
+        "vipDesc": "特权描述8",
+        "vipLevel": 8
+    },
+    {
+        "id": 9,
+        "cropSpeedUp": 50,
+        "recharge": 10000,
+        "productionSpeedUp": 50,
+        "treeSpeedUp": 50,
+        "vipDesc": "特权描述9",
+        "vipLevel": 9
+    },
+    {
+        "id": 10,
+        "cropSpeedUp": 70,
+        "recharge": 20000,
+        "productionSpeedUp": 70,
+        "treeSpeedUp": 70,
+        "vipDesc": "特权描述10",
+        "vipLevel": 10
+    }
+]

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="140" height="270" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="up"/>
+	</e:states>
+	<e:UIAsset source="MRRW_07" textAlign="center" verticalAlign="top" horizontalCenter="0" locked="true"/>
+	<e:Button id="acceptBtn" skinName="skins.uicompenet.Buttons.TCButtonSkin" label="领取奖励" anchorX="0.5" anchorY="0.5" x="70" y="240"/>
+	<e:Label id="dayLabel" verticalAlign="middle" textAlign="center" horizontalCenter="0" y="19" size="22" text="第 7 天" textColor="0x000000" bold="true" fontFamily="Microsoft Yahei"/>
+	<e:Button id="itemBtn" skinName="skins.uicompenet.System.LoginRewardButtonSkin" label="50" icon="26_youqi" y="159" x="19"/>
+	<e:Button id="goldBtn" skinName="skins.uicompenet.System.LoginRewardButtonSkin" label="20" icon="ZJMER-jinbi" y="111" x="19"/>
+	<e:Button id="diamondBtn" skinName="skins.uicompenet.System.LoginRewardButtonSkin" label="18" icon="ZJMER-zuanshi" y="60" x="19"/>
+	<e:UIAsset id="lockAsset" height="260" source="XZ_chahei" width="135" scale9Grid="12,18,52,33" x="2" y="2" locked="true" visible="false"/>
+	<e:UIAsset id="lockIconAsset" horizontalCenter="0" verticalCenter="0" source="ZJM_052" x="10" y="10" locked="true" visible="false"/>
+</e:Skin>

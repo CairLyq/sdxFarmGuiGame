@@ -1,0 +1,10 @@
+{
+    "name": "Payaccount",
+    "dependence": [],
+    "source": "src/gamexunLogin/Payaccount",
+    "file_list": [
+        "Payaccount.min.js",
+        "Payaccount.d.ts",
+        "zepto.d.ts"
+    ]
+}

@@ -1,0 +1,72 @@
+{"file": "breedingPlant_farm.png", "frames": {
+    "YZ_02": {
+        "x": 1,
+        "y": 1,
+        "w": 480,
+        "h": 279,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 480,
+        "sourceH": 279
+    },
+    "YZ_07": {
+        "x": 1,
+        "y": 282,
+        "w": 268,
+        "h": 114,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 268,
+        "sourceH": 114
+    },
+    "YZ_12": {
+        "x": 333,
+        "y": 383,
+        "w": 45,
+        "h": 37,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 45,
+        "sourceH": 37
+    },
+    "BZ_yuandi": {
+        "x": 271,
+        "y": 383,
+        "w": 60,
+        "h": 80,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 60,
+        "sourceH": 80
+    },
+    "BZ_yuandihui": {
+        "x": 418,
+        "y": 282,
+        "w": 60,
+        "h": 80,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 60,
+        "sourceH": 80
+    },
+    "BZ_yuandihui2": {
+        "x": 418,
+        "y": 364,
+        "w": 60,
+        "h": 80,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 60,
+        "sourceH": 80
+    },
+    "YZ_05": {
+        "x": 271,
+        "y": 282,
+        "w": 145,
+        "h": 99,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 145,
+        "sourceH": 99
+    }
+}}

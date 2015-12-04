@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.Button"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="up"/>
+		<e:State name="down"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset horizontalCenter="0" source="TC_anniu1" x="0" y="0"/>
+	<e:Label id="labelDisplay" size="18" y="13" text="领取奖励" fontFamily="Microsoft YaHei" stroke="2" strokeColor="0x3C6602" x="14"/>
+</e:Skin>

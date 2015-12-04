@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="480" height="630" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset id="Doing" source="SCJZ_xiaodilan" y="449" x="5"/>
+	<e:UIAsset scale9Grid="80,50,480,27" height="282" source="SCJZ_dadilan" width="479" y="67" horizontalCenter="0"/>
+	<e:UIAsset scale9Grid="56,33,337,203" width="452" height="237" source="LC_baibang" y="91" x="13"/>
+	<e:UIAsset source="LC_dioahua" y="88" x="10"/>
+	<e:UIAsset source="LC_dioahua" scaleX="-1" x="470" y="88"/>
+	<e:UIAsset source="LC_dioahua" scaleY="-1" x="10" y="328"/>
+	<e:UIAsset source="LC_dioahua" scaleX="-1" scaleY="-1" x="470" y="328"/>
+	<e:UIAsset source="SCJZ_dikuanglan" x="24" y="109" cacheAsBitmap="false"/>
+	<e:UIAsset scale9Grid="56,33,337,203" id="productList" source="LC_baibang" x="14" height="112" y="469" width="450"/>
+	<e:UIAsset source="LC_dioahua" y="460" x="10"/>
+	<e:UIAsset source="LC_dioahua" scaleX="-1" y="460" x="469"/>
+	<e:UIAsset scaleY="-1" source="LC_dioahua" x="10" y="594"/>
+	<e:UIAsset scaleY="-1" source="LC_dioahua" scaleX="-1" y="594" x="469"/>
+	
+	<e:Scroller id="scrollerDisplay" width="420" height="79" y="486" horizontalCenter="-1" horizontalScrollPolicy="auto" verticalScrollPolicy="off">
+		<e:Group id="dataGroupDisplay" height="79">
+			<e:layout>
+				<e:HorizontalLayout verticalAlign="contentJustify" horizontalAlign="center"/>
+			</e:layout>
+		</e:Group>
+	</e:Scroller>
+	<e:UIAsset id="arrowRight" source="LC_jiantou" x="442" y="518" alpha=".5"/>
+	<e:UIAsset id="arrowLeft" source="LC_jiantou" scaleX="-1" x="33" y="518" alpha=".5"/>
+	
+	<e:Group id="contentGroup" width="430" height="199" x="24" y="103">
+		<e:Group id="waitDataGroupDisplay" width="260" height="162" x="172" y="37">
+			<e:layout>
+				<e:TileLayout requestedRowCount="2" horizontalAlign="left" verticalAlign="justify" columnAlign="justifyUsingGap" rowAlign="justifyUsingGap" verticalGap="6" horizontalGap="-10"/>
+			</e:layout>
+		</e:Group>
+	</e:Group>
+	<e:Button id="closeButton" label="按钮" x="405" y="32" skinName="skins.simple.CloseButtonSkin"/>
+	<e:Label id="titleDisplay" text="标签" bold="true" fontFamily="Arial" width="188" textAlign="center" x="206" verticalAlign="middle" y="106" textColor="0x603C05" size="22"/>
+	<e:Group id="complateGroup" width="378" height="70" y="16" x="21" touchEnabled="true">
+		<e:layout>
+			<e:HorizontalLayout gap="0" verticalAlign="contentJustify" horizontalAlign="center"/>
+		</e:layout>
+	</e:Group>
+</e:Skin>

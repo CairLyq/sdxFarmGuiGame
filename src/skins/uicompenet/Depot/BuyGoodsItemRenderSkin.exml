@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="100" height="120" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.ItemRenderer"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="up"/>
+		<e:State name="down"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset id="iconAsset" source="101_xiaomai" anchorX="0.5" anchorY="0.5" touchEnabled="true" x="51" y="35"/>
+	<e:Label text="/" width="12" height="32" bold="true" textAlign="center" verticalAlign="middle" size="18" textColor="7687192" fontFamily="Microsoft YaHei" y="70" x="44"/>
+	<e:Label id="totalLabel" width="42" bold="true" textColor="7687192" verticalAlign="middle" fontFamily="Microsoft YaHei" text="999" height="32" y="70" x="55" size="18"/>
+	<e:Label id="currentLabel" width="46" textAlign="right" textColor="13186307" bold="true" verticalAlign="middle" fontFamily="Microsoft YaHei" text="888" height="32" y="70" x="0" size="18"/>
+	<e:HSlider id="numberHSlider" skinName="skins.uicompenet.Roadsite.SoldPriceHSliderSkin" scaleX=".5" scaleY=".5" width="180" height="54" x="4" y="101"/>
+</e:Skin>

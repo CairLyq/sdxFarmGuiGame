@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing" width="201" height="141">
+	<w:HostComponent name="egret.gui.ItemRenderer"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="up"/>
+		<e:State name="down"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset horizontalCenter="0" verticalCenter="0" width="201" height="141" source="ZY_baidibang" scale9Grid="18,17,85,103"/>
+	<e:UIAsset source="LV-2" scale9Grid="9,8,115,12" x="19" width="162" y="11"/>
+	<e:Label id="nickNameLabel" x="21" textColor="0x381C05" bold="true" width="98" verticalAlign="middle" text="昵称" textAlign="right" fontFamily="Microsoft YaHei" size="18" y="14"/>
+	<e:Button id="buyButton" skinName="skins.uicompenet.MerchantPerson.MerchantBuyButtonSkin" anchorX="0.5" anchorY="0.5" width="90" height="40" x="150" y="111"/>
+	<e:UIAsset source="SZ_touxiang" x="126" y="7"/>
+	<e:UIAsset id="headAsset" x="132" source="SZ_tx" autoScale="true" width="51" height="53" y="18"/>
+	<e:Label id="itemNumLabel" stroke="0" strokeColor="0x381C05" width="54" text="5" fontFamily="Arial" bold="true" size="20" y="77" x="62" textColor="0x6D5441"/>
+	<e:UIAsset id="iconAsset" x="2" source="107_nangua" y="44"/>
+	<e:UIAsset source="Dd-jib" x="19" y="101"/>
+	<e:Label id="itemNameLabel" text="标签" bold="true" stroke="0" strokeColor="0x381C05" verticalAlign="middle" width="96" x="21" textAlign="right" fontFamily="Microsoft YaHei" textColor="0x6D5441" size="16" y="43"/>
+	<e:Label id="priceLabel" width="54" bold="true" text="10" fontFamily="Arial" size="18" y="109" x="60" textColor="0x452A17"/>
+	<e:UIAsset id="lockAsset" source="XZ_di" scale9Grid="22,19,195,84" x="0" width="200" y="3" height="133" visible="false" locked="true"/>
+	<e:Button id="labelButton" skinName="skins.uicompenet.Main.LableButtonSkin" icon="TY_LB_tiaoloujia" label="跳楼价"/>
+</e:Skin>

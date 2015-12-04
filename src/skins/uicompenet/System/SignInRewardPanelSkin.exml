@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?><e:Skin width="480" height="480" currentState="up" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">	<w:HostComponent name="egret.gui.SkinnableComponent"/>	<w:Declarations/>	<e:states>		<e:State name="normal"/>	</e:states>
+	<e:UIAsset scale9Grid="166,99,42,181" x="2" width="476" height="479" y="0" source="TC_dikuang" locked="true"/>
+	<e:UIAsset source="LC_baibang" scale9Grid="56,33,337,203" x="15" height="400" y="62" locked="true"/>
+	<e:UIAsset y="15" source="QD-1" x="173" locked="true"/>
+	<e:Button id="closeBtn" label="按钮" skinName="skins.simple.CloseButtonSkin" x="443.5" y="29.5" anchorX="0.5" anchorY="0.5"/>
+	<e:UIAsset cacheAsBitmap="false" source="LC_dioahua" x="12" y="66" locked="true"/>
+	<e:UIAsset scaleY="-1" source="LC_dioahua" height="52" cacheAsBitmap="false" x="12" y="462" locked="true"/>
+	<e:UIAsset scaleY="-1" source="LC_dioahua" cacheAsBitmap="false" scaleX="-1" height="52" x="466" y="462" locked="true"/>
+	<e:UIAsset source="LC_dioahua" cacheAsBitmap="false" scaleX="-1" height="52" x="466" y="66" locked="true"/>
+	<e:Label text="本月累计签到：" x="37" y="82" textColor="0x000000" size="22" fontFamily="微软雅黑" verticalAlign="middle" textAlign="left"/>
+	<e:Label id="totalDayLabel" text="2天" x="195" y="82" size="22" textColor="0x000000" fontFamily="微软雅黑" verticalAlign="middle" textAlign="left" maxDisplayedLines="1"/>
+	<e:Scroller id="scrollerDisplay" width="420" height="320" x="29" y="118" verticalScrollPolicy="off" horizontalScrollPolicy="on">
+		<e:Group id="dataGroup">
+			<e:layout>
+				<e:TileLayout id="dataLayout" requestedRowCount="3"/>
+			</e:layout>
+		</e:Group>
+	</e:Scroller>
+	<e:UIAsset id="arrowRight" source="LC_jiantou" alpha="0.6" x="446" y="264" locked="true"/>
+	<e:UIAsset id="arrowLeft" scaleX="-1" source="LC_jiantou" alpha="0.6" x="33" y="264" locked="true"/></e:Skin>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="480" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset id="bgAsset" source="TC_dikuang" height="370" width="466" fillMode="scale" scale9Grid="166,99,42,181" x="10" y="10" horizontalCenter="0" locked="true"/>
+	<e:UIAsset height="283" source="LC_baibang" scale9Grid="56,33,337,203" width="439" y="79" x="20" locked="true"/>
+	<e:Button id="confirmBtn" label="确认" width="183" skinName="skins.simple.ButtonSkin" x="10" y="10" horizontalCenter="-2.5" bottom="52"/>
+	<e:Button label="按钮" id="closeButton" skinName="skins.simple.CloseButtonSkin" y="18" x="408"/>
+	<e:UIAsset source="TC_tishi" x="208" y="23" locked="true"/>
+	<e:Rect width="386" height="37" x="46" y="167" fillColor="0xD3BD9C" locked="true"/>
+	<e:EditableText id="nickNameLabel" width="379" text="您的昵称" clipAndEnableScrolling="false" maxChars="7" selectable="true" editable="true" focusEnabled="true" fontFamily="Microsoft YaHei" heightInLines="1" textColor="0x33200D" size="18" textAlign="left" x="50" verticalAlign="middle" y="177" bold="true"/>
+	<e:Label text="请输入新昵称：" x="48" size="20" y="134" fontFamily="微软雅黑" textColor="0x5E3A1A" bold="true"/>
+	<e:UIAsset source="LC_dioahua" x="15" y="75" locked="true"/>
+	<e:UIAsset source="LC_dioahua" scaleY="-1" x="15" y="365" locked="true"/>
+	<e:UIAsset scaleY="-1" source="LC_dioahua" scaleX="-1" x="464" y="365" locked="true"/>
+	<e:UIAsset scaleX="-1" source="LC_dioahua" y="75" x="464" locked="true"/>
+	<e:Label id="tipsLabel" text="标签" x="47" y="211" size="18" textColor="0xE94008" width="390" fontFamily="微软雅黑" verticalAlign="middle" textAlign="left" bold="true" locked="true" visible="false"/>
+</e:Skin>

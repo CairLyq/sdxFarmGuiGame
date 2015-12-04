@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="640" height="630" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:Group id="contentGroup" width="100%" height="100%">
+		
+	</e:Group>
+	<e:UIAsset source="DB-XIAO" height="437" scale9Grid="80,50,480,27" horizontalCenter="0" bottom="0"/>
+	<e:UIAsset id="returnBtn" source="KJ-fanhui" x="565" y="182"/>
+	<e:UIAsset width="294" scale9Grid="10,9,30,50" height="217" x="209" source="DB1" y="276"/>
+	<e:UIAsset source="SCJZ-npc" x="-88" y="0"/>
+	<e:UIAsset source="TYER-1_55" horizontalCenter="0" bottom="0"/>
+	<e:Label id="titleDisplay" width="127" x="48" y="493" size="26" verticalAlign="middle" textAlign="center" bold="true" fontFamily="Microsoft YaHei" text="蒙娜丽莎" textColor="6636567"/>
+	<e:Label stroke="2" fontFamily="Microsoft YaHei" size="24" strokeColor="0x5D3000" bold="true" text="来自餐厅的订单：" x="209" y="235"/>
+	<e:UIAsset scale9Grid="10,9,52,53" source="FKT-dingdan" x="541" y="316"/>
+	<e:UIAsset source="FKT-zhuanghuo" x="543" y="319" touchEnabled="true"/>
+	<e:UIAsset scale9Grid="10,9,52,53" source="FKT-dingdan" x="541" y="409"/>
+	<e:UIAsset source="FKT-qiuzhu" x="543" y="413" touchEnabled="true"/>
+	<e:UIAsset scale9Grid="10,9,52,53" source="FKT-dingdanbang" x="265" y="278"/>
+	<e:UIAsset id="iconAsset" x="276" y="10" bottom="227" source="KJ-qiez" height="60"/>
+	<e:Label height="34" textColor="0x000000" text="/" fontFamily="Arial" textAlign="center" size="24" verticalAlign="middle" width="16" bold="true" x="380" y="358"/>
+	<e:Label textColor="0x000000" fontFamily="Arial" size="24" id="totalLabel" width="43" bold="true" x="394" y="360" height="32" text="8"/>
+	<e:Label id="currentLabel" textColor="0xC93503" fontFamily="Arial" textAlign="right" size="24" width="43" bold="true" y="360" height="32" text="0" x="339"/>
+	<e:UIAsset source="ZJMER-jinyan" scaleX="0.7" scaleY="0.7" width="49" y="431" height="49" x="354"/>
+	<e:UIAsset source="ZJMER-jinbi" scaleX="0.7" scaleY="0.7" height="48" x="271" y="431"/>
+	<e:Label id="priceLabel" text="123" width="53" height="28" size="20" fontFamily="Arial" bold="true" stroke="2" strokeColor="0x5D3000" verticalAlign="middle" x="301" y="434"/>
+	<e:Label id="experienLabel" strokeColor="0x5D3000" text="123" fontFamily="Arial" height="28" size="20" verticalAlign="middle" width="54" stroke="2" bold="true" x="386" y="434"/>
+	
+</e:Skin>

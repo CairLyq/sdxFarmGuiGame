@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="480" height="800" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing" xmlns:game="game.*">
+	<w:HostComponent name="egret.gui.Panel"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+	</e:states>
+	<e:Group id="contentGroup" width="100%" height="100%">
+		<e:UIAsset horizontalCenter="0" verticalCenter="0" source="XBXZ_8bg"/>
+		<e:Label text="请输入您的昵称（不超过6个字）" width="452" height="40" textAlign="center" size="20" verticalAlign="middle" fontFamily="微软雅黑" horizontalCenter="0" top="523"/>
+		<e:UIAsset source="XBXZ_5" y="560" horizontalCenter="0"/>
+		<e:Button id="gameStartBtn" label="按钮" skinName="skins.uicompenet.Main.MainGameStartButtonSkin" horizontalCenter="0" y="651"/>
+		<e:EditableText id="nameLabel" width="147" text="我叫NPC" textAlign="center" clipAndEnableScrolling="false" cacheAsBitmap="false" maxChars="7" bold="false" height="32" minHeight="50" maxHeight="50" size="20" editable="true" focusEnabled="true" heightInLines="1" textColor="0xFFFFFF" fontFamily="微软雅黑" horizontalCenter="-9.5" y="572" verticalAlign="bottom"/>
+		<e:Label id="tipsLabel" text="标签" width="324" textColor="16764928" size="20" x="137" fontFamily="微软雅黑" y="605"/>
+		<e:UIAsset id="randomNameBtn" touchEnabled="true" source="XBXZ_4" x="319" anchorX="0.5" anchorY="0.5" y="580" touchChildren="true"/>
+		<game:SexChoseMCButton id="womanBtn" skinName="skins.uicompenet.Main.SexChoseMCButtonSkin" icon="XBXZ_2" x="307" y="78" label="sexChose_woman"/>
+		<game:SexChoseMCButton id="manBtn" skinName="skins.uicompenet.Main.SexChoseMCButtonSkin" icon="XBXZ_1" x="62" y="87" label="sexChose_man"/>
+	</e:Group>
+</e:Skin>

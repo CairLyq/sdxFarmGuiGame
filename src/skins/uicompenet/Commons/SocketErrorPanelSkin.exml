@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="480" height="400" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset source="TC_dikuang" scale9Grid="166,99,42,181" y="43" x="56"/>
+	<e:UIAsset source="TC_tishi" y="57" x="205"/>
+	<e:UIAsset source="LC_baibang" scale9Grid="56,33,337,203" y="109" height="238" width="337" x="72"/>
+	<e:Button skinName="skins.uicompenet.Commons.SocketErrorButton1Skin" x="197" y="286"/>
+	<e:Button id="handlerButton" skinName="skins.uicompenet.Commons.SocketErrorButton1Skin" icon="TC_anniu1" label="确定" anchorX="0.5" anchorY="0.5" x="240" y="310"/>
+	<e:Label id="msgLabel" x="97" y="127" width="299" height="148" verticalAlign="middle" fontFamily="Microsoft YaHei" textColor="0x281600" bold="true" textAlign="left" lineSpacing="10" size="18" text="您的账号已经在另一台设备上登录，您被迫下线。如果这不是您自己的操作，请注意自己的账号安全。"/>
+</e:Skin>

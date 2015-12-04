@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="480" height="400" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset source="LC_diban" horizontalCenter="0" bottom="0"/>
+	<e:UIAsset scale9Grid="56,33,337,203" source="LC_baibang" x="15" y="101" cacheAsBitmap="false"/>
+	<e:UIAsset source="LC_dioahua" cacheAsBitmap="false" x="16" y="105"/>
+	<e:UIAsset cacheAsBitmap="false" height="52" scaleY="-1" x="16" y="365" source="LC_dioahua"/>
+	<e:UIAsset scaleY="-1" source="LC_dioahua" height="52" cacheAsBitmap="false" scaleX="-1" x="464" y="365"/>
+	<e:UIAsset source="LC_dioahua" cacheAsBitmap="false" scaleX="-1" height="52" x="464" y="105"/>
+	<e:UIAsset id="extendAsset" source="LC_tiao" y="91" horizontalCenter="0" cacheAsBitmap="false" touchEnabled="true"/>
+	<e:UIAsset id="extendButton" x="349" y="95" source="LC_jia" cacheAsBitmap="false" touchEnabled="true"/>
+	<e:Label id="reservesLabel" width="241" fontFamily="Arial" bold="true" verticalAlign="middle" stroke="2" strokeColor="0x2C0000" touchEnabled="false" text="8888 / 9999" size="18" y="105" x="102" textAlign="center" maxDisplayedLines="1"/>
+	<e:Group id="tabGroup" height="38" width="166" x="23" y="42" locked="true"/>
+	<e:Scroller id="scrollerDisplay" width="408" height="206" verticalScrollPolicy="off" horizontalScrollPolicy="auto" y="139" horizontalCenter="-1">
+		<e:Group id="dataGroup" width="408" height="206" includeInLayout="true">
+			<e:layout>
+				<e:TileLayout id="dataLayout" verticalGap="5" requestedRowCount="2" paddingLeft="10" verticalAlign="justify" horizontalAlign="left" horizontalGap="5"/>
+			</e:layout>
+		</e:Group>
+	</e:Scroller>
+	<e:UIAsset source="LC_jiantou" cacheAsBitmap="false" anchorX=".5" alpha=".5" touchEnabled="false" x="441" y="235.5"/>
+	<e:UIAsset touchEnabled="false" source="LC_jiantou" anchorX="0.5" cacheAsBitmap="false" alpha="0.5" height="16" scaleX="-1" x="37" y="235"/>
+	<e:UIAsset source="LC_ding" x="28" y="42"/>
+	<e:UIAsset id="titleDisplay" source="LC_liangc" x="47" y="50"/>
+	<e:UIAsset id="closeButton" y="36" x="405" source="LC_guanbi" cacheAsBitmap="false"/>
+</e:Skin>

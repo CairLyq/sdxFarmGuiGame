@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="458" height="458" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset id="bg" anchorX="0.5" anchorY="0.5" x="229" y="229" source="CH-12"/>
+	<e:UIAsset textAlign="center" verticalAlign="top" source="MRRW_07" width="214" height="307" verticalCenter="7.5" horizontalCenter="0"/>
+	<e:UIAsset y="279" horizontalCenter="11.5" source="CH-13"/>
+	<e:UIAsset y="128" horizontalCenter="0" source="CH-11"/>
+	<e:Label fontFamily="Microsoft YaHei" width="187" id="title0" verticalAlign="top" height="41" bold="true" textAlign="center" size="28" textColor="0xFFFFFF" text="解锁新成就！" y="133" horizontalCenter="0"/>
+	<e:Label textColor="0xFFFFFF" text="17" fontFamily="Microsoft YaHei" size="20" stroke="2" width="40" height="24" id="awardLabel1" verticalAlign="middle" strokeColor="0x5E3700" bold="true" textAlign="center" y="20" top="315" x="241"/>
+	<e:Label textColor="0xFFFFFF" text="50" fontFamily="Microsoft YaHei" size="20" stroke="2" width="40" height="24" id="awardLabel0" verticalAlign="middle" strokeColor="0x5E3700" bold="true" textAlign="center" y="20" top="288" x="241"/>
+	<e:UIAsset scaleY="0.8" id="awardIcon1" source="ZJMER-jinyan" height="38" width="38" scaleX="0.8" y="20" top="313" x="189"/>
+	<e:UIAsset id="awardIcon0" y="286" source="cj-zuans" x="191"/>
+	<e:Label height="60" textColor="0x683802" text="使用生产建筑生产10个产物" fontFamily="Microsoft YaHei" size="16" width="155" id="discriptLable" verticalAlign="top" bold="true" textAlign="center" y="212" horizontalCenter="0"/>
+	<e:Label height="29" textColor="0x4F2800" text="养鸟大户" fontFamily="Microsoft YaHei" size="18" width="119" id="title" verticalAlign="top" bold="true" textAlign="center" y="180" horizontalCenter="0"/>
+</e:Skin>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="89" height="27" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.Button"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="up"/>
+		<e:State name="down"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset source="LB-bian" horizontalCenter="0" verticalCenter="0"/>
+	<e:Label id="labelDisplay" size="24" fontFamily="Arial" stroke="2" strokeColor="0x5E3700" width="56" bold="true" x="32" maxDisplayedLines="1" text="55568" height="32" y="-2" verticalAlign="middle" textAlign="center"/>
+	<e:UIAsset source="Dd-jib" width="32" height="29" scaleX="0.9" scaleY="0.9" y="1" x="3"/>
+</e:Skin>

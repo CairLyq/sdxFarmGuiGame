@@ -1,0 +1,383 @@
+﻿{
+    "mc": {
+        "fixing_part": {
+            "frameRate": 24,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "fixing_part0000",
+                    "x": -30,
+                    "y": -117,
+                    "duration": 5
+                },
+                {
+                    "res": "fixing_part0005",
+                    "x": -30,
+                    "y": -117,
+                    "duration": 5
+                },
+                {
+                    "res": "fixing_part0010",
+                    "x": -30,
+                    "y": -117,
+                    "duration": 5
+                },
+                {
+                    "res": "fixing_part0015",
+                    "x": -30,
+                    "y": -117,
+                    "duration": 5
+                },
+                {
+                    "res": "fixing_part0020",
+                    "x": -30,
+                    "y": -117,
+                    "duration": 1
+                }
+            ]
+        },
+        "mine": {
+            "frameRate": 24,
+            "labels": [
+                {
+                    "name": "start",
+                    "frame": 1
+                }
+            ],
+            "frames": [
+                {
+                    "res": "mine0000",
+                    "x": -72.5,
+                    "y": -72.25,
+                    "duration": 3
+                },
+                {
+                    "res": "mine0003",
+                    "x": -72.5,
+                    "y": -72.25,
+                    "duration": 3
+                },
+                {
+                    "res": "mine0006",
+                    "x": -72.5,
+                    "y": -72.25,
+                    "duration": 3
+                },
+                {
+                    "res": "mine0009",
+                    "x": -72.5,
+                    "y": -72.25,
+                    "duration": 3
+                }
+            ]
+        },
+        "producing_elf": {
+            "frameRate": 24,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "producing_elf0000",
+                    "x": -27,
+                    "y": -34,
+                    "duration": 1
+                },
+                {
+                    "res": "producing_elf0001",
+                    "x": -27,
+                    "y": -34,
+                    "duration": 1
+                }
+            ]
+        },
+        "robot_walk_back": {
+            "frameRate": 24,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "robot_walk_back0000",
+                    "x": -75,
+                    "y": 0,
+                    "duration": 7
+                },
+                {
+                    "res": "robot_walk_back0007",
+                    "x": -75,
+                    "y": 0,
+                    "duration": 7
+                },
+                {
+                    "res": "robot_walk_back0014",
+                    "x": -75,
+                    "y": 0,
+                    "duration": 1
+                }
+            ]
+        },
+        "robot_walk_fixing": {
+            "frameRate": 24,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "robot_walk_fixing0000",
+                    "x": -75,
+                    "y": 0,
+                    "duration": 5
+                },
+                {
+                    "res": "robot_walk_fixing0005",
+                    "x": -75,
+                    "y": 0,
+                    "duration": 5
+                },
+                {
+                    "res": "robot_walk_fixing0010",
+                    "x": -75,
+                    "y": 0,
+                    "duration": 5
+                },
+                {
+                    "res": "robot_walk_fixing0015",
+                    "x": -75,
+                    "y": 0,
+                    "duration": 5
+                },
+                {
+                    "res": "robot_walk_fixing0020",
+                    "x": -75,
+                    "y": 0,
+                    "duration": 1
+                }
+            ]
+        },
+        "robot_walk_front": {
+            "frameRate": 24,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "robot_walk_front0000",
+                    "x": -75,
+                    "y": 0,
+                    "duration": 7
+                },
+                {
+                    "res": "robot_walk_front0007",
+                    "x": -75,
+                    "y": 0,
+                    "duration": 7
+                },
+                {
+                    "res": "robot_walk_front0014",
+                    "x": -75,
+                    "y": 0,
+                    "duration": 1
+                }
+            ]
+        },
+        "shangren": {
+            "frameRate": 24,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "shangren0000",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 6
+                },
+                {
+                    "res": "shangren0006",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 6
+                },
+                {
+                    "res": "shangren0012",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 6
+                },
+                {
+                    "res": "shangren0018",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 6
+                },
+                {
+                    "res": "shangren0024",
+                    "x": 0,
+                    "y": 0,
+                    "duration": 1
+                }
+            ]
+        }
+    },
+    "res": {
+        "fixing_part0000": {
+            "x": 0,
+            "y": 0,
+            "w": 56,
+            "h": 124
+        },
+        "fixing_part0005": {
+            "x": 56,
+            "y": 0,
+            "w": 56,
+            "h": 124
+        },
+        "fixing_part0010": {
+            "x": 112,
+            "y": 0,
+            "w": 56,
+            "h": 124
+        },
+        "fixing_part0015": {
+            "x": 168,
+            "y": 0,
+            "w": 56,
+            "h": 124
+        },
+        "fixing_part0020": {
+            "x": 0,
+            "y": 0,
+            "w": 56,
+            "h": 124
+        },
+        "mine0000": {
+            "x": 224,
+            "y": 0,
+            "w": 145,
+            "h": 145
+        },
+        "mine0003": {
+            "x": 369,
+            "y": 0,
+            "w": 145,
+            "h": 145
+        },
+        "mine0006": {
+            "x": 514,
+            "y": 0,
+            "w": 145,
+            "h": 145
+        },
+        "mine0009": {
+            "x": 659,
+            "y": 0,
+            "w": 145,
+            "h": 145
+        },
+        "producing_elf0000": {
+            "x": 0,
+            "y": 145,
+            "w": 55,
+            "h": 65
+        },
+        "producing_elf0001": {
+            "x": 55,
+            "y": 145,
+            "w": 55,
+            "h": 65
+        },
+        "robot_walk_back0000": {
+            "x": 110,
+            "y": 145,
+            "w": 36,
+            "h": 49
+        },
+        "robot_walk_back0007": {
+            "x": 146,
+            "y": 145,
+            "w": 36,
+            "h": 49
+        },
+        "robot_walk_back0014": {
+            "x": 110,
+            "y": 145,
+            "w": 36,
+            "h": 49
+        },
+        "robot_walk_fixing0000": {
+            "x": 182,
+            "y": 145,
+            "w": 38,
+            "h": 50
+        },
+        "robot_walk_fixing0005": {
+            "x": 220,
+            "y": 145,
+            "w": 38,
+            "h": 50
+        },
+        "robot_walk_fixing0010": {
+            "x": 258,
+            "y": 145,
+            "w": 38,
+            "h": 50
+        },
+        "robot_walk_fixing0015": {
+            "x": 296,
+            "y": 145,
+            "w": 38,
+            "h": 50
+        },
+        "robot_walk_fixing0020": {
+            "x": 182,
+            "y": 145,
+            "w": 38,
+            "h": 50
+        },
+        "robot_walk_front0000": {
+            "x": 334,
+            "y": 145,
+            "w": 43,
+            "h": 46
+        },
+        "robot_walk_front0007": {
+            "x": 377,
+            "y": 145,
+            "w": 43,
+            "h": 46
+        },
+        "robot_walk_front0014": {
+            "x": 334,
+            "y": 145,
+            "w": 43,
+            "h": 46
+        },
+        "shangren0000": {
+            "x": 420,
+            "y": 145,
+            "w": 109,
+            "h": 101
+        },
+        "shangren0006": {
+            "x": 529,
+            "y": 145,
+            "w": 109,
+            "h": 101
+        },
+        "shangren0012": {
+            "x": 638,
+            "y": 145,
+            "w": 109,
+            "h": 101
+        },
+        "shangren0018": {
+            "x": 747,
+            "y": 145,
+            "w": 109,
+            "h": 101
+        },
+        "shangren0024": {
+            "x": 420,
+            "y": 145,
+            "w": 109,
+            "h": 101
+        }
+    }
+}

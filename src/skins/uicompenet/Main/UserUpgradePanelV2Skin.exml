@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="480" height="500" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset source="ZY_dikuang" bottom="0" horizontalCenter="0" locked="true"/>
+	<e:UIAsset source="LC_baibang" y="120" scale9Grid="56,33,337,203" height="350" width="452" x="13" locked="true"/>
+	<e:UIAsset cacheAsBitmap="false" source="LC_dioahua" x="13" y="123" locked="true"/>
+	<e:UIAsset scaleY="-1" source="LC_dioahua" height="52" cacheAsBitmap="false" y="468" x="13" locked="true"/>
+	<e:UIAsset scaleY="-1" source="LC_dioahua" cacheAsBitmap="false" scaleX="-1" height="52" y="468" x="470" locked="true"/>
+	<e:UIAsset source="LC_dioahua" cacheAsBitmap="false" scaleX="-1" height="52" x="470" y="123" locked="true"/>
+	<e:UIAsset source="SJ_03" x="114" y="42"/>
+	<e:UIAsset source="SJ_06" x="239" y="50"/>
+	<e:UIAsset id="gainBG" width="411" x="34" y="183" source="DD_9" scale9Grid="16,16,247,100" height="80" locked="true"/>
+	<e:UIAsset id="newsBG" width="411" scale9Grid="13,12,68,58" x="34" height="112" y="284" source="DD_9"/>
+	<e:Button id="AffirmButton" skinName="skins.uicompenet.Main.AffirmButtonSkin" cacheAsBitmap="false" anchorX="0.5" anchorY="0.5" y="431" x="239" label="确认"/>
+	<e:Label text="恭喜您升级" fontFamily="微软雅黑" verticalAlign="middle" textAlign="left" textColor="0x87611F" width="142" size="26" bold="true" x="84" y="144"/>
+	<e:Label id="levelLabel" width="152" textColor="0x74A11E" size="28" text="Level 30" textAlign="left" verticalAlign="middle" bold="true" x="234" stroke="1" strokeColor="0x74A11E" fontFamily="Arial" y="143"/>
+	<e:Scroller id="newScroller" width="402" height="106" x="38" y="286" verticalScrollPolicy="off">
+		<e:Group id="newGroup">
+			<e:layout>
+				<e:HorizontalLayout horizontalAlign="center" verticalAlign="contentJustify" gap="0"/>
+			</e:layout>
+		</e:Group>
+	</e:Scroller>
+	<e:Scroller id="gainScroller" width="402" height="76" x="38" y="184" verticalScrollPolicy="off">
+		<e:Group id="gainGroup" height="76">
+			<e:layout>
+				<e:HorizontalLayout verticalAlign="contentJustify" horizontalAlign="center" paddingLeft="20" gap="0"/>
+			</e:layout>
+		</e:Group>
+	</e:Scroller>
+</e:Skin>

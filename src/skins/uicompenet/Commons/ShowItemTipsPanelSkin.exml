@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="480" height="410" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.TitleWindow"/>
+	<w:Declarations/>
+	<e:UIAsset id="bgAsset" height="411" width="466" fillMode="scale" source="TC_dikuang" y="-1" scale9Grid="166,99,42,181" horizontalCenter="1" locked="true"/>
+	<e:UIAsset source="LC_baibang" width="443" height="328" y="68" horizontalCenter="0.5" locked="true"/>
+	<e:Button id="closeButton" label="按钮" skinName="skins.simple.CloseButtonSkin" y="8" x="412" locked="true"/>
+	<e:Label id="messageLabel" width="430" height="62" textAlign="center" fontFamily="Microsoft YaHei" bold="true" lineSpacing="10" verticalAlign="middle" textColor="2883584" y="77" x="24" text="您即将用掉最后一份农作物，是否继续？" size="22" locked="true"/>
+	<e:UIAsset source="TC_tishi" x="211" y="13" locked="true"/>
+	<e:UIAsset id="right" source="LC_jiantou" alpha=".5" x="441" y="209" locked="true"/>
+	<e:UIAsset id="left" source="LC_jiantou" scaleX="-1" alpha=".5" x="38" y="209" locked="true"/>
+	<e:Scroller id="listScroller" height="140" width="398" x="40" y="147" locked="true">
+		<e:Group id="listGroup" height="140" width="398" locked="true">
+			<e:layout>
+				<e:HorizontalLayout horizontalAlign="center" verticalAlign="contentJustify" gap="0"/>
+			</e:layout>
+		</e:Group>
+	</e:Scroller>
+	<e:Button id="confirmBtn" x="175" skinName="skins.uicompenet.Main.AffirmButtonSkin" y="312" label="继续" touchEnabled="true" locked="true"/>
+</e:Skin>

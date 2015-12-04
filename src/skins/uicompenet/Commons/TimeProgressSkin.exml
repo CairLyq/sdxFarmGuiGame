@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="640" height="157" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset width="640" height="157" x="1" y="0" source="BZ-dilan" locked="true"/>
+	<e:UIAsset source="SHJS-shijiantiaodi" x="260" y="26"/>
+	<e:UIAsset source="SHJS-shijiantiao" x="259" y="27"/>
+	<e:UIAsset scale9Grid="80,6,19,39" id="speed_btn" source="anniu-chang" y="82" horizontalCenter="0"/>
+	<e:UIAsset source="SHJS-shijian" x="233" y="20"/>
+	<e:UIAsset scaleY="0.5" source="zhuanshi" scaleX="0.5" height="48" y="95" x="369" touchEnabled="false"/>
+	<e:Label width="100" height="44" textColor="0xFFFFFF" verticalAlign="middle" text="加速" size="32" bold="true" y="83" x="244" touchEnabled="false"/>
+	<e:Label id="dNum_lb" width="59" height="30" lineSpacing="30" text="123" y="92" textAlign="right" size="26" x="312" touchEnabled="false"/>
+	<e:Label id="time_lb" text="02:12:56" x="284" y="33" size="26"/>
+	
+</e:Skin>

@@ -1,0 +1,34 @@
+{
+    "categorys": [
+        {
+            "icon": "SD-zhalan",
+            "tipIcon": null,
+            "tipText": null
+        },
+        {
+            "icon": "SD-zhu",
+            "tipIcon": null,
+            "tipText": null
+        },
+        {
+            "icon": "SD-fangzi",
+            "tipIcon": "SD-biaoti",
+            "tipText": 8
+        },
+        {
+            "icon": "SD-shu",
+            "tipIcon": null,
+            "tipText": null
+        },
+        {
+            "icon": "SD-hua",
+            "tipIcon": null,
+            "tipText": null
+        },
+        {
+            "icon": "SD-wuxing",
+            "tipIcon": null,
+            "tipText": null
+        }
+    ]
+}

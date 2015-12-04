@@ -1,0 +1,1614 @@
+﻿{
+    "mc": {
+        "chick_full_back": {
+            "frameRate": 24,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "chick_full_back0000",
+                    "x": -25.5,
+                    "y": -50,
+                    "duration": 4
+                },
+                {
+                    "res": "chick_full_back0004",
+                    "x": -25.5,
+                    "y": -50,
+                    "duration": 4
+                },
+                {
+                    "res": "chick_full_back0008",
+                    "x": -25.5,
+                    "y": -50,
+                    "duration": 4
+                },
+                {
+                    "res": "chick_full_back0012",
+                    "x": -25.5,
+                    "y": -50,
+                    "duration": 4
+                },
+                {
+                    "res": "chick_full_back0016",
+                    "x": -25.5,
+                    "y": -50,
+                    "duration": 1
+                }
+            ]
+        },
+        "chick_full_front": {
+            "frameRate": 24,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "chick_full_front0000",
+                    "x": -23,
+                    "y": -44,
+                    "duration": 4
+                },
+                {
+                    "res": "chick_full_front0004",
+                    "x": -23,
+                    "y": -44,
+                    "duration": 4
+                },
+                {
+                    "res": "chick_full_front0008",
+                    "x": -23,
+                    "y": -44,
+                    "duration": 4
+                },
+                {
+                    "res": "chick_full_front0012",
+                    "x": -23,
+                    "y": -44,
+                    "duration": 4
+                },
+                {
+                    "res": "chick_full_front0016",
+                    "x": -23,
+                    "y": -44,
+                    "duration": 1
+                }
+            ]
+        },
+        "chick_hungry_back": {
+            "frameRate": 24,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "chick_hungry_back0000",
+                    "x": -25.5,
+                    "y": -47.5,
+                    "duration": 4
+                },
+                {
+                    "res": "chick_hungry_back0004",
+                    "x": -25.5,
+                    "y": -47.5,
+                    "duration": 4
+                },
+                {
+                    "res": "chick_hungry_back0008",
+                    "x": -25.5,
+                    "y": -47.5,
+                    "duration": 4
+                },
+                {
+                    "res": "chick_hungry_back0012",
+                    "x": -25.5,
+                    "y": -47.5,
+                    "duration": 4
+                },
+                {
+                    "res": "chick_hungry_back0016",
+                    "x": -25.5,
+                    "y": -47.5,
+                    "duration": 1
+                }
+            ]
+        },
+        "chick_hungry_front": {
+            "frameRate": 24,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "chick_hungry_front0000",
+                    "x": -26.5,
+                    "y": -40,
+                    "duration": 4
+                },
+                {
+                    "res": "chick_hungry_front0004",
+                    "x": -26.5,
+                    "y": -40,
+                    "duration": 4
+                },
+                {
+                    "res": "chick_hungry_front0008",
+                    "x": -26.5,
+                    "y": -40,
+                    "duration": 4
+                },
+                {
+                    "res": "chick_hungry_front0012",
+                    "x": -26.5,
+                    "y": -40,
+                    "duration": 4
+                },
+                {
+                    "res": "chick_hungry_front0016",
+                    "x": -26.5,
+                    "y": -40,
+                    "duration": 1
+                }
+            ]
+        },
+        "chick_walk_back": {
+            "frameRate": 24,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "chick_walk_back0000",
+                    "x": -27.5,
+                    "y": -44.5,
+                    "duration": 4
+                },
+                {
+                    "res": "chick_walk_back0004",
+                    "x": -27.5,
+                    "y": -44.5,
+                    "duration": 4
+                },
+                {
+                    "res": "chick_walk_back0008",
+                    "x": -27.5,
+                    "y": -44.5,
+                    "duration": 4
+                },
+                {
+                    "res": "chick_walk_back0012",
+                    "x": -27.5,
+                    "y": -44.5,
+                    "duration": 4
+                },
+                {
+                    "res": "chick_walk_back0016",
+                    "x": -27.5,
+                    "y": -44.5,
+                    "duration": 1
+                }
+            ]
+        },
+        "chick_walk_front": {
+            "frameRate": 24,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "chick_walk_front0000",
+                    "x": -23.5,
+                    "y": -45,
+                    "duration": 4
+                },
+                {
+                    "res": "chick_walk_front0004",
+                    "x": -23.5,
+                    "y": -45,
+                    "duration": 4
+                },
+                {
+                    "res": "chick_walk_front0008",
+                    "x": -23.5,
+                    "y": -45,
+                    "duration": 4
+                },
+                {
+                    "res": "chick_walk_front0012",
+                    "x": -23.5,
+                    "y": -45,
+                    "duration": 4
+                },
+                {
+                    "res": "chick_walk_front0016",
+                    "x": -23.5,
+                    "y": -45,
+                    "duration": 1
+                }
+            ]
+        },
+        "cow_full_back": {
+            "frameRate": 24,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "cow_full_back0000",
+                    "x": -54,
+                    "y": -69.5,
+                    "duration": 4
+                },
+                {
+                    "res": "cow_full_back0004",
+                    "x": -54,
+                    "y": -69.5,
+                    "duration": 4
+                },
+                {
+                    "res": "cow_full_back0008",
+                    "x": -54,
+                    "y": -69.5,
+                    "duration": 4
+                },
+                {
+                    "res": "cow_full_back0012",
+                    "x": -54,
+                    "y": -69.5,
+                    "duration": 4
+                },
+                {
+                    "res": "cow_full_back0016",
+                    "x": -54,
+                    "y": -69.5,
+                    "duration": 1
+                }
+            ]
+        },
+        "cow_full_front": {
+            "frameRate": 24,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "cow_full_front0000",
+                    "x": -49.5,
+                    "y": -52,
+                    "duration": 4
+                },
+                {
+                    "res": "cow_full_front0004",
+                    "x": -49.5,
+                    "y": -52,
+                    "duration": 4
+                },
+                {
+                    "res": "cow_full_front0008",
+                    "x": -49.5,
+                    "y": -52,
+                    "duration": 4
+                },
+                {
+                    "res": "cow_full_front0012",
+                    "x": -49.5,
+                    "y": -52,
+                    "duration": 4
+                },
+                {
+                    "res": "cow_full_front0016",
+                    "x": -49.5,
+                    "y": -52,
+                    "duration": 1
+                }
+            ]
+        },
+        "cow_hungry_back": {
+            "frameRate": 24,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "cow_hungry_back0000",
+                    "x": -52.5,
+                    "y": -54.5,
+                    "duration": 4
+                },
+                {
+                    "res": "cow_hungry_back0004",
+                    "x": -52.5,
+                    "y": -54.5,
+                    "duration": 4
+                },
+                {
+                    "res": "cow_hungry_back0008",
+                    "x": -52.5,
+                    "y": -54.5,
+                    "duration": 4
+                },
+                {
+                    "res": "cow_hungry_back0012",
+                    "x": -52.5,
+                    "y": -54.5,
+                    "duration": 4
+                },
+                {
+                    "res": "cow_hungry_back0016",
+                    "x": -52.5,
+                    "y": -54.5,
+                    "duration": 1
+                }
+            ]
+        },
+        "cow_hungry_front": {
+            "frameRate": 24,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "cow_hungry_front0000",
+                    "x": -55,
+                    "y": -50.5,
+                    "duration": 4
+                },
+                {
+                    "res": "cow_hungry_front0004",
+                    "x": -55,
+                    "y": -50.5,
+                    "duration": 4
+                },
+                {
+                    "res": "cow_hungry_front0008",
+                    "x": -55,
+                    "y": -50.5,
+                    "duration": 4
+                },
+                {
+                    "res": "cow_hungry_front0012",
+                    "x": -55,
+                    "y": -50.5,
+                    "duration": 4
+                },
+                {
+                    "res": "cow_hungry_front0016",
+                    "x": -55,
+                    "y": -50.5,
+                    "duration": 1
+                }
+            ]
+        },
+        "cow_walk_back": {
+            "frameRate": 24,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "cow_walk_back0000",
+                    "x": -54.5,
+                    "y": -70.5,
+                    "duration": 4
+                },
+                {
+                    "res": "cow_walk_back0004",
+                    "x": -54.5,
+                    "y": -70.5,
+                    "duration": 4
+                },
+                {
+                    "res": "cow_walk_back0008",
+                    "x": -54.5,
+                    "y": -70.5,
+                    "duration": 4
+                },
+                {
+                    "res": "cow_walk_back0012",
+                    "x": -54.5,
+                    "y": -70.5,
+                    "duration": 4
+                },
+                {
+                    "res": "cow_walk_back0016",
+                    "x": -54.5,
+                    "y": -70.5,
+                    "duration": 1
+                }
+            ]
+        },
+        "cow_walk_front": {
+            "frameRate": 24,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "cow_walk_front0000",
+                    "x": -46.5,
+                    "y": -54.5,
+                    "duration": 4
+                },
+                {
+                    "res": "cow_walk_front0004",
+                    "x": -46.5,
+                    "y": -54.5,
+                    "duration": 4
+                },
+                {
+                    "res": "cow_walk_front0008",
+                    "x": -46.5,
+                    "y": -54.5,
+                    "duration": 4
+                },
+                {
+                    "res": "cow_walk_front0012",
+                    "x": -46.5,
+                    "y": -54.5,
+                    "duration": 4
+                },
+                {
+                    "res": "cow_walk_front0016",
+                    "x": -46.5,
+                    "y": -54.5,
+                    "duration": 1
+                }
+            ]
+        },
+        "pig_full_back": {
+            "frameRate": 24,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "pig_full_back0000",
+                    "x": -23.5,
+                    "y": -41.5,
+                    "duration": 4
+                },
+                {
+                    "res": "pig_full_back0004",
+                    "x": -23.5,
+                    "y": -41.5,
+                    "duration": 4
+                },
+                {
+                    "res": "pig_full_back0008",
+                    "x": -23.5,
+                    "y": -41.5,
+                    "duration": 4
+                },
+                {
+                    "res": "pig_full_back0012",
+                    "x": -23.5,
+                    "y": -41.5,
+                    "duration": 4
+                },
+                {
+                    "res": "pig_full_back0016",
+                    "x": -23.5,
+                    "y": -41.5,
+                    "duration": 1
+                }
+            ]
+        },
+        "pig_full_front": {
+            "frameRate": 24,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "pig_full_front0000",
+                    "x": -23,
+                    "y": -41,
+                    "duration": 4
+                },
+                {
+                    "res": "pig_full_front0004",
+                    "x": -23,
+                    "y": -41,
+                    "duration": 4
+                },
+                {
+                    "res": "pig_full_front0008",
+                    "x": -23,
+                    "y": -41,
+                    "duration": 4
+                },
+                {
+                    "res": "pig_full_front0012",
+                    "x": -23,
+                    "y": -41,
+                    "duration": 4
+                },
+                {
+                    "res": "pig_full_front0016",
+                    "x": -23,
+                    "y": -41,
+                    "duration": 1
+                }
+            ]
+        },
+        "pig_hungry_back": {
+            "frameRate": 24,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "pig_hungry_back0000",
+                    "x": -29.5,
+                    "y": -35.5,
+                    "duration": 4
+                },
+                {
+                    "res": "pig_hungry_back0004",
+                    "x": -29.5,
+                    "y": -35.5,
+                    "duration": 4
+                },
+                {
+                    "res": "pig_hungry_back0008",
+                    "x": -29.5,
+                    "y": -35.5,
+                    "duration": 4
+                },
+                {
+                    "res": "pig_hungry_back0012",
+                    "x": -29.5,
+                    "y": -35.5,
+                    "duration": 4
+                },
+                {
+                    "res": "pig_hungry_back0016",
+                    "x": -29.5,
+                    "y": -35.5,
+                    "duration": 1
+                }
+            ]
+        },
+        "pig_hungry_front": {
+            "frameRate": 24,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "pig_hungry_front0000",
+                    "x": -30,
+                    "y": -29.5,
+                    "duration": 4
+                },
+                {
+                    "res": "pig_hungry_front0004",
+                    "x": -30,
+                    "y": -29.5,
+                    "duration": 4
+                },
+                {
+                    "res": "pig_hungry_front0008",
+                    "x": -30,
+                    "y": -29.5,
+                    "duration": 4
+                },
+                {
+                    "res": "pig_hungry_front0012",
+                    "x": -30,
+                    "y": -29.5,
+                    "duration": 4
+                },
+                {
+                    "res": "pig_hungry_front0016",
+                    "x": -30,
+                    "y": -29.5,
+                    "duration": 1
+                }
+            ]
+        },
+        "pig_walk_back": {
+            "frameRate": 24,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "pig_walk_back0000",
+                    "x": -29,
+                    "y": -38,
+                    "duration": 4
+                },
+                {
+                    "res": "pig_walk_back0004",
+                    "x": -29,
+                    "y": -38,
+                    "duration": 4
+                },
+                {
+                    "res": "pig_walk_back0008",
+                    "x": -29,
+                    "y": -38,
+                    "duration": 4
+                },
+                {
+                    "res": "pig_walk_back0012",
+                    "x": -29,
+                    "y": -38,
+                    "duration": 4
+                },
+                {
+                    "res": "pig_walk_back0016",
+                    "x": -29,
+                    "y": -38,
+                    "duration": 1
+                }
+            ]
+        },
+        "pig_walk_front": {
+            "frameRate": 24,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "pig_walk_front0000",
+                    "x": -27,
+                    "y": -32,
+                    "duration": 4
+                },
+                {
+                    "res": "pig_walk_front0004",
+                    "x": -27,
+                    "y": -32,
+                    "duration": 4
+                },
+                {
+                    "res": "pig_walk_front0008",
+                    "x": -27,
+                    "y": -32,
+                    "duration": 4
+                },
+                {
+                    "res": "pig_walk_front0012",
+                    "x": -27,
+                    "y": -32,
+                    "duration": 4
+                },
+                {
+                    "res": "pig_walk_front0016",
+                    "x": -27,
+                    "y": -32,
+                    "duration": 1
+                }
+            ]
+        },
+        "sheep_full_back": {
+            "frameRate": 24,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "sheep_full_back0000",
+                    "x": -40,
+                    "y": -55,
+                    "duration": 4
+                },
+                {
+                    "res": "sheep_full_back0004",
+                    "x": -40,
+                    "y": -55,
+                    "duration": 4
+                },
+                {
+                    "res": "sheep_full_back0008",
+                    "x": -40,
+                    "y": -55,
+                    "duration": 4
+                },
+                {
+                    "res": "sheep_full_back0012",
+                    "x": -40,
+                    "y": -55,
+                    "duration": 4
+                },
+                {
+                    "res": "sheep_full_back0016",
+                    "x": -40,
+                    "y": -55,
+                    "duration": 1
+                }
+            ]
+        },
+        "sheep_full_front": {
+            "frameRate": 24,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "sheep_full_front0000",
+                    "x": -33,
+                    "y": -48,
+                    "duration": 4
+                },
+                {
+                    "res": "sheep_full_front0004",
+                    "x": -33,
+                    "y": -48,
+                    "duration": 4
+                },
+                {
+                    "res": "sheep_full_front0008",
+                    "x": -33,
+                    "y": -48,
+                    "duration": 4
+                },
+                {
+                    "res": "sheep_full_front0012",
+                    "x": -33,
+                    "y": -48,
+                    "duration": 4
+                },
+                {
+                    "res": "sheep_full_front0016",
+                    "x": -33,
+                    "y": -48,
+                    "duration": 1
+                }
+            ]
+        },
+        "sheep_hungry_back": {
+            "frameRate": 24,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "sheep_hungry_back0000",
+                    "x": -38,
+                    "y": -46,
+                    "duration": 4
+                },
+                {
+                    "res": "sheep_hungry_back0004",
+                    "x": -38,
+                    "y": -46,
+                    "duration": 4
+                },
+                {
+                    "res": "sheep_hungry_back0008",
+                    "x": -38,
+                    "y": -46,
+                    "duration": 4
+                },
+                {
+                    "res": "sheep_hungry_back0012",
+                    "x": -38,
+                    "y": -46,
+                    "duration": 4
+                },
+                {
+                    "res": "sheep_hungry_back0016",
+                    "x": -38,
+                    "y": -46,
+                    "duration": 1
+                }
+            ]
+        },
+        "sheep_hungry_front": {
+            "frameRate": 24,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "sheep_hungry_front0000",
+                    "x": -32,
+                    "y": -45,
+                    "duration": 4
+                },
+                {
+                    "res": "sheep_hungry_front0004",
+                    "x": -32,
+                    "y": -45,
+                    "duration": 4
+                },
+                {
+                    "res": "sheep_hungry_front0008",
+                    "x": -32,
+                    "y": -45,
+                    "duration": 4
+                },
+                {
+                    "res": "sheep_hungry_front0012",
+                    "x": -32,
+                    "y": -45,
+                    "duration": 4
+                },
+                {
+                    "res": "sheep_hungry_front0016",
+                    "x": -32,
+                    "y": -45,
+                    "duration": 1
+                }
+            ]
+        },
+        "sheep_walk_back": {
+            "frameRate": 24,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "sheep_walk_back0000",
+                    "x": -40,
+                    "y": -55,
+                    "duration": 4
+                },
+                {
+                    "res": "sheep_walk_back0004",
+                    "x": -40,
+                    "y": -55,
+                    "duration": 4
+                },
+                {
+                    "res": "sheep_walk_back0008",
+                    "x": -40,
+                    "y": -55,
+                    "duration": 4
+                },
+                {
+                    "res": "sheep_walk_back0012",
+                    "x": -40,
+                    "y": -55,
+                    "duration": 4
+                },
+                {
+                    "res": "sheep_walk_back0016",
+                    "x": -40,
+                    "y": -55,
+                    "duration": 1
+                }
+            ]
+        },
+        "sheep_walk_front": {
+            "frameRate": 24,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "sheep_walk_front0000",
+                    "x": -32,
+                    "y": -47,
+                    "duration": 4
+                },
+                {
+                    "res": "sheep_walk_front0004",
+                    "x": -32,
+                    "y": -47,
+                    "duration": 4
+                },
+                {
+                    "res": "sheep_walk_front0008",
+                    "x": -32,
+                    "y": -47,
+                    "duration": 4
+                },
+                {
+                    "res": "sheep_walk_front0012",
+                    "x": -32,
+                    "y": -47,
+                    "duration": 4
+                },
+                {
+                    "res": "sheep_walk_front0016",
+                    "x": -32,
+                    "y": -47,
+                    "duration": 1
+                }
+            ]
+        }
+    },
+    "res": {
+        "chick_full_back0000": {
+            "x": 0,
+            "y": 0,
+            "w": 51,
+            "h": 66
+        },
+        "chick_full_back0004": {
+            "x": 51,
+            "y": 0,
+            "w": 51,
+            "h": 66
+        },
+        "chick_full_back0008": {
+            "x": 102,
+            "y": 0,
+            "w": 51,
+            "h": 66
+        },
+        "chick_full_back0012": {
+            "x": 153,
+            "y": 0,
+            "w": 51,
+            "h": 66
+        },
+        "chick_full_back0016": {
+            "x": 204,
+            "y": 0,
+            "w": 51,
+            "h": 66
+        },
+        "chick_full_front0000": {
+            "x": 255,
+            "y": 0,
+            "w": 46,
+            "h": 54
+        },
+        "chick_full_front0004": {
+            "x": 301,
+            "y": 0,
+            "w": 46,
+            "h": 54
+        },
+        "chick_full_front0008": {
+            "x": 347,
+            "y": 0,
+            "w": 46,
+            "h": 54
+        },
+        "chick_full_front0012": {
+            "x": 393,
+            "y": 0,
+            "w": 46,
+            "h": 54
+        },
+        "chick_full_front0016": {
+            "x": 439,
+            "y": 0,
+            "w": 46,
+            "h": 54
+        },
+        "chick_hungry_back0000": {
+            "x": 485,
+            "y": 0,
+            "w": 59,
+            "h": 65
+        },
+        "chick_hungry_back0004": {
+            "x": 544,
+            "y": 0,
+            "w": 59,
+            "h": 65
+        },
+        "chick_hungry_back0008": {
+            "x": 603,
+            "y": 0,
+            "w": 59,
+            "h": 65
+        },
+        "chick_hungry_back0012": {
+            "x": 662,
+            "y": 0,
+            "w": 59,
+            "h": 65
+        },
+        "chick_hungry_back0016": {
+            "x": 721,
+            "y": 0,
+            "w": 59,
+            "h": 65
+        },
+        "chick_hungry_front0000": {
+            "x": 780,
+            "y": 0,
+            "w": 63,
+            "h": 54
+        },
+        "chick_hungry_front0004": {
+            "x": 0,
+            "y": 66,
+            "w": 63,
+            "h": 54
+        },
+        "chick_hungry_front0008": {
+            "x": 63,
+            "y": 66,
+            "w": 63,
+            "h": 54
+        },
+        "chick_hungry_front0012": {
+            "x": 126,
+            "y": 66,
+            "w": 63,
+            "h": 54
+        },
+        "chick_hungry_front0016": {
+            "x": 189,
+            "y": 66,
+            "w": 63,
+            "h": 54
+        },
+        "chick_walk_back0000": {
+            "x": 252,
+            "y": 66,
+            "w": 55,
+            "h": 59
+        },
+        "chick_walk_back0004": {
+            "x": 307,
+            "y": 66,
+            "w": 55,
+            "h": 59
+        },
+        "chick_walk_back0008": {
+            "x": 362,
+            "y": 66,
+            "w": 55,
+            "h": 59
+        },
+        "chick_walk_back0012": {
+            "x": 417,
+            "y": 66,
+            "w": 55,
+            "h": 59
+        },
+        "chick_walk_back0016": {
+            "x": 472,
+            "y": 66,
+            "w": 55,
+            "h": 59
+        },
+        "chick_walk_front0000": {
+            "x": 527,
+            "y": 66,
+            "w": 55,
+            "h": 56
+        },
+        "chick_walk_front0004": {
+            "x": 582,
+            "y": 66,
+            "w": 55,
+            "h": 56
+        },
+        "chick_walk_front0008": {
+            "x": 637,
+            "y": 66,
+            "w": 55,
+            "h": 56
+        },
+        "chick_walk_front0012": {
+            "x": 692,
+            "y": 66,
+            "w": 55,
+            "h": 56
+        },
+        "chick_walk_front0016": {
+            "x": 747,
+            "y": 66,
+            "w": 55,
+            "h": 56
+        },
+        "cow_full_back0000": {
+            "x": 0,
+            "y": 125,
+            "w": 92,
+            "h": 89
+        },
+        "cow_full_back0004": {
+            "x": 92,
+            "y": 125,
+            "w": 92,
+            "h": 89
+        },
+        "cow_full_back0008": {
+            "x": 184,
+            "y": 125,
+            "w": 92,
+            "h": 89
+        },
+        "cow_full_back0012": {
+            "x": 276,
+            "y": 125,
+            "w": 92,
+            "h": 89
+        },
+        "cow_full_back0016": {
+            "x": 368,
+            "y": 125,
+            "w": 92,
+            "h": 89
+        },
+        "cow_full_front0000": {
+            "x": 460,
+            "y": 125,
+            "w": 95,
+            "h": 76
+        },
+        "cow_full_front0004": {
+            "x": 555,
+            "y": 125,
+            "w": 95,
+            "h": 76
+        },
+        "cow_full_front0008": {
+            "x": 650,
+            "y": 125,
+            "w": 95,
+            "h": 76
+        },
+        "cow_full_front0012": {
+            "x": 745,
+            "y": 125,
+            "w": 95,
+            "h": 76
+        },
+        "cow_full_front0016": {
+            "x": 0,
+            "y": 214,
+            "w": 95,
+            "h": 76
+        },
+        "cow_hungry_back0000": {
+            "x": 95,
+            "y": 214,
+            "w": 89,
+            "h": 77
+        },
+        "cow_hungry_back0004": {
+            "x": 184,
+            "y": 214,
+            "w": 89,
+            "h": 77
+        },
+        "cow_hungry_back0008": {
+            "x": 273,
+            "y": 214,
+            "w": 89,
+            "h": 77
+        },
+        "cow_hungry_back0012": {
+            "x": 362,
+            "y": 214,
+            "w": 89,
+            "h": 77
+        },
+        "cow_hungry_back0016": {
+            "x": 451,
+            "y": 214,
+            "w": 89,
+            "h": 77
+        },
+        "cow_hungry_front0000": {
+            "x": 540,
+            "y": 214,
+            "w": 96,
+            "h": 75
+        },
+        "cow_hungry_front0004": {
+            "x": 636,
+            "y": 214,
+            "w": 96,
+            "h": 75
+        },
+        "cow_hungry_front0008": {
+            "x": 732,
+            "y": 214,
+            "w": 96,
+            "h": 75
+        },
+        "cow_hungry_front0012": {
+            "x": 0,
+            "y": 291,
+            "w": 96,
+            "h": 75
+        },
+        "cow_hungry_front0016": {
+            "x": 96,
+            "y": 291,
+            "w": 96,
+            "h": 75
+        },
+        "cow_walk_back0000": {
+            "x": 192,
+            "y": 291,
+            "w": 93,
+            "h": 91
+        },
+        "cow_walk_back0004": {
+            "x": 285,
+            "y": 291,
+            "w": 93,
+            "h": 91
+        },
+        "cow_walk_back0008": {
+            "x": 378,
+            "y": 291,
+            "w": 93,
+            "h": 91
+        },
+        "cow_walk_back0012": {
+            "x": 471,
+            "y": 291,
+            "w": 93,
+            "h": 91
+        },
+        "cow_walk_back0016": {
+            "x": 564,
+            "y": 291,
+            "w": 93,
+            "h": 91
+        },
+        "cow_walk_front0000": {
+            "x": 657,
+            "y": 291,
+            "w": 93,
+            "h": 77
+        },
+        "cow_walk_front0004": {
+            "x": 750,
+            "y": 291,
+            "w": 93,
+            "h": 77
+        },
+        "cow_walk_front0008": {
+            "x": 0,
+            "y": 382,
+            "w": 93,
+            "h": 77
+        },
+        "cow_walk_front0012": {
+            "x": 93,
+            "y": 382,
+            "w": 93,
+            "h": 77
+        },
+        "cow_walk_front0016": {
+            "x": 186,
+            "y": 382,
+            "w": 93,
+            "h": 77
+        },
+        "pig_full_back0000": {
+            "x": 279,
+            "y": 382,
+            "w": 47,
+            "h": 55
+        },
+        "pig_full_back0004": {
+            "x": 326,
+            "y": 382,
+            "w": 47,
+            "h": 55
+        },
+        "pig_full_back0008": {
+            "x": 373,
+            "y": 382,
+            "w": 47,
+            "h": 55
+        },
+        "pig_full_back0012": {
+            "x": 420,
+            "y": 382,
+            "w": 47,
+            "h": 55
+        },
+        "pig_full_back0016": {
+            "x": 279,
+            "y": 382,
+            "w": 47,
+            "h": 55
+        },
+        "pig_full_front0000": {
+            "x": 467,
+            "y": 382,
+            "w": 46,
+            "h": 54
+        },
+        "pig_full_front0004": {
+            "x": 513,
+            "y": 382,
+            "w": 46,
+            "h": 54
+        },
+        "pig_full_front0008": {
+            "x": 559,
+            "y": 382,
+            "w": 46,
+            "h": 54
+        },
+        "pig_full_front0012": {
+            "x": 605,
+            "y": 382,
+            "w": 46,
+            "h": 54
+        },
+        "pig_full_front0016": {
+            "x": 467,
+            "y": 382,
+            "w": 46,
+            "h": 54
+        },
+        "pig_hungry_back0000": {
+            "x": 651,
+            "y": 382,
+            "w": 59,
+            "h": 53
+        },
+        "pig_hungry_back0004": {
+            "x": 710,
+            "y": 382,
+            "w": 59,
+            "h": 53
+        },
+        "pig_hungry_back0008": {
+            "x": 769,
+            "y": 382,
+            "w": 59,
+            "h": 53
+        },
+        "pig_hungry_back0012": {
+            "x": 0,
+            "y": 459,
+            "w": 59,
+            "h": 53
+        },
+        "pig_hungry_back0016": {
+            "x": 651,
+            "y": 382,
+            "w": 59,
+            "h": 53
+        },
+        "pig_hungry_front0000": {
+            "x": 59,
+            "y": 459,
+            "w": 59,
+            "h": 45
+        },
+        "pig_hungry_front0004": {
+            "x": 118,
+            "y": 459,
+            "w": 59,
+            "h": 45
+        },
+        "pig_hungry_front0008": {
+            "x": 177,
+            "y": 459,
+            "w": 59,
+            "h": 45
+        },
+        "pig_hungry_front0012": {
+            "x": 236,
+            "y": 459,
+            "w": 59,
+            "h": 45
+        },
+        "pig_hungry_front0016": {
+            "x": 59,
+            "y": 459,
+            "w": 59,
+            "h": 45
+        },
+        "pig_walk_back0000": {
+            "x": 295,
+            "y": 459,
+            "w": 55,
+            "h": 56
+        },
+        "pig_walk_back0004": {
+            "x": 350,
+            "y": 459,
+            "w": 55,
+            "h": 56
+        },
+        "pig_walk_back0008": {
+            "x": 405,
+            "y": 459,
+            "w": 55,
+            "h": 56
+        },
+        "pig_walk_back0012": {
+            "x": 460,
+            "y": 459,
+            "w": 55,
+            "h": 56
+        },
+        "pig_walk_back0016": {
+            "x": 295,
+            "y": 459,
+            "w": 55,
+            "h": 56
+        },
+        "pig_walk_front0000": {
+            "x": 515,
+            "y": 459,
+            "w": 54,
+            "h": 48
+        },
+        "pig_walk_front0004": {
+            "x": 569,
+            "y": 459,
+            "w": 54,
+            "h": 48
+        },
+        "pig_walk_front0008": {
+            "x": 623,
+            "y": 459,
+            "w": 54,
+            "h": 48
+        },
+        "pig_walk_front0012": {
+            "x": 677,
+            "y": 459,
+            "w": 54,
+            "h": 48
+        },
+        "pig_walk_front0016": {
+            "x": 515,
+            "y": 459,
+            "w": 54,
+            "h": 48
+        },
+        "sheep_full_back0000": {
+            "x": 731,
+            "y": 459,
+            "w": 71,
+            "h": 71
+        },
+        "sheep_full_back0004": {
+            "x": 0,
+            "y": 530,
+            "w": 71,
+            "h": 71
+        },
+        "sheep_full_back0008": {
+            "x": 71,
+            "y": 530,
+            "w": 71,
+            "h": 71
+        },
+        "sheep_full_back0012": {
+            "x": 142,
+            "y": 530,
+            "w": 71,
+            "h": 71
+        },
+        "sheep_full_back0016": {
+            "x": 731,
+            "y": 459,
+            "w": 71,
+            "h": 71
+        },
+        "sheep_full_front0000": {
+            "x": 213,
+            "y": 530,
+            "w": 66,
+            "h": 62
+        },
+        "sheep_full_front0004": {
+            "x": 279,
+            "y": 530,
+            "w": 66,
+            "h": 62
+        },
+        "sheep_full_front0008": {
+            "x": 345,
+            "y": 530,
+            "w": 66,
+            "h": 62
+        },
+        "sheep_full_front0012": {
+            "x": 411,
+            "y": 530,
+            "w": 66,
+            "h": 62
+        },
+        "sheep_full_front0016": {
+            "x": 213,
+            "y": 530,
+            "w": 66,
+            "h": 62
+        },
+        "sheep_hungry_back0000": {
+            "x": 477,
+            "y": 530,
+            "w": 68,
+            "h": 61
+        },
+        "sheep_hungry_back0004": {
+            "x": 545,
+            "y": 530,
+            "w": 68,
+            "h": 61
+        },
+        "sheep_hungry_back0008": {
+            "x": 613,
+            "y": 530,
+            "w": 68,
+            "h": 61
+        },
+        "sheep_hungry_back0012": {
+            "x": 681,
+            "y": 530,
+            "w": 68,
+            "h": 61
+        },
+        "sheep_hungry_back0016": {
+            "x": 477,
+            "y": 530,
+            "w": 68,
+            "h": 61
+        },
+        "sheep_hungry_front0000": {
+            "x": 749,
+            "y": 530,
+            "w": 65,
+            "h": 61
+        },
+        "sheep_hungry_front0004": {
+            "x": 0,
+            "y": 601,
+            "w": 65,
+            "h": 61
+        },
+        "sheep_hungry_front0008": {
+            "x": 65,
+            "y": 601,
+            "w": 65,
+            "h": 61
+        },
+        "sheep_hungry_front0012": {
+            "x": 130,
+            "y": 601,
+            "w": 65,
+            "h": 61
+        },
+        "sheep_hungry_front0016": {
+            "x": 749,
+            "y": 530,
+            "w": 65,
+            "h": 61
+        },
+        "sheep_walk_back0000": {
+            "x": 195,
+            "y": 601,
+            "w": 72,
+            "h": 71
+        },
+        "sheep_walk_back0004": {
+            "x": 267,
+            "y": 601,
+            "w": 72,
+            "h": 71
+        },
+        "sheep_walk_back0008": {
+            "x": 339,
+            "y": 601,
+            "w": 72,
+            "h": 71
+        },
+        "sheep_walk_back0012": {
+            "x": 411,
+            "y": 601,
+            "w": 72,
+            "h": 71
+        },
+        "sheep_walk_back0016": {
+            "x": 195,
+            "y": 601,
+            "w": 72,
+            "h": 71
+        },
+        "sheep_walk_front0000": {
+            "x": 483,
+            "y": 601,
+            "w": 66,
+            "h": 63
+        },
+        "sheep_walk_front0004": {
+            "x": 549,
+            "y": 601,
+            "w": 66,
+            "h": 63
+        },
+        "sheep_walk_front0008": {
+            "x": 615,
+            "y": 601,
+            "w": 66,
+            "h": 63
+        },
+        "sheep_walk_front0012": {
+            "x": 681,
+            "y": 601,
+            "w": 66,
+            "h": 63
+        },
+        "sheep_walk_front0016": {
+            "x": 483,
+            "y": 601,
+            "w": 66,
+            "h": 63
+        }
+    }
+}

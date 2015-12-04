@@ -1,0 +1,62 @@
+{"file": "sexPanel.png", "frames": {
+    "XBXZ_4": {
+        "x": 592,
+        "y": 311,
+        "w": 46,
+        "h": 52,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 46,
+        "sourceH": 52
+    },
+    "XBXZ_5": {
+        "x": 483,
+        "y": 618,
+        "w": 175,
+        "h": 45,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 175,
+        "sourceH": 45
+    },
+    "XBXZ_6": {
+        "x": 592,
+        "y": 365,
+        "w": 52,
+        "h": 31,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 52,
+        "sourceH": 31
+    },
+    "XBXZ_1": {
+        "x": 483,
+        "y": 1,
+        "w": 115,
+        "h": 308,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 115,
+        "sourceH": 308
+    },
+    "XBXZ_8bg": {
+        "x": 1,
+        "y": 1,
+        "w": 480,
+        "h": 800,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 480,
+        "sourceH": 800
+    },
+    "XBXZ_2": {
+        "x": 483,
+        "y": 311,
+        "w": 107,
+        "h": 305,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 107,
+        "sourceH": 305
+    }
+}}

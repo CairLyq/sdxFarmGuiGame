@@ -1,0 +1,222 @@
+{"file": "npcDialog.png", "frames": {
+    "1_male_head": {
+        "x": 421,
+        "y": 422,
+        "w": 45,
+        "h": 53,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 45,
+        "sourceH": 53
+    },
+    "1_male": {
+        "x": 1,
+        "y": 1,
+        "w": 208,
+        "h": 199,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 208,
+        "sourceH": 199
+    },
+    "2_female_head": {
+        "x": 421,
+        "y": 202,
+        "w": 45,
+        "h": 53,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 45,
+        "sourceH": 53
+    },
+    "2_female": {
+        "x": 1,
+        "y": 202,
+        "w": 208,
+        "h": 199,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 208,
+        "sourceH": 199
+    },
+    "3_ermo_head": {
+        "x": 421,
+        "y": 642,
+        "w": 45,
+        "h": 53,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 45,
+        "sourceH": 53
+    },
+    "3_ermo": {
+        "x": 1,
+        "y": 403,
+        "w": 208,
+        "h": 199,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 208,
+        "sourceH": 199
+    },
+    "4_chimu_head": {
+        "x": 421,
+        "y": 312,
+        "w": 45,
+        "h": 53,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 45,
+        "sourceH": 53
+    },
+    "4_chimu": {
+        "x": 1,
+        "y": 604,
+        "w": 208,
+        "h": 199,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 208,
+        "sourceH": 199
+    },
+    "5_timu_head": {
+        "x": 421,
+        "y": 532,
+        "w": 45,
+        "h": 53,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 45,
+        "sourceH": 53
+    },
+    "5_timu": {
+        "x": 1,
+        "y": 805,
+        "w": 208,
+        "h": 199,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 208,
+        "sourceH": 199
+    },
+    "6_widine_head": {
+        "x": 421,
+        "y": 752,
+        "w": 45,
+        "h": 53,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 45,
+        "sourceH": 53
+    },
+    "6_widine": {
+        "x": 211,
+        "y": 1,
+        "w": 208,
+        "h": 199,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 208,
+        "sourceH": 199
+    },
+    "7_mao_head": {
+        "x": 421,
+        "y": 257,
+        "w": 45,
+        "h": 53,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 45,
+        "sourceH": 53
+    },
+    "7_mao": {
+        "x": 211,
+        "y": 202,
+        "w": 208,
+        "h": 199,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 208,
+        "sourceH": 199
+    },
+    "7_tst_head": {
+        "x": 421,
+        "y": 367,
+        "w": 45,
+        "h": 53,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 45,
+        "sourceH": 53
+    },
+    "7_tst": {
+        "x": 211,
+        "y": 403,
+        "w": 208,
+        "h": 199,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 208,
+        "sourceH": 199
+    },
+    "8_gimli_head": {
+        "x": 421,
+        "y": 477,
+        "w": 45,
+        "h": 53,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 45,
+        "sourceH": 53
+    },
+    "8_gimli": {
+        "x": 211,
+        "y": 604,
+        "w": 208,
+        "h": 199,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 208,
+        "sourceH": 199
+    },
+    "9_jaina_head": {
+        "x": 421,
+        "y": 587,
+        "w": 45,
+        "h": 53,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 45,
+        "sourceH": 53
+    },
+    "9_jaina": {
+        "x": 211,
+        "y": 805,
+        "w": 208,
+        "h": 199,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 208,
+        "sourceH": 199
+    },
+    "10_sylph_head": {
+        "x": 421,
+        "y": 697,
+        "w": 45,
+        "h": 53,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 45,
+        "sourceH": 53
+    },
+    "10_sylph": {
+        "x": 421,
+        "y": 1,
+        "w": 208,
+        "h": 199,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 208,
+        "sourceH": 199
+    }
+}}

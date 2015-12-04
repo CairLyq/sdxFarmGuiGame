@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="140" height="263" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="up"/>
+	</e:states>
+	<e:UIAsset source="MRRW_07" textAlign="center" verticalAlign="top" horizontalCenter="0"/>
+	<e:UIAsset id="icon" textAlign="center" horizontalCenter="0.5" top="13" source="everday_8"/>
+	<e:Label id="discriptLable" width="119" height="60" text="使用生产建筑生产10个产物" textColor="0x683802" size="16" bold="true" verticalAlign="top" textAlign="center" horizontalCenter="-0.5" y="100" fontFamily="Microsoft YaHei"/>
+	<e:Label id="expLabel" textColor="0xFFFFFF" stroke="2" strokeColor="0x5E3700" width="40" size="20" y.up="65" fontFamily.up="Microsoft YaHei" text="17" bold="true" verticalAlign="middle" height="24" textAlign="center" x="65" top="184" fontFamily="Microsoft YaHei"/>
+	<e:Label id="awardLabel" textColor="0xFFFFFF" stroke="2" strokeColor="0x5E3700" width="40" size="20" y.up="65" fontFamily.up="Microsoft YaHei" text="50" bold="true" height="24" textAlign="center" verticalAlign="middle" x="67" top="152" fontFamily="Microsoft YaHei"/>
+	<e:UIAsset scaleX="0.8" scaleY="0.8" height="38" width="38" top="182" x="34" source="ZJMER-jinyan"/>
+	<e:UIAsset id="awardIcon" x="32" y="150" source="Dd-jib"/>
+	<e:UIAsset id="finished" source="MRRW_14" textAlign="center" anchorX="0.5" anchorY="0.5" x="70" y="253"/>
+	<e:Label id="progressLable" text="标签" x="6" y="218" width="125" textAlign="center" fontFamily="Microsoft YaHei" size="16"/>
+	<e:Group id="acceptBtn" y="218" horizontalCenter="0">
+		<e:UIAsset horizontalCenter="0" source="TC_anniu1"/>
+		<e:Label text="领取奖励" stroke="2" strokeColor="0x3C6602" size="18" x="14" y="13" fontFamily="Microsoft YaHei"/>
+	</e:Group>
+</e:Skin>

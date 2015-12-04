@@ -1,0 +1,582 @@
+{"file": "main_common.png", "frames": {
+    "CCDD_03": {
+        "x": 401,
+        "y": 686,
+        "w": 59,
+        "h": 47,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 59,
+        "sourceH": 47
+    },
+    "cj-jiny": {
+        "x": 145,
+        "y": 492,
+        "w": 29,
+        "h": 29,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 29,
+        "sourceH": 29
+    },
+    "cj-zuans": {
+        "x": 369,
+        "y": 688,
+        "w": 29,
+        "h": 27,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 29,
+        "sourceH": 27
+    },
+    "Dd-jib": {
+        "x": 267,
+        "y": 703,
+        "w": 29,
+        "h": 27,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 29,
+        "sourceH": 27
+    },
+    "FCM_03": {
+        "x": 145,
+        "y": 524,
+        "w": 84,
+        "h": 75,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 84,
+        "sourceH": 75
+    },
+    "FCM_06": {
+        "x": 1,
+        "y": 440,
+        "w": 179,
+        "h": 50,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 179,
+        "sourceH": 50
+    },
+    "lanzi": {
+        "x": 371,
+        "y": 1,
+        "w": 100,
+        "h": 100,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 100,
+        "sourceH": 100
+    },
+    "TC_603": {
+        "x": 279,
+        "y": 440,
+        "w": 145,
+        "h": 49,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 145,
+        "sourceH": 49
+    },
+    "TC_anniu1": {
+        "x": 231,
+        "y": 595,
+        "w": 108,
+        "h": 52,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 108,
+        "sourceH": 52
+    },
+    "TC_anniu2": {
+        "x": 231,
+        "y": 541,
+        "w": 108,
+        "h": 52,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 108,
+        "sourceH": 52
+    },
+    "TC_dikuang": {
+        "x": 1,
+        "y": 1,
+        "w": 368,
+        "h": 322,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 368,
+        "sourceH": 322
+    },
+    "TC_tishi": {
+        "x": 73,
+        "y": 680,
+        "w": 81,
+        "h": 46,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 81,
+        "sourceH": 46
+    },
+    "tishi": {
+        "x": 1,
+        "y": 403,
+        "w": 432,
+        "h": 35,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 432,
+        "sourceH": 35
+    },
+    "TT-jinyanzhi": {
+        "x": 267,
+        "y": 743,
+        "w": 51,
+        "h": 47,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 51,
+        "sourceH": 47
+    },
+    "TY_jiasu": {
+        "x": 371,
+        "y": 285,
+        "w": 115,
+        "h": 33,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 115,
+        "sourceH": 33
+    },
+    "TY_LB_baicaijia": {
+        "x": 212,
+        "y": 703,
+        "w": 53,
+        "h": 47,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 53,
+        "sourceH": 47
+    },
+    "TY_LB_banjia": {
+        "x": 56,
+        "y": 728,
+        "w": 53,
+        "h": 47,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 53,
+        "sourceH": 47
+    },
+    "TY_LB_bazhe": {
+        "x": 369,
+        "y": 735,
+        "w": 53,
+        "h": 47,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 53,
+        "sourceH": 47
+    },
+    "TY_LB_jiuzhe": {
+        "x": 111,
+        "y": 737,
+        "w": 53,
+        "h": 47,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 53,
+        "sourceH": 47
+    },
+    "TY_LB_liuzhe": {
+        "x": 1,
+        "y": 740,
+        "w": 53,
+        "h": 47,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 53,
+        "sourceH": 47
+    },
+    "TY_LB_qizhe": {
+        "x": 424,
+        "y": 741,
+        "w": 53,
+        "h": 47,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 53,
+        "sourceH": 47
+    },
+    "TY_LB_tiaoloujia": {
+        "x": 1,
+        "y": 691,
+        "w": 53,
+        "h": 47,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 53,
+        "sourceH": 47
+    },
+    "TY-zuangshi": {
+        "x": 470,
+        "y": 186,
+        "w": 35,
+        "h": 38,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 35,
+        "sourceH": 38
+    },
+    "TYER-zuanshi": {
+        "x": 470,
+        "y": 226,
+        "w": 41,
+        "h": 32,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 41,
+        "sourceH": 32
+    },
+    "xin": {
+        "x": 368,
+        "y": 784,
+        "w": 42,
+        "h": 46,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 42,
+        "sourceH": 46
+    },
+    "XZ_chahei": {
+        "x": 413,
+        "y": 617,
+        "w": 76,
+        "h": 67,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 76,
+        "sourceH": 67
+    },
+    "FDSX_03": {
+        "x": 435,
+        "y": 403,
+        "w": 60,
+        "h": 129,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 60,
+        "sourceH": 129
+    },
+    "HS_06": {
+        "x": 79,
+        "y": 538,
+        "w": 60,
+        "h": 58,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 60,
+        "sourceH": 58
+    },
+    "ZJM_06": {
+        "x": 470,
+        "y": 260,
+        "w": 22,
+        "h": 22,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 22,
+        "sourceH": 22
+    },
+    "ZJM_09": {
+        "x": 490,
+        "y": 125,
+        "w": 19,
+        "h": 21,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 19,
+        "sourceH": 21
+    },
+    "ZJM_12": {
+        "x": 490,
+        "y": 103,
+        "w": 21,
+        "h": 20,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 21,
+        "sourceH": 20
+    },
+    "ZJM_13": {
+        "x": 473,
+        "y": 41,
+        "w": 37,
+        "h": 38,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 37,
+        "sourceH": 38
+    },
+    "ZJM_15": {
+        "x": 473,
+        "y": 81,
+        "w": 22,
+        "h": 20,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 22,
+        "sourceH": 20
+    },
+    "ZJM_23": {
+        "x": 412,
+        "y": 790,
+        "w": 79,
+        "h": 19,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 79,
+        "sourceH": 19
+    },
+    "ZJM_031": {
+        "x": 483,
+        "y": 320,
+        "w": 24,
+        "h": 40,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 24,
+        "sourceH": 40
+    },
+    "ZJM_39": {
+        "x": 425,
+        "y": 534,
+        "w": 75,
+        "h": 81,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 75,
+        "sourceH": 81
+    },
+    "ZJM_42": {
+        "x": 1,
+        "y": 538,
+        "w": 76,
+        "h": 79,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 76,
+        "sourceH": 79
+    },
+    "ZJM_43": {
+        "x": 1,
+        "y": 325,
+        "w": 480,
+        "h": 76,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 480,
+        "sourceH": 76
+    },
+    "ZJM_052": {
+        "x": 115,
+        "y": 786,
+        "w": 42,
+        "h": 39,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 42,
+        "sourceH": 39
+    },
+    "ZJM_063": {
+        "x": 156,
+        "y": 680,
+        "w": 54,
+        "h": 55,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 54,
+        "sourceH": 55
+    },
+    "ZJM_067": {
+        "x": 79,
+        "y": 601,
+        "w": 70,
+        "h": 77,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 70,
+        "sourceH": 77
+    },
+    "ZJM_0354": {
+        "x": 151,
+        "y": 601,
+        "w": 70,
+        "h": 77,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 70,
+        "sourceH": 77
+    },
+    "ZJM3_067": {
+        "x": 341,
+        "y": 541,
+        "w": 70,
+        "h": 77,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 70,
+        "sourceH": 77
+    },
+    "ZJMER-jinbi": {
+        "x": 166,
+        "y": 752,
+        "w": 45,
+        "h": 46,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 45,
+        "sourceH": 46
+    },
+    "ZJMER-jinyan": {
+        "x": 320,
+        "y": 743,
+        "w": 46,
+        "h": 48,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 46,
+        "sourceH": 48
+    },
+    "ZJMER-zuanshi": {
+        "x": 213,
+        "y": 752,
+        "w": 47,
+        "h": 44,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 47,
+        "sourceH": 44
+    },
+    "SJ_03": {
+        "x": 371,
+        "y": 103,
+        "w": 117,
+        "h": 81,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 117,
+        "sourceH": 81
+    },
+    "SJ_06": {
+        "x": 223,
+        "y": 649,
+        "w": 93,
+        "h": 52,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 93,
+        "sourceH": 52
+    },
+    "SJ_09": {
+        "x": 56,
+        "y": 786,
+        "w": 57,
+        "h": 34,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 57,
+        "sourceH": 34
+    },
+    "SJ_15": {
+        "x": 182,
+        "y": 440,
+        "w": 95,
+        "h": 82,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 95,
+        "sourceH": 82
+    },
+    "SGK": {
+        "x": 341,
+        "y": 620,
+        "w": 58,
+        "h": 66,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 58,
+        "sourceH": 66
+    },
+    "liandao": {
+        "x": 1,
+        "y": 619,
+        "w": 70,
+        "h": 70,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 70,
+        "sourceH": 70
+    },
+    "ZJM_4": {
+        "x": 318,
+        "y": 688,
+        "w": 49,
+        "h": 53,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 49,
+        "sourceH": 53
+    },
+    "ZJM_5": {
+        "x": 462,
+        "y": 686,
+        "w": 49,
+        "h": 53,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 49,
+        "sourceH": 53
+    },
+    "ZJM_143": {
+        "x": 473,
+        "y": 1,
+        "w": 37,
+        "h": 38,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 37,
+        "sourceH": 38
+    },
+    "QD-1": {
+        "x": 1,
+        "y": 492,
+        "w": 142,
+        "h": 44,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 142,
+        "sourceH": 44
+    },
+    "QD-3": {
+        "x": 371,
+        "y": 186,
+        "w": 97,
+        "h": 97,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 97,
+        "sourceH": 97
+    },
+    "DL-2": {
+        "x": 279,
+        "y": 491,
+        "w": 144,
+        "h": 48,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 144,
+        "sourceH": 48
+    }
+}}

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="480" height="430" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.TitleWindow"/>
+	<w:Declarations/>
+	<e:UIAsset id="bgAsset" height="431" width="466" fillMode="scale" source="TC_dikuang" y="-1" scale9Grid="166,99,42,181" horizontalCenter="1"/>
+	<e:UIAsset source="LC_baibang" width="443" height="349" y="68" scale9Grid="56,33,337,203" horizontalCenter="0.5"/>
+	<e:Button id="confirmBtn" width="222" skinName="skins.uicompenet.Buttons.BuyGoodsButtonSkin" icon="ZJMER-zuanshi" label="10" x="131" y="337"/>
+	<e:Button id="closeButton" label="按钮" skinName="skins.simple.CloseButtonSkin" y="8" x="412"/>
+	<e:Label id="messageLabel" width="430" height="86" textAlign="center" fontFamily="Microsoft YaHei" bold="true" lineSpacing="10" size="24" verticalAlign="middle" textColor="2883584" y="77" x="24"/>
+	<e:UIAsset source="TC_603" y="12" x="173"/>
+	<e:UIAsset id="right" source="LC_jiantou" alpha=".5" x="441" y="209"/>
+	<e:UIAsset id="left" source="LC_jiantou" scaleX="-1" alpha=".5" x="38" y="209"/>
+	<e:Scroller id="listScroller" height="140" width="398" x="40" y="147" locked="true">
+		<e:Group id="listGroup" height="140" width="398">
+			<e:layout>
+				<e:HorizontalLayout horizontalAlign="center" verticalAlign="contentJustify" gap="0"/>
+			</e:layout>
+		</e:Group>
+	</e:Scroller>
+	<e:Label id="repxLabel" y="307" textColor="0x818181" size="18" fontFamily="微软雅黑" verticalAlign="middle" horizontalCenter="-0.5" width="437" textAlign="center"/>
+</e:Skin>

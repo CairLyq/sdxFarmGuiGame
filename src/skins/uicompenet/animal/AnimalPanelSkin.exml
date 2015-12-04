@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="480" height="268" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset id="mc_animal" width="95" height="76" x="0" y="0"/>
+	<e:UIAsset source="DD_4" scale9Grid="50,40,235,6" height="104" width="320" x="100" y="10"/>
+	<e:Label id="txt_dialog" textColor="0x5C300D" width="274" text="你好我现在需要这个，你可以卖给我吗？" fontFamily="Microsoft YaHei" size="18" lineSpacing="5" x="134" y="28"/>
+	<e:UIAsset source="SCJZ_xiaodilan" x="5" y="113"/>
+	<e:UIAsset source="LC_baibang" width="450" height="138" scale9Grid="56,33,337,203" x="14" y="124"/>
+	<e:UIAsset source="LC_dioahua" x="10" y="124"/>
+	<e:UIAsset scaleX="-1" source="LC_dioahua" x="469" y="124"/>
+	<e:UIAsset scaleY="-1" source="LC_dioahua" x="10" y="258"/>
+	<e:UIAsset scaleY="-1" scaleX="-1" source="LC_dioahua" x="469" y="258"/>
+	<e:Button id="btn_close" skinName="skins.simple.CloseButtonSkin" label="按钮" x="413" y="59"/>
+	<e:Group id="gr_hungry" width="450" height="138" x="14" y="124" visible="false">
+		<e:UIAsset id="btn_feed" source="TC_anniu1" width="123" scale9Grid="33,0,31,52" x="312" y="50"/>
+		<e:Label fontFamily="Microsoft YaHei" size="18" strokeColor="0x3C6602" stroke="2" height="30" text=" 喂食" x="347" y="64" touchEnabled="false"/>
+		<e:Label id="txt_numBefore" text="1234" size="18" fontFamily="Arial" bold="true" textColor="0xFFFFFF" stroke="2" strokeColor="0x000000" y="62" x="86"/>
+		<e:Label id="txt_numAfter" text="1234" size="18" fontFamily="Arial" bold="true" stroke="2" strokeColor="0x000000" textColor="0xFFFFFF" x="269" y="62"/>
+		<e:UIAsset id="img_itemBefore" source="1101_niaosiliao" y="32" x="26"/>
+		<e:UIAsset id="img_itemAfter" source="1101_niaosiliao" size="30" x="212" y="32"/>
+		<e:UIAsset source="CCDD_03" x="138" y="48"/>
+	</e:Group>
+	<e:Group id="gr_full" width="450" height="138" x="14" y="124" visible="false">
+		<e:UIAsset id="btn_harvest" source="TC_anniu1" scale9Grid="33,0,31,52" width="123" y="46" x="269"/>
+		<e:Label strokeColor="0x3C6602" fontFamily="Microsoft YaHei" height="30" size="18" stroke="2" text="收获" y="61" x="308" touchEnabled="false"/>
+		<e:Label textColor="0x5C300D" fontFamily="微软雅黑" size="18" text="可收获" y="73" x="139"/>
+		<e:Label id="txt_itemNameInFull" textColor="0x5C300D" size="18" fontFamily="微软雅黑" text="鸟蛋X3" x="139" y="32"/>
+		<e:UIAsset id="img_itemInFull" width="64" height="64" source="201_niaodan" x="41" y="27"/>
+	</e:Group>
+	<e:Group id="gr_normal" height="138" width="450" x="14" y="124">
+		<e:UIAsset id="btn_speed" source="TC_anniu1" scale9Grid="33,0,31,52" width="123" x="283" y="46"/>
+		<e:Label strokeColor="0x3C6602" fontFamily="Microsoft YaHei" height="30" size="18" stroke="2" text="加速" y="61" touchEnabled="false" x="299"/>
+		<e:Label id="txt_leftTime" textColor="0x5C300D" fontFamily="微软雅黑" size="18" text="剩余时间" x="156" y="76"/>
+		<e:Label id="txt_itemNameInNormal" textColor="0x5C300D" text="鸟蛋X3" fontFamily="微软雅黑" size="18" x="155" y="33"/>
+		<e:UIAsset id="img_itemInNormal" height="64" width="64" x="54" source="201_niaodan" y="27"/>
+		<e:UIAsset source="cj-zuans" x="340" y="58" touchEnabled="false"/>
+		<e:Label id="txt_diamond" text="2" size="18" fontFamily="Microsoft YaHei" x="371" y="61" touchEnabled="false"/>
+	</e:Group>
+</e:Skin>

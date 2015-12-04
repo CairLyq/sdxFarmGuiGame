@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="480" height="800" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset id="clickLayer" locked="true"/>
+	<e:UIAsset id="start0" x="0" y="0" source="SG_1_png" locked="true" visible="false"/>
+	<e:UIAsset id="start1" x="0" source="SG_2_png" top="269" height="268" locked="true" visible="false"/>
+	<e:UIAsset id="start2" source="SG_3_png" x="0" y="537" locked="true" visible="false"/>
+	<e:UIAsset id="dialog0" source="SG_di_png" scale9Grid="30,30,24,19" height="40" width="367" visible.disabled="false" scale9Grid.normal="17,16,12,11" visible.normal="false" locked="true" visible="false"/>
+	<e:UIAsset id="dialog1" source="SG_di_png" scale9Grid="30,30,24,19" width="420" height="80" y="189" visible.disabled="false" scale9Grid.normal="17,16,12,11" right="0" visible="false" locked="true"/>
+	<e:UIAsset id="dialog2" source="SG_di_png" scale9Grid="30,30,24,19" width="367" height="80" y="269" visible.disabled="false" scale9Grid.normal="17,16,12,11" locked="true" visible.normal="false" visible="false"/>
+	<e:UIAsset id="dialog3" scale9Grid="30,30,24,19" width="367" source="SG_di_png" height="40" y="496" right="0" visible.disabled="false" scale9Grid.normal="17,16,12,11" locked="true" visible.normal="false" visible="false"/>
+	<e:UIAsset id="dialog4" height="80" width="433" source="SG_di_png" scale9Grid="30,30,24,19" y="537" visible.disabled="false" scale9Grid.normal="17,16,12,11" visible.normal="false" locked="true" visible="false"/>
+	<e:UIAsset id="start3" source="SG_4_png" right="0" y="0" locked="true" visible="false"/>
+	<e:UIAsset id="start4" source="SG_5_png" height="261" y="267" locked="true" visible="false"/>
+	<e:UIAsset id="start5" source="SG_6_png" y="528" locked="true" visible="false"/>
+	<e:UIAsset id="dialog5" scale9Grid="30,30,24,19" source="SG_di_png" height="80" width="399" y="186" scale9Grid.normal="17,16,12,11" horizontalCenter="0.5" locked="true" visible="false"/>
+	<e:UIAsset id="dialog6" scale9Grid="30,30,24,19" source="SG_di_png" width="367" height="80" y="267" right="0" scale9Grid.normal="17,16,12,11" locked="true" visible="false"/>
+	<e:UIAsset id="dialog7" scale9Grid="30,30,24,19" source="SG_di_png" height="150" width="295" scale9Grid.normal="17,16,12,11" y="377" locked="true" visible="false"/>
+	<e:UIAsset id="dialog8" source="SG_di_png" scale9Grid="30,30,24,19" width="474" height="95" x="10" y="700" right="0" scale9Grid.normal="17,16,12,11" locked="true" visible="false"/>
+	<e:UIAsset id="start6" source="SG_8_png" locked="true" visible="false"/>
+	<e:UIAsset id="start7" source="SG_7_png" locked="true" visible="false"/>
+	<e:UIAsset id="start8" source="SG_9_png" locked="true" visible="false"/>
+	<e:UIAsset id="start9" source="SG_10_png" y="269" locked="true" visible="false"/>
+	<e:UIAsset id="start10" source="SG_11_png" y="538" locked="true" visible="false"/>
+	<e:UIAsset id="dialog9" height="80" source="SG_di_png" width="425" scale9Grid="30,30,24,19" right="27" horizontalCenter="0.5" locked="true" visible="false" scale9Grid.normal="17,16,12,11"/>
+	<e:UIAsset id="dialog10" scale9Grid="30,30,24,19" source="SG_di_png" height="40" width="479" y="268" horizontalCenter="0" right="0" locked="true" visible="false" scale9Grid.normal="17,16,12,11"/>
+	<e:UIAsset id="dialog11" width="480" source="SG_di_png" scale9Grid="30,30,24,19" height="95" scale9Grid.normal="17,16,12,11" horizontalCenter="0" fillMode="scale" autoScale="true" bottom="0" locked="true" visible="false"/>
+	<e:UIAsset id="text0" width="20" height="20" x="-115" y="566"/>
+	<e:UIAsset id="text1" width="20" height="20" x="-102" y="672"/>
+	<e:UIAsset id="text2" width="20" height="20" x="-85" y="725"/>
+	<e:UIAsset id="text3" width="20" height="20" x="-59" y="632"/>
+	<e:UIAsset id="text4" width="20" height="20" x="-56" y="707"/>
+	<e:Label id="jump" text="跳过剧情......" right="10" top="10" fontFamily="微软雅黑" size="20" textColor="0xFF0000"/>
+</e:Skin>

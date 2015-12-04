@@ -1,0 +1,207 @@
+﻿{
+    "mc": {
+        "bird_fly_in": {
+            "frameRate": 24,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "bird_fly_in0000",
+                    "x": -37.5,
+                    "y": -52.55,
+                    "duration": 3
+                },
+                {
+                    "res": "bird_fly_in0003",
+                    "x": -37.5,
+                    "y": -52.55,
+                    "duration": 3
+                },
+                {
+                    "res": "bird_fly_in0006",
+                    "x": -37.5,
+                    "y": -52.55,
+                    "duration": 3
+                },
+                {
+                    "res": "bird_fly_in0009",
+                    "x": -37.5,
+                    "y": -52.55,
+                    "duration": 3
+                },
+                {
+                    "res": "bird_fly_in0012",
+                    "x": -37.5,
+                    "y": -52.55,
+                    "duration": 1
+                }
+            ]
+        },
+        "bird_fly_out": {
+            "frameRate": 24,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "bird_fly_out0000",
+                    "x": -37.5,
+                    "y": -52.55,
+                    "duration": 3
+                },
+                {
+                    "res": "bird_fly_out0003",
+                    "x": -37.5,
+                    "y": -52.55,
+                    "duration": 3
+                },
+                {
+                    "res": "bird_fly_out0006",
+                    "x": -37.5,
+                    "y": -52.55,
+                    "duration": 3
+                },
+                {
+                    "res": "bird_fly_out0009",
+                    "x": -37.5,
+                    "y": -52.55,
+                    "duration": 3
+                },
+                {
+                    "res": "bird_fly_out0012",
+                    "x": -37.5,
+                    "y": -52.55,
+                    "duration": 1
+                }
+            ]
+        },
+        "bird_stand": {
+            "frameRate": 24,
+            "labels": [
+            ],
+            "frames": [
+                {
+                    "res": "bird_stand0000",
+                    "x": -25.5,
+                    "y": -31.05,
+                    "duration": 3
+                },
+                {
+                    "res": "bird_stand0003",
+                    "x": -25.5,
+                    "y": -31.05,
+                    "duration": 3
+                },
+                {
+                    "res": "bird_stand0006",
+                    "x": -25.5,
+                    "y": -31.05,
+                    "duration": 3
+                },
+                {
+                    "res": "bird_stand0009",
+                    "x": -25.5,
+                    "y": -31.05,
+                    "duration": 3
+                },
+                {
+                    "res": "bird_stand0012",
+                    "x": -25.5,
+                    "y": -31.05,
+                    "duration": 1
+                }
+            ]
+        }
+    },
+    "res": {
+        "bird_fly_in0000": {
+            "x": 0,
+            "y": 0,
+            "w": 76,
+            "h": 107
+        },
+        "bird_fly_in0003": {
+            "x": 76,
+            "y": 0,
+            "w": 76,
+            "h": 107
+        },
+        "bird_fly_in0006": {
+            "x": 152,
+            "y": 0,
+            "w": 76,
+            "h": 107
+        },
+        "bird_fly_in0009": {
+            "x": 228,
+            "y": 0,
+            "w": 76,
+            "h": 107
+        },
+        "bird_fly_in0012": {
+            "x": 304,
+            "y": 0,
+            "w": 76,
+            "h": 107
+        },
+        "bird_fly_out0000": {
+            "x": 380,
+            "y": 0,
+            "w": 76,
+            "h": 107
+        },
+        "bird_fly_out0003": {
+            "x": 0,
+            "y": 107,
+            "w": 76,
+            "h": 107
+        },
+        "bird_fly_out0006": {
+            "x": 76,
+            "y": 107,
+            "w": 76,
+            "h": 107
+        },
+        "bird_fly_out0009": {
+            "x": 152,
+            "y": 107,
+            "w": 76,
+            "h": 107
+        },
+        "bird_fly_out0012": {
+            "x": 228,
+            "y": 107,
+            "w": 76,
+            "h": 107
+        },
+        "bird_stand0000": {
+            "x": 304,
+            "y": 107,
+            "w": 54,
+            "h": 63
+        },
+        "bird_stand0003": {
+            "x": 358,
+            "y": 107,
+            "w": 54,
+            "h": 63
+        },
+        "bird_stand0006": {
+            "x": 412,
+            "y": 107,
+            "w": 54,
+            "h": 63
+        },
+        "bird_stand0009": {
+            "x": 466,
+            "y": 107,
+            "w": 54,
+            "h": 63
+        },
+        "bird_stand0012": {
+            "x": 304,
+            "y": 107,
+            "w": 54,
+            "h": 63
+        }
+    }
+}

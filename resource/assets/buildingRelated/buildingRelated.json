@@ -1,0 +1,102 @@
+{"file": "buildingRelated.png", "frames": {
+    "JTXZ-jiantou": {
+        "x": 160,
+        "y": 118,
+        "w": 42,
+        "h": 131,
+        "offX": 4,
+        "offY": 3,
+        "sourceW": 53,
+        "sourceH": 146
+    },
+    "JTXZ-jiantoux": {
+        "x": 109,
+        "y": 118,
+        "w": 49,
+        "h": 140,
+        "offX": 1,
+        "offY": 3,
+        "sourceW": 53,
+        "sourceH": 146
+    },
+    "SHJS-dikuang": {
+        "x": 1,
+        "y": 118,
+        "w": 106,
+        "h": 106,
+        "offX": 4,
+        "offY": 3,
+        "sourceW": 115,
+        "sourceH": 114
+    },
+    "SHJS-shijian": {
+        "x": 204,
+        "y": 118,
+        "w": 46,
+        "h": 47,
+        "offX": 1,
+        "offY": 3,
+        "sourceW": 51,
+        "sourceH": 54
+    },
+    "SHJS-shijiantiao": {
+        "x": 114,
+        "y": 321,
+        "w": 109,
+        "h": 31,
+        "offX": 4,
+        "offY": 3,
+        "sourceW": 117,
+        "sourceH": 39
+    },
+    "SHJS-shijiantiaodi": {
+        "x": 1,
+        "y": 321,
+        "w": 111,
+        "h": 33,
+        "offX": 3,
+        "offY": 3,
+        "sourceW": 117,
+        "sourceH": 39
+    },
+    "XZ_cha": {
+        "x": 1,
+        "y": 226,
+        "w": 76,
+        "h": 59,
+        "offX": 0,
+        "offY": 4,
+        "sourceW": 76,
+        "sourceH": 67
+    },
+    "XZ_di": {
+        "x": 1,
+        "y": 1,
+        "w": 242,
+        "h": 115,
+        "offX": 3,
+        "offY": 1,
+        "sourceW": 247,
+        "sourceH": 117
+    },
+    "XZ_gou": {
+        "x": 160,
+        "y": 251,
+        "w": 76,
+        "h": 59,
+        "offX": 0,
+        "offY": 3,
+        "sourceW": 76,
+        "sourceH": 67
+    },
+    "XZ_xuanz": {
+        "x": 79,
+        "y": 260,
+        "w": 76,
+        "h": 59,
+        "offX": 0,
+        "offY": 4,
+        "sourceW": 76,
+        "sourceH": 67
+    }
+}}

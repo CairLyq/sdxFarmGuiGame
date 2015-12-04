@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="105" height="70" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.ItemRenderer"/>
+	<w:Declarations/>
+	<e:UIAsset id="propIcon" scaleX="0.8" scaleY="0.8" y="3" x="31"/>
+	<e:Label id="num" textColor="0xFFFFFF" width="72" fontFamily="Arial" bold="true" height="24" verticalAlign="bottom" text="17 / 17" textAlign="center" horizontalCenter="-1.5" y="45" size="18"/>
+	<e:UIAsset id="ready" scaleX="0.8" scaleY="0.8" verticalCenter="0" right="0" source="KJ_gou"/>
+</e:Skin>

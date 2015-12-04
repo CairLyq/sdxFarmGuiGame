@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.Button"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="up"/>
+		<e:State name="down"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset y="0" source="GG_11" x="0" touchChildren="true" touchEnabled="true"/>
+	<e:Label id="labelDisplay" verticalAlign="middle" text="进入游戏" fontFamily="Microsoft YaHei" textAlign="center" maxDisplayedLines="1" width="116" x="13" touchEnabled="true" touchChildren="true" size="26" verticalCenter="-2.5"/>
+</e:Skin>

@@ -1,0 +1,192 @@
+{"file": "setting.png", "frames": {
+    "SZ_1": {
+        "x": 331,
+        "y": 118,
+        "w": 32,
+        "h": 35,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 32,
+        "sourceH": 35
+    },
+    "SZ_2": {
+        "x": 365,
+        "y": 118,
+        "w": 32,
+        "h": 35,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 32,
+        "sourceH": 35
+    },
+    "SZ_3": {
+        "x": 399,
+        "y": 118,
+        "w": 32,
+        "h": 35,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 32,
+        "sourceH": 35
+    },
+    "SZ_4": {
+        "x": 433,
+        "y": 118,
+        "w": 32,
+        "h": 35,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 32,
+        "sourceH": 35
+    },
+    "SZ_5": {
+        "x": 467,
+        "y": 118,
+        "w": 32,
+        "h": 35,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 32,
+        "sourceH": 35
+    },
+    "SZ_6": {
+        "x": 297,
+        "y": 118,
+        "w": 32,
+        "h": 35,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 32,
+        "sourceH": 35
+    },
+    "SZ_an": {
+        "x": 82,
+        "y": 138,
+        "w": 33,
+        "h": 33,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 33,
+        "sourceH": 33
+    },
+    "SZ_aniu": {
+        "x": 329,
+        "y": 1,
+        "w": 175,
+        "h": 49,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 175,
+        "sourceH": 49
+    },
+    "SZ_bang": {
+        "x": 1,
+        "y": 1,
+        "w": 326,
+        "h": 44,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 326,
+        "sourceH": 44
+    },
+    "SZ_lu": {
+        "x": 323,
+        "y": 52,
+        "w": 174,
+        "h": 31,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 174,
+        "sourceH": 31
+    },
+    "SZ_luz": {
+        "x": 323,
+        "y": 85,
+        "w": 174,
+        "h": 31,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 174,
+        "sourceH": 31
+    },
+    "SZ_qianbi": {
+        "x": 117,
+        "y": 138,
+        "w": 25,
+        "h": 23,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 25,
+        "sourceH": 23
+    },
+    "SZ_shezhi": {
+        "x": 1,
+        "y": 98,
+        "w": 79,
+        "h": 44,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 79,
+        "sourceH": 44
+    },
+    "SZ_touxiang": {
+        "x": 178,
+        "y": 95,
+        "w": 64,
+        "h": 76,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 64,
+        "sourceH": 76
+    },
+    "SZ_tx": {
+        "x": 244,
+        "y": 95,
+        "w": 51,
+        "h": 53,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 51,
+        "sourceH": 53
+    },
+    "SZ_yinxiang": {
+        "x": 82,
+        "y": 98,
+        "w": 40,
+        "h": 38,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 40,
+        "sourceH": 38
+    },
+    "SZ_yinyue": {
+        "x": 124,
+        "y": 98,
+        "w": 40,
+        "h": 38,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 40,
+        "sourceH": 38
+    },
+    "SZ_aniuFB": {
+        "x": 1,
+        "y": 47,
+        "w": 175,
+        "h": 49,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 175,
+        "sourceH": 49
+    },
+    "SZ_zi": {
+        "x": 178,
+        "y": 47,
+        "w": 143,
+        "h": 46,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 143,
+        "sourceH": 46
+    }
+}}

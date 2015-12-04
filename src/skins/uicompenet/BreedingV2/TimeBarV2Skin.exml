@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="100" height="100" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset source="YZ_05" x="-53" y="-6"/>
+	<e:UIAsset id="speed_btn" height="34" width="116" source="TY_jiasu" x="-39" y="50"/>
+	<e:UIAsset source="ZJM_15" y="58" x="16"/>
+	<e:UIAsset id="product_img" scaleY="0.5" scaleX="0.5" y="16" source="202_niunai" x="-41"/>
+	<e:Label id="time_lb" textColor="0x423001" fontFamily="Microsoft YaHei" height="28" size="18" width="90" bold="true" verticalAlign="middle" y="18" x="-6" textAlign="center" text="10分23秒"/>
+	<e:Label textColor="0xFFFFFF" text="加速" fontFamily="Microsoft YaHei" size="18" width="40" bold="true" height="28" verticalAlign="middle" textAlign="center" y="53" x="-31"/>
+	<e:Label id="dNum_lb" text="1" fontFamily="Microsoft YaHei" textAlign="center" size="18" width="36" height="27" verticalAlign="middle" y="53" x="37"/>
+</e:Skin>

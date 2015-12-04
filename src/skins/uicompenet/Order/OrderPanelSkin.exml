@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="480" height="600" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing" xmlns:game="game.*">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset source="DD_17" horizontalCenter="-5"/>
+	<e:UIAsset id="npc" y="174" x="14"/>
+	<e:UIAsset id="dialogBg" source="DD_4" horizontalCenter="47.5" bottom="226" scale9Grid="44,19,256,26"/>
+	<e:UIAsset scale9Grid="56,33,337,203" source="LC_baibang" y="385" height="193" x="10"/>
+	<e:UIAsset source="DD_1" y="15" width="79" height="47" horizontalCenter="-4.5"/>
+	<e:UIAsset id="typing" width="291" height="51" size="18" y="318" x="151" fontFamily="Microsoft YaHei" locked="true"/>
+	<e:UIAsset id="closeBtn" source="LC_guanbi" y="3" height="54" x="410"/>
+	<e:UIAsset source="LC_dioahua" x="10" y="84"/>
+	<e:UIAsset source="LC_dioahua" scaleX="-1" x="463" y="84"/>
+	<e:UIAsset source="LC_dioahua" scaleY="-1" x="10" y="379"/>
+	<e:UIAsset source="LC_dioahua" scaleX="-1" scaleY="-1" x="463" y="379"/>
+	<game:OrderItemRender id="item1" width="75" height="75" y="98" x="123" locked="true"/>
+	<game:OrderItemRender id="item2" height="75" width="75" y="97" x="374" locked="true"/>
+	<game:OrderItemRender id="item4" height="75" width="75" y="93" x="218" locked="true"/>
+	<game:OrderItemRender id="item0" y="96" width="75" height="75" x="38" locked="true"/>
+	<game:OrderItemRender id="item3" width="75" height="75" y="169" x="234" locked="true"/>
+	<game:OrderItemRender id="item5" width="75" height="75" y="167" x="312" locked="true"/>
+	<game:OrderItemRender id="item6" height="75" width="75" y="244" x="266" locked="true"/>
+	<game:OrderItemRender id="item7" width="75" height="75" y="239" x="374" locked="true"/>
+	<e:Label id="firstDialog" width="428" textAlign="center" size="22" textColor="0x653917" y="466" fontFamily="微软雅黑" x="21" verticalAlign="middle" bold="true" text="点击一个头像打开订单"/>
+	<game:OrderNew id="orderNew" y="385" x="10" visible="false" locked="true"/>
+	<game:OrderDetail id="orderDetail" y="385" x="10" visible="false" locked="true"/>
+</e:Skin>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="480" height="800" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:UIAsset id="avatar" x="19" source="ZJM_5" y="12"/>
+	<e:UIAsset id="topIcons" x="0" y="0" source="ZJM_43" locked="true"/>
+	<e:UIAsset id="progress" width="76" height="17" x="82" y="11.5"/>
+	<e:UIAsset id="mainTaskBg" x="6" source="ZJM_0354" y="94"/>
+	<e:UIAsset id="everyTaskBg" x="5" source="ZJM_067" y="177"/>
+	<e:Label id="expLabel" textColor="0xFDF9D6" text="999999999" fontFamily="Microsoft YaHei" size="14" width="81" verticalAlign="middle" maxDisplayedLines="1" cacheAsBitmap="false" bold="true" textAlign="center" x="80" height="22" y="9"/>
+	<e:Label id="userNameLabel" height="28" textColor="0xFFFFFF" fontFamily="Microsoft YaHei" width="100" verticalAlign="middle" maxDisplayedLines="1" cacheAsBitmap="false" textAlign="center" x="81" y="45" size="14" text="阿莎加尔 格拉"/>
+	<e:Label id="diamondLabel" textColor="0xFDF9D6" text="999999999" fontFamily="Microsoft YaHei" size="14" width="81" verticalAlign="middle" maxDisplayedLines="1" cacheAsBitmap="false" bold="true" textAlign="center" x="241" height="22" y="10"/>
+	<e:Label id="goldLabel" textColor="0xFDF9D6" text="999999999" fontFamily="Microsoft YaHei" size="14" width="81" verticalAlign="middle" maxDisplayedLines="1" cacheAsBitmap="false" bold="true" textAlign="center" x="367" y="10" height="22"/>
+	<e:UIAsset id="shop" x="10" source="ZJM_39" y="709"/>
+	<e:UIAsset id="friend" source="ZJM_42" y="711" x="394" visible="false"/>
+	<e:UIAsset id="npc1" x="10" y="146"/>
+	<e:UIAsset id="npc2" x="10" y="206"/>
+	<e:UIAsset id="goldIcon" source="Dd-jib" x="437" y="8" visible="false"/>
+	<e:UIAsset id="expIcon" source="cj-jiny" x="158" y="6" visible="false"/>
+	<e:UIAsset id="diamondIcon" source="cj-zuans" x="311" y="7" visible="false"/>
+	<e:UIAsset id="zoom" cacheAsBitmap="false" source="FDSX_03" x="417" y="580"/>
+	<e:UIAsset id="zoomGray" source="HS_06" y="583" x="418"/>
+	<e:Button id="idenButton" skinName="skins.uicompenet.Shopping.ShopIdenButtonSkin" label="3" stickyHighlighting="false" anchorX="0.5" anchorY="0.5" left="67" x="10" y="10" top="719"/>
+	<e:Button id="mainStatus" anchorX="0.5" anchorY="0.5" stickyHighlighting="false" skinName="skins.uicompenet.Shopping.ShopIdenButtonSkin" x="10" y="10" label="！" fontFamily="Microsoft YaHei" left="67" top="100" bold="true" textAlign="center"/>
+	<e:Button id="everyTaskStatus" anchorX="0.5" anchorY="0.5" stickyHighlighting="false" skinName="skins.uicompenet.Shopping.ShopIdenButtonSkin" x="10" y="10" label="！" fontFamily="Microsoft YaHei" left="67" top="182" bold="true" textAlign="center"/>
+</e:Skin>

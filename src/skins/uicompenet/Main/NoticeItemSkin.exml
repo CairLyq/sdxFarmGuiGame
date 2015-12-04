@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing" minHeight="200" width="419">
+	<w:HostComponent name="egret.gui.ItemRenderer"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="up"/>
+		<e:State name="down"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset id="bgAsset" source="GG_07" fillMode="scale" autoScale="true" scale9Grid="23,45,374,129" height="100%" locked="true"/>
+	<e:Label id="labelDisplay" text="标签" x="6" width="404" textAlign="center" verticalAlign="middle" fontFamily="Microsoft YaHei" size="22" textColor="0x000000" bold="true" height="33" y="-2" locked="true"/>
+	<e:Label id="contentLabel" x="7" y="30" width="404" fontFamily="Microsoft YaHei" textColor="0x000000" padding="10" lineSpacing="5" size="18" text="签标标标签标签标标" locked="true"/>
+	<e:Button id="goButton" skinName="skins.uicompenet.Main.UIButtonBaseSkin" label="前往" horizontalCenter="0" bottom="0"/>
+	<e:Button id="newButton" skinName="skins.uicompenet.Main.LableButtonSkin" icon="TY_LB_tiaoloujia" touchEnabled="false" touchChildren="false" label="跳楼价"/>
+</e:Skin>

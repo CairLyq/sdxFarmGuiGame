@@ -1,0 +1,328 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>精灵庄园</title>
+    <meta name="viewport"
+          content="width=device-width,initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no,target-densitydpi=device-dpi"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+
+    <meta name="full-screen" content="true"/>
+    <meta name="screen-orientation" content="portrait"/>
+    <meta name="x5-fullscreen" content="true"/>
+    <meta name="360-fullscreen" content="true"/>
+
+    <link rel="apple-touch-icon" href="touch_icon_57.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="touch_icon_76.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="touch_icon_120.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="touch_icon_152.png">
+
+    <link rel='icon' href='touch_icon_120.png' type='image/x-icon' />
+    <link rel='shortcut icon' href='touch_icon_120.png' type='image/x-icon' />
+
+    <base href="../"/>
+
+    <style>
+        body {text-align: center;background: #000000;padding: 0;border: 0;margin: 0;height: 100%;}
+        html {-ms-touch-action: none;overflow: hidden;}
+        #gameDiv, canvas {display:block;position:absolute;margin: 0 auto;padding: 0;border: 0;}
+        #logo{
+            align:center; position: absolute;
+            margin:0 auto; margin-top: 60%;
+            padding:0;
+            opacity:.0; -webkit-opacity:.0; -moz-opacity: .0; -ms-opacity:.0; -o-opacity:.0;
+        }
+        #print-div{
+            display: none; width: 100%; height: 100%;line-height: 22px;
+            font-size: 14px; color:#ffffff; margin: 0; padding: 20% 20px 0 20px;
+            background-color: rgba(0,0,0,0.5);
+            position: absolute; bottom: 0; left: 0; top: 0; right: 0;
+            text-align: center; vertical-align: middle;
+        }
+    </style>
+
+</head>
+<body>
+<div style="position:relative;" id="gameDiv"></div>
+
+
+<img id="logo" src="launcher/logo.png" onload="this.style.left = window.innerWidth * 0.3 + 'px';this.style.width=window.innerWidth*.4 + 'px';">
+<div id="progress" style="align:center;color:#FFFFFF"></div>
+<div id="print-div">本游戏仅支持竖屏操作，请将您的设备设置成竖屏再进行游戏</div>
+
+<script>
+    var intervalId = 0;
+    var opacityNum = 0.04;
+    window[ 'alpha100' ] = false;
+    var removeLogo, setLogoAlpha;
+    var element = document.getElementById( 'logo' );
+    element.style.opacity = 0.1;
+
+    /*element.style.width = window.innerWidth * .4 + 'px';
+    element.style.left = window.innerWidth * 0.3 + 'px';*/
+
+    removeLogo = function()
+    {
+        clearInterval( intervalId );
+        if( null != element )
+        {
+            element.parentNode.removeChild(element);
+        }
+        element = document.getElementById( 'progress' );
+        if( null != element )
+        {
+            element.parentNode.removeChild(element);
+        }
+
+        console.log('隐藏logo');
+    };
+
+    setLogoAlpha = function ()
+    {
+        if( null == element )
+        {
+            return;
+        }
+        var opacity = parseFloat( element.style.opacity );
+        if( opacity >= 1 )
+        {
+            clearInterval( intervalId );
+            intervalId = 0;
+            window[ 'alpha100' ] = true;
+            setTimeout( gif, 750 );
+            return;
+        }
+
+        opacity += opacityNum;
+        element.style.opacity = opacity;
+    };
+
+    function gif()
+    {
+        element.src = 'launcher/loading.gif';
+        element.onload = function()
+        {
+            element.style.width = '80px';
+            element.style.height = '210px';
+            element.style.left = String((window.innerWidth - parseFloat(element.style.width)) >> 1) + 'px';
+        }
+    }
+
+    window[ 'removeLogo' ] = removeLogo;
+    intervalId = setInterval( setLogoAlpha, 100 );
+    window[ 'version' ] = 'version - 0.12.31';
+    window[ 'debug' ] = true;
+    var ip = ( null != window[ 'debug' ] ) ? '192.168.0.147' : '182.254.229.209';
+//    var ip = ( null != window[ 'debug' ] ) ? '192.168.1.22' : '182.254.229.209';
+//    ip = "192.168.1.22";
+//    ip = "farm.gamexun.com";
+    try{
+        window.localStorage.setItem( 'ip', ip );
+    }catch (e){
+        alert('您处于无痕浏览，无法为您保存某些资源信息');
+    }
+
+</script>
+
+<script>
+    var xhr = new XMLHttpRequest();
+    /*xhr.open( 'GET', 'launcher/game-min.js' );
+    xhr.onreadystatechange = onReadyStateChange;
+    xhr.onprogress = onProgress;
+    xhr.upload.onprogress = onProgress;
+    xhr.send();*/
+    function onProgress( event )
+    {
+        if( event.lengthComputable )
+        {
+            var percent = event.loaded / event.total;
+
+            var element = document.getElementById( 'progress' );
+            element.innerHTML = percent;
+        }
+    }
+    function onReadyStateChange()
+    {
+        if ( xhr.readyState == 4 && xhr.status == 200 )
+        {
+            var script = document.createElement( "script" );
+            script.innerHTML = xhr.responseText + ';' + "egret_h5.startGame();";
+            document.body.appendChild( script );
+        }
+        else
+        {
+            console.log( xhr.statusText );
+        }
+    }
+</script>
+
+<script>
+    //判断横屏
+    var printDiv = document.getElementById('print-div');
+    function orientationChange(){
+        switch(window.orientation) {
+            //竖屏
+            case 0:
+            case 180:
+                printDiv.style.display = 'none';
+                break;
+
+            //横屏
+            case -90:
+            case 90:
+                printDiv.style.display = 'block';
+                printDiv.addEventListener('touchstart', tipOriention, false);
+                break;
+        }
+    }
+
+    function tipOriention(evt){
+        evt.preventDefault();
+        evt.stopPropagation();
+        return;
+    }
+
+    function judgeOrientation(){
+
+        window.addEventListener("onorientationchange" in window ? "orientationchange" : "resize", orientationChange, false);
+    }
+
+    judgeOrientation();
+
+</script>
+
+<script src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script>
+    /*
+     * 注意：
+     * 1. 所有的JS接口只能在公众号绑定的域名下调用，公众号开发者需要先登录微信公众平台进入“公众号设置”的“功能设置”里填写“JS接口安全域名”。
+     * 2. 如果发现在 Android 不能分享自定义内容，请到官网下载最新的包覆盖安装，Android 自定义分享接口需升级至 6.0.2.58 版本及以上。
+     * 3. 常见问题及完整 JS-SDK 文档地址：http://mp.weixin.qq.com/wiki/7/aaa137b55fb2e0456bf8dd9148dd613f.html
+     *
+     * 开发中遇到问题详见文档“附录5-常见错误及解决办法”解决，如仍未能解决可通过以下渠道反馈：
+     * 邮箱地址：weixin-open@qq.com
+     * 邮件主题：【微信JS-SDK反馈】具体问题
+     * 邮件内容说明：用简明的语言描述问题所在，并交代清楚遇到该问题的场景，可附上截屏图片，微信团队会尽快处理你的反馈。
+     */
+    /*wx.config({
+     debug: true,
+     appId: "${appId}",
+     timestamp: "${timestamp}",
+     nonceStr: "${nonceStr}",
+     signature: "${signature}",
+     jsApiList: [
+     'onMenuShareTimeline',
+     'onMenuShareAppMessage',
+     'onMenuShareQQ',
+     'onMenuShareWeibo',
+     'getNetworkType',
+     'closeWindow',
+     'chooseWXPay'
+     ]
+     });*/
+
+    var data;
+    function httpPost(url,param){
+        var xmlhttp;
+        if (window.XMLHttpRequest){// code for IE7+, Firefox, Chrome, Opera, Safari
+            xmlhttp=new XMLHttpRequest();
+        }else{// code for IE6, IE5
+            xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+        }
+        xmlhttp.open("POST",url,false);
+        xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+        xmlhttp.send(param);
+        data = xmlhttp.responseText;
+    }
+    httpPost( 'http://farm.gz.1251113881.clb.myqcloud.com/farm-web/wx/jsSign', null );
+    var sendData = {
+        debug: true,
+        jsApiList: [
+            'onMenuShareTimeline',
+            'onMenuShareAppMessage',
+            'onMenuShareQQ',
+            'onMenuShareWeibo',
+            'getNetworkType',
+            'closeWindow',
+            'chooseWXPay'
+        ]
+    };
+    data = JSON.parse(data);
+    sendData.appId = data.appId;
+    sendData.timestamp = data.timestamp;
+    sendData.nonceStr = data.nonceStr;
+    sendData.signature = data.signature;
+    wx.config( sendData );
+    var shareData = {
+        title: '精灵牧场',
+        desc: '欢迎来到精灵牧场,这里有不一样的生活',
+        link: 'http://baidu.com',
+        imgUrl: 'http://farm.gz.1251113881.clb.myqcloud.com/html5/touch_icon_120.png'
+    };
+    var payData ={
+        timestamp:'',
+        packages:'',
+        nonceStr:'',
+        signType:'',
+        paySign:''
+    };
+    var postData={
+        body:"钻石",
+        detail:"可以买任何东西",
+        ip:"farm.gz.1251113881.clb.myqcloud.com",
+        openId:"oXFTDjoATRFDntcTqhxSnvRR-kAA"
+    };
+    function objectToString(postData){
+        var s = '';
+        for( var k in postData )
+        {
+            s += k + '=' + postData[k] + '&';
+        }
+        s = s.substr( 0, s.length - 1 );
+        return s;
+    }
+
+    function createOrder( cent, userId ){
+        postData.userId = userId;
+        postData.totalFee = cent;
+        httpPost('http://farm.gz.1251113881.clb.myqcloud.com/farm-web/wx/createOrder', objectToString(postData) );
+//        httpPost('http://192.168.0.147/farm-web/wx/createOrder', objectToString(postData) );
+        data = JSON.parse(data);
+        console.log(data);
+        if (data.code == 200) {
+            payData.timestamp = data.body.timestamp;
+            payData.nonceStr = data.body.nonceStr;
+            payData.packages = data.body.packages;
+            payData.signType = data.body.signType;
+            payData.paySign = data.body.paySign;
+            wx.chooseWXPay({
+                timestamp: payData.timestamp,
+                nonceStr: payData.nonceStr,
+                package: payData.packages,
+                signType: payData.signType, // 注意：新版支付接口使用 MD5 加密
+                paySign: payData.paySign,
+                success: function (res) {
+                    if(res.errMsg == "chooseWXPay:ok"){
+                        alert("微信支付成功!");
+                    }
+                }
+            });
+        }
+    }
+
+    window[ 'pay' ] = createOrder;
+</script>
+
+
+<script>var document_class = "Main";</script><!--这部分内容在编译时会被替换，要修改文档类，请到工程目录下的egretProperties.json内编辑。-->
+<script src="bin-debug/lib/egret_file_list.js"></script>
+<script src="launcher/egret_require.js"></script>
+<script src="launcher/egret_loader.js"></script>
+<script src="bin-debug/src/game_file_list.js"></script>
+<script>
+    egret_h5.preloadScript(egret_file_list, "libs/");
+    egret_h5.preloadScript(game_file_list, "bin-debug/src/");
+    egret_h5.startLoading();
+</script>
+</body>
+</html>

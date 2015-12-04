@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="290" height="60" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset id="track" source="JZ_2" y="1" horizontalCenter="0"/>
+	<e:UIAsset id="thumb" source="JZ_1" x="7" y="7" width="0" scale9Grid="8,0,223,13"/>
+	<e:Label id="preLabel" size="16" fontFamily="Arial" bold="true" verticalAlign="middle" x="248" y="7" textColor="0x5F330D" text="0%" width="46" textAlign="left"/>
+	<e:Label id="loadText" width="289" textAlign="center" fontFamily="Arial" verticalAlign="middle" bold="true" height="26" textColor="0x442409" text="正在加载资源......" x="0" size="14" y="29"/>
+	<e:UIAsset id="mcAsset" width="70" height="49" x="7" y="0" locked="true"/>
+</e:Skin>

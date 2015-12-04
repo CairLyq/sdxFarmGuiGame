@@ -1,0 +1,17 @@
+{
+	"close":true,
+	"resourcePlugin":
+	{
+		"configs":[
+		{
+			"configPath":"resource.json",
+			"relativePath":""
+		}],
+		"id":"org.egret-labs.resource",
+		"library":
+		{
+			
+		}
+	},
+	"theme":"resource/theme.thm"
+}

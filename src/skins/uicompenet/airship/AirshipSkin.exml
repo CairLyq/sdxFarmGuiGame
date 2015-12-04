@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="460" height="700" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset height="629" source="TC_dikuang" width="460" scale9Grid="149,88,71,194" horizontalCenter="0"/>
+	<e:UIAsset id="closeBtn" source="LC_guanbi" x="391" y="1"/>
+	<e:UIAsset source="FKT_08" y="11" horizontalCenter="0"/>
+	<e:Label text="距离飞空艇出发还有" size="18" x="86" fontFamily="Microsoft YaHei" y="63"/>
+	<e:Label height="27" textColor="0x53EF16" stroke="2" fontFamily="Microsoft YaHei" strokeColor="0x5E3700" width="174" text="3分60秒" id="waitTime" bold="true" textAlign="left" size="18" y="63" x="251"/>
+	<e:UIAsset scale9Grid="16,16,247,100" source="DD_9" width="205" height="202" x="20" y="20" horizontalCenter="-113.5" bottom="104"/>
+	<e:UIAsset height="285" source="LC_baibang" width="430" scale9Grid="27,32,398,204" horizontalCenter="-1" y="92"/>
+	<e:UIAsset source="LC_dioahua" y="90" x="19"/>
+	<e:UIAsset source="LC_dioahua" scaleX="-1" y="90" x="440"/>
+	<e:UIAsset scaleY="-1" source="LC_dioahua" x="18" y="364"/>
+	<e:UIAsset id="arrowLeft" source="LC_jiantou" scaleX="-1" alpha="0.5" x="36" y="223"/>
+	<e:UIAsset id="arrowRight" alpha="0.5" source="LC_jiantou" x="420" y="223"/>
+	<e:UIAsset scaleY="-1" scaleX="-1" source="LC_dioahua" y="365" x="439"/>
+	<e:UIAsset source="DD_9" height="202" width="219" scale9Grid="16,16,247,100" x="10" y="10" horizontalCenter="104.5" bottom="105" locked="true"/>
+	<e:UIAsset id="expIcon" source="cj-jiny" x="120" y="412"/>
+	<e:UIAsset id="goldIcon" source="Dd-jib" x="120" y="454"/>
+	<e:UIAsset source="Dd-jib" y="446" x="346"/>
+	<e:UIAsset id="item" source="1503_hanbao" x="39" y="396"/>
+	<e:UIAsset source="cj-jiny" y="446" x="239"/>
+	<e:Label textColor="0x000000" text="一次性完成所有订单可获得：" fontFamily="Microsoft YaHei" y="412" size="16" x="230"/>
+	<e:Label id="gold" textColor="0xFFFFFF" width="58" text="1233" fontFamily="Microsoft YaHei" stroke="1" x="158" y="459" size="18"/>
+	<e:Label id="allGold" textColor="0xFFFFFF" stroke="1" text="1233" fontFamily="Microsoft YaHei" width="58" x="379" y="452" size="18"/>
+	<e:Label id="allExp" textColor="0xFFFFFF" stroke="1" fontFamily="Microsoft YaHei" width="58" text="1233" y="452" x="275" size="18"/>
+	<e:Label id="exp" textColor="0xFFFFFF" stroke="1" text="1233" fontFamily="Microsoft YaHei" width="58" x="156" y="420" size="18"/>
+	<e:Label id="num" text="8/12" fontFamily="Microsoft YaHei" width="65" x="39" textAlign="center" stroke="1" y="456" size="18"/>
+	<e:Scroller id="scrollerDisplay" width="381" height="215" x="37" y="122">
+		<e:DataGroup id="dataGroup" height="215" width="381">
+			<e:layout>
+				<e:TileLayout horizontalGap="0" rowHeight="70" requestedRowCount="2" orientation="columns" verticalGap="30" columnWidth="110"/>
+			</e:layout>
+		</e:DataGroup>
+	</e:Scroller>
+	<e:Group id="launchBtn" width="184" height="67" x="241" y="518">
+		<e:UIAsset source="KJ_daanniu" x="0" y="0"/>
+		<e:Label textColor="0xFFFFFF" stroke="1" width="147" height="38" strokeColor="0x346a08" bold="true" fontFamily="Microsoft YaHei" textAlign="left" size="24" x="22" y="24" text="飞空艇出发"/>
+	</e:Group>
+	<e:Group id="packBtn" width="111" height="67" x="24" y="520">
+		<e:UIAsset source="FKT_23"/>
+		<e:Label textColor="0xFFFFFF" stroke="1" width="60" height="38" strokeColor="0x346a08" bold="true" fontFamily="Microsoft YaHei" textAlign="left" size="24" text="装货" x="27" y="18"/>
+	</e:Group>
+	<e:Group id="helpBtn" width="63" height="53" y="525" x="141" visible="false" locked="true">
+		<e:UIAsset source="FKT_26"/>
+		<e:Label textColor="0xFFFFFF" stroke="1" width="52" height="38" strokeColor="0x346a08" bold="true" fontFamily="Microsoft YaHei" textAlign="left" size="24" text="求助" x="4" y="7"/>
+	</e:Group>
+</e:Skin>

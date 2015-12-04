@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin id="namename" width="420" height="600" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing" xmlns:game="game.*">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset source="TC_dikuang" scale9Grid="149,78,77,212" height="590" width="400" horizontalCenter="0" locked="true"/>
+	<e:Label textColor="0xFFFFFF" text="请填写真实姓名" textAlign="left" size="22" width="201" x="23" y="395" fontFamily="Microsoft YaHei"/>
+	<e:UIAsset scale9Grid="56,33,337,203" height="318" width="374" horizontalCenter="0" y="62" source="LC_baibang"/>
+	<e:Label fontFamily="Microsoft YaHei" textAlign="left" width="341" y="85" textColor="0x000000" height="271" horizontalCenter="0.5" text="亲爱的庄园主：\n\n根据版署《网络游戏未成年防沉迷系统》的要求，为保护未成年人身心健康，所有玩家需要填写实名信息。\n\n凡未通过防沉迷系统的玩家累积在线3小时后，将被纳入防沉迷系统，收益将会减半；5小时后收益为零。\n\n您填写的身份信息属于用户隐私。我们绝对不会将您的信息另作他用。" size="18"/>
+	<e:UIAsset y="15" horizontalCenter="0" source="FCM_06"/>
+	<e:UIAsset id="closeBtn" source="LC_guanbi" height="54" x="347" y="2"/>
+	<e:Label width="71" fontFamily="Microsoft YaHei" size="22" textColor="0xFFFFFF" textAlign="left" x="23" text="姓名：" y="431"/>
+	<e:Label textColor="0xFFFFFF" fontFamily="Microsoft YaHei" textAlign="left" size="22" width="92" x="23" text="身份证：" y="469"/>
+	<e:UIAsset source="DD_9" height="36" width="124" x="113" y="428" scale9Grid="17,21,240,91"/>
+	<e:UIAsset source="DD_9" width="281" height="36" x="113" y="466" scale9Grid="17,21,240,91"/>
+	<e:Group id="commitBtn" y="520" horizontalCenter="-90">
+		<e:UIAsset source="TC_anniu1"/>
+		<e:Label text="提交" verticalAlign="middle" stroke="2" textColor="0xFFFFFF" strokeColor="0x3C6602" textAlign="center" fontFamily="Microsoft YaHei" size="20" y="14" x="29"/>
+	</e:Group>
+	<e:Group id="cancelBtn" y="520" horizontalCenter="90">
+		<e:UIAsset source="TC_anniu2"/>
+		<e:Label text="取消" verticalAlign="middle" stroke="2" strokeColor="0x5E3700" textAlign="center" fontFamily="Microsoft YaHei" size="20" y="14" x="31"/>
+	</e:Group>
+	<e:EditableText id="nameLabel" clipAndEnableScrolling="false" maxChars="15" editable="true" focusEnabled="true" fontFamily="Microsoft YaHei" width="122" size="20" height="30" textAlign="center" x="114" textColor="0x000000" multiline="false" y="435" locked="true"/>
+	<e:EditableText id="idLabel" clipAndEnableScrolling="false" maxChars="18" editable="true" focusEnabled="true" fontFamily="Microsoft YaHei" textAlign="center" size="20" width="278" height="30" x="115" textColor="0x000000" multiline="false" y="473" locked="true"/>
+</e:Skin>

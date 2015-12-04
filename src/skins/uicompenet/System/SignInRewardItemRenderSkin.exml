@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing" width="97" height="97">
+	<w:HostComponent name="egret.gui.ItemRenderer"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="up"/>
+		<e:State name="down"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset id="bgAsset" x="0" y="0" source="DD_9" width="97" height="97" scale9Grid="34,19,209,93" locked="true"/>
+	<e:UIAsset id="currentAsset" source="QD-3" x="0" y="0" width="98" height="97" locked="true" visible="false"/>
+	<e:Label id="indexLabel" textColor="0x000000" size="16" text="30" verticalAlign="middle" textAlign="center" y="10" x="9" bold="true" fontFamily="Airal"/>
+	<e:UIAsset id="iconAsset" source="21_luosiding" horizontalCenter="0" verticalCenter="0" locked="true"/>
+	<e:Label id="giveLabel" fontFamily="Microsoft YaHei" bold="true" size="18" stroke="2" strokeColor="0x381C05" text="500" maxDisplayedLines="1" paddingLeft="5" paddingRight="10" width="57" y="66" textAlign="center" x="40"/>
+	<e:UIAsset id="lockBgAsset" source="XZ_chahei" width="96" height="102" scale9Grid="12,18,52,33" y="-2" x="1" locked="true" visible="false"/>
+	<e:UIAsset id="lockIconAsset" source="ZJM_052" horizontalCenter="0" verticalCenter="0" locked="true" visible="false"/>
+</e:Skin>

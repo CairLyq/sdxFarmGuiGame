@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="126" height="150" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing" xmlns:game="game.*">
+	<w:HostComponent name="egret.gui.ItemRenderer"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="up"/>
+	</e:states>
+	<e:UIAsset horizontalCenter="0" verticalCenter="2.5" source="ZY_baidibang" locked="true"/>
+	<e:UIAsset id="jinbiAsset" cacheAsBitmap="false" x="15" y="111" source="Dd-jib" locked="true" visible="false"/>
+	<e:UIAsset id="iconAsset" anchorX="0.5" anchorY="0.5" cacheAsBitmap="false" touchEnabled="false" x="64" y="72" autoScale="false"/>
+	<e:Label id="labelDisplay" text="啤酒机" height="41" bold="true" width="100" textAlign="center" verticalAlign="middle" textColor="2883584" x="12" fontFamily="Microsoft YaHei" size="16" y="4"/>
+	<e:Label id="priceLable" width="69" bold="true" text="1200" textColor="0x2C0000" verticalAlign="middle" x="45" fontFamily="Microsoft YaHei" textAlign="center" size="16" y="118" visible="false" locked="true"/>
+	<e:Label id="numLabel" text="2/5" width="62" verticalAlign="bottom" fontFamily="Microsoft YaHei" size="15" textAlign="right" y="101" x="53" textColor="0x7A7979" locked="true" visible="false"/>
+	<e:Button id="newLabelButton" skinName="skins.uicompenet.Shopping.ShopIdenButtonSkin" stickyHighlighting="false" x="20" y="20" left="92" bottom="114" label="新" locked="true" visible="false"/>
+	<e:UIAsset id="lockAsset" source="ZF_032" x="3" y="8" locked="true"/>
+</e:Skin>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="640" height="630" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	
+	<e:UIAsset source="DB-XIAO" height="454" scale9Grid="80,50,480,27" horizontalCenter="0" bottom="0"/>
+	<e:UIAsset width="340" scale9Grid="10,9,30,50" height="196" source="DB1" x="188" y="304"/>
+	<e:UIAsset source="SCJZ-npc" x="-88" y="0"/>
+	<e:UIAsset source="TYER-1_55" horizontalCenter="0" bottom="0"/>
+	<e:Label id="titleDisplay" width="127" x="48" y="493" size="26" verticalAlign="middle" textAlign="center" bold="true" fontFamily="Microsoft YaHei" text="蒙娜丽莎" textColor="6636567"/>
+	<e:Label stroke="2" fontFamily="Microsoft YaHei" size="24" strokeColor="0x5D3000" text="距离飞空艇回来还有1小时24分" bold="true" x="206" height="36" y="218"/>
+	<e:Label textColor="0x2C0000" fontFamily="Microsoft YaHei" size="20" text="完成订单可获得：" x="206" y="262"/>
+	<e:UIAsset source="FKT-dingdan" scale9Grid="10,9,52,53" width="90" height="90" x="540" y="363"/>
+	<e:UIAsset id="startBtn" source="FKT-keyifei" x="542" y="362" touchEnabled="true"/>
+	<e:UIAsset scaleY="0.7" source="ZJMER-jinyan" height="49" width="49" scaleX="0.7" x="459" y="261"/>
+	<e:UIAsset scaleY="0.7" source="ZJMER-jinbi" scaleX="0.7" height="49" x="368" y="261"/>
+	<e:Label fontFamily="Arial" size="20" strokeColor="0x5D3000" width="62" height="28" id="priceLabel" stroke="2" verticalAlign="middle" bold="true" x="398" text="1234" y="264"/>
+	<e:Label fontFamily="Arial" size="20" strokeColor="0x5D3000" width="82" height="28" id="experienLabel" stroke="2" verticalAlign="middle" bold="true" x="491" text="1234" y="264"/>
+	<e:Group id="contentGroup" width="100%" height="100%" y="0"/>
+	<e:Scroller id="scrollerDisplay" width="330" height="188" x="192" y="311">
+		<e:Group id="dataGroup">
+			<e:layout>
+				<e:TileLayout id="dataLayout" horizontalGap="5" verticalGap="5" requestedRowCount="2"/>
+			</e:layout>
+		</e:Group>
+	</e:Scroller>
+	
+	
+	
+	
+</e:Skin>

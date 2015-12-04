@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="220" height="137" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset id="bgAsset" width="220" source="SCJZ_xinxilan" scale9Grid="65,37,70,65" left="0" top="0"/>
+	<e:UIAsset id="lock" source="SCJZ_naozhong" y="6" x="118"/>
+	<e:Label id="nameLabel" text="标签" bold="true" textColor="5454354" width="112" textAlign="center" size="16" verticalAlign="middle" maxDisplayedLines="1" y="10" fontFamily="Microsoft YaHei" x="5"/>
+	<e:Label id="timeLabel" text="5分" bold="true" textColor="5454354" width="70" textAlign="center" maxDisplayedLines="1" y="11" size="15" fontFamily="Microsoft YaHei" verticalAlign="middle" x="142"/>
+	<e:Group id="contentGroup" width="170" height="83" x="3" y="35" locked="true">
+		<e:layout>
+			<e:TileLayout requestedRowCount="2" verticalGap="0" horizontalGap="0"/>
+		</e:layout>
+	</e:Group>
+</e:Skin>

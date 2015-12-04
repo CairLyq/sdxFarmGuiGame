@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="138" height="61" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="up"/>
+		<e:State name="down"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset source="CC_03" x="0" y="0" cacheAsBitmap="false" locked="true"/>
+	<e:UIAsset id="pressAsset" source="CC_15" x="56" y="19" scale9Grid="9,9,60,6" locked="true"/>
+	<e:Label id="labelDisplay" verticalAlign="middle" width="104" bold="true" maxDisplayedLines="1" textAlign="center" fontFamily="Microsoft YaHei" size="18" y="22" x="43" text="1000/8000"/>
+	<e:UIAsset id="iconAsset" source="CC_05" cacheAsBitmap="false" anchorX="0.5" anchorY="0.5" x="31" y="31" locked="true"/>
+</e:Skin>

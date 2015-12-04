@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="480" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing" height="800">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:UIAsset id="bg" horizontalCenter="0" verticalCenter="0"/>
+	<e:UIAsset id="bgAsset" height="370" width="466" fillMode="scale" source="TC_dikuang" scale9Grid="166,99,42,181" horizontalCenter="0" y="195"/>
+	<e:UIAsset scale9Grid="56,33,337,203" source="LC_baibang" height="283" width="439" y="264" x="21"/>
+	<e:Button id="confirmBtn" skinName="skins.simple.ButtonSkin" width="183" label="确认" bottom="264" horizontalCenter="0.5"/>
+	<e:Button id="closeButton" label="按钮" skinName="skins.simple.CloseButtonSkin" y="203" x="413"/>
+	<e:Label id="messageLabel" text="标签" width="410" height="145" textAlign="center" fontFamily="Microsoft YaHei" bold="true" lineSpacing="10" size="24" verticalAlign="middle" textColor="2883584" y="301" x="36"/>
+	<e:Label id="titleDisplay" text="标签" width="412" height="55" textAlign="center" verticalAlign="middle" size="40" textColor="2883584" x="27" y="74" visible="false"/>
+	<e:UIAsset source="TC_tishi" y="208" x="206"/>
+</e:Skin>

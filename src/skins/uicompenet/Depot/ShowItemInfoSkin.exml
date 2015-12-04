@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="138" height="109" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset source="SCJZ_xinxilan" scale9Grid="66,37,83,83" width="138" height="109" x="0" y="0"/>
+	<e:Label text="小麦" x="7" y="6" textColor="0x6D4204" width="118" bold="true" fontFamily="Microsoft YaHei" verticalAlign="middle" size="18"/>
+	<e:Label text="用于砍掉小树或枯萎灌木" x="6" y="36" width="124" height="52" fontFamily="Microsoft YaHei" size="16" verticalAlign="middle" textAlign="left" maxDisplayedLines="2" textColor="0x5C5B5A"/>
+</e:Skin>

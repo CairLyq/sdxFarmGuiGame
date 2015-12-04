@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="99" height="99" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.ItemRenderer"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="up"/>
+	</e:states>
+	<e:UIAsset source="LBT-dikuanghese" horizontalCenter="0" verticalCenter="0"/>
+	<e:UIAsset id="iconAsset" source="KJ-jia" horizontalCenter="1" top="16"/>
+	<e:Label id="numLabel" text="555" width="54" size="24" bold="true" fontFamily="Arial" stroke="2" strokeColor="0x5E3700" textAlign="right" verticalAlign="middle" x="33" y="7"/>
+	<e:UIAsset id="freeAsset" source="lb-kx" x="28" y="69"/>
+	<e:Button id="showPrice" label="100" skinName="skins.uicompenet.Roadsite.RoadsiteItemPriceButtonSkin" left="5" bottom="2"/>
+</e:Skin>

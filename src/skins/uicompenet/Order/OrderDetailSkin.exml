@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="449" height="193" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:UIAsset scale9Grid="16,16,247,100" width="315" height="140" source="DD_9" horizontalCenter="-55" bottom="15"/>
+	<e:Label textColor="0x654417" fontFamily="Microsoft YaHei" width="160" bold="true" size="18" height="27" text="完成订单可获得：" x="16" y="11"/>
+	<e:UIAsset width="31" height="31" x="160" y="7" source="Dd-jib"/>
+	<e:Label id="coinLabel" textColor="0xFFFFFF" stroke="2" width="47" height="28" strokeColor="0x5E3700" bold="true" text="123" x="196" y="13" textAlign="center" size="18" fontFamily="Arial"/>
+	<e:Label id="experienceLabel" textColor="0xFFFFFF" text="123" fontFamily="Arial" stroke="2" width="47" height="28" strokeColor="0x5E3700" bold="true" x="276" y="13" size="18"/>
+	<e:UIAsset width="35" height="35" x="240" y="7" source="cj-jiny"/>
+	
+	<e:Scroller id="scrollerDisplay" width="315" height="140" y="38" x="12">
+		<e:DataGroup id="dataGroup" height="140" width="315">
+			<e:layout>
+				<e:TileLayout requestedColumnCount="3" requestedRowCount="2" verticalGap="0" horizontalGap="0" rowHeight="70"/>
+			</e:layout>
+		</e:DataGroup>
+	</e:Scroller>
+	<e:UIAsset id="deleteBtn" source="DD_5" y="16" x="337"/>
+	<e:Group id="completeBtn" width="96" height="55" x="333" y="107">
+		<e:UIAsset scaleX="0.82" scaleY="0.82" x="0" source="DD_6" y="-3"/>
+		<e:Label stroke="2" textColor="0xFFFFFF" strokeColor="0x3C6602" fontFamily="Microsoft YaHei" size="20" width="46" height="28" bold="true" y="15" text="完成" x="28"/>
+	</e:Group>
+	
+</e:Skin>

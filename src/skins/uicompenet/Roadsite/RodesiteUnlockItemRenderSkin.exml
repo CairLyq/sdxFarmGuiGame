@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="96" height="97" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.ItemRenderer"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="up"/>
+	</e:states>
+	<e:UIAsset scale9Grid="14,16,72,70" source="LBT-dikuanghese" horizontalCenter="0" verticalCenter="0"/>
+	<e:UIAsset source="LBsuo" x="29" y="17"/>
+	<e:Label id="labelDisplay" size="24" fontFamily="Arial" stroke="2" strokeColor="0x5E3700" width="89" bold="true" x="4" y="26" height="71" maxDisplayedLines="2" textAlign="center" text="50个好友解锁" lineSpacing="10"/>
+</e:Skin>

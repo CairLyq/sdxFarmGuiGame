@@ -1,0 +1,1108 @@
+[
+    {
+        "needTool1": 1,
+        "storeType": 1,
+        "needTool3": 1,
+        "storeMax": 75,
+        "needTool2": 1
+    },
+    {
+        "needTool1": 2,
+        "storeType": 1,
+        "needTool3": 2,
+        "storeMax": 100,
+        "needTool2": 2
+    },
+    {
+        "needTool1": 3,
+        "storeType": 1,
+        "needTool3": 3,
+        "storeMax": 125,
+        "needTool2": 3
+    },
+    {
+        "needTool1": 4,
+        "storeType": 1,
+        "needTool3": 4,
+        "storeMax": 150,
+        "needTool2": 4
+    },
+    {
+        "needTool1": 5,
+        "storeType": 1,
+        "needTool3": 5,
+        "storeMax": 175,
+        "needTool2": 5
+    },
+    {
+        "needTool1": 6,
+        "storeType": 1,
+        "needTool3": 6,
+        "storeMax": 200,
+        "needTool2": 6
+    },
+    {
+        "needTool1": 7,
+        "storeType": 1,
+        "needTool3": 7,
+        "storeMax": 225,
+        "needTool2": 7
+    },
+    {
+        "needTool1": 8,
+        "storeType": 1,
+        "needTool3": 8,
+        "storeMax": 250,
+        "needTool2": 8
+    },
+    {
+        "needTool1": 9,
+        "storeType": 1,
+        "needTool3": 9,
+        "storeMax": 275,
+        "needTool2": 9
+    },
+    {
+        "needTool1": 10,
+        "storeType": 1,
+        "needTool3": 10,
+        "storeMax": 300,
+        "needTool2": 10
+    },
+    {
+        "needTool1": 11,
+        "storeType": 1,
+        "needTool3": 11,
+        "storeMax": 325,
+        "needTool2": 11
+    },
+    {
+        "needTool1": 12,
+        "storeType": 1,
+        "needTool3": 12,
+        "storeMax": 350,
+        "needTool2": 12
+    },
+    {
+        "needTool1": 13,
+        "storeType": 1,
+        "needTool3": 13,
+        "storeMax": 375,
+        "needTool2": 13
+    },
+    {
+        "needTool1": 14,
+        "storeType": 1,
+        "needTool3": 14,
+        "storeMax": 400,
+        "needTool2": 14
+    },
+    {
+        "needTool1": 15,
+        "storeType": 1,
+        "needTool3": 15,
+        "storeMax": 425,
+        "needTool2": 15
+    },
+    {
+        "needTool1": 16,
+        "storeType": 1,
+        "needTool3": 16,
+        "storeMax": 450,
+        "needTool2": 16
+    },
+    {
+        "needTool1": 17,
+        "storeType": 1,
+        "needTool3": 17,
+        "storeMax": 475,
+        "needTool2": 17
+    },
+    {
+        "needTool1": 18,
+        "storeType": 1,
+        "needTool3": 18,
+        "storeMax": 500,
+        "needTool2": 18
+    },
+    {
+        "needTool1": 19,
+        "storeType": 1,
+        "needTool3": 19,
+        "storeMax": 525,
+        "needTool2": 19
+    },
+    {
+        "needTool1": 20,
+        "storeType": 1,
+        "needTool3": 20,
+        "storeMax": 550,
+        "needTool2": 20
+    },
+    {
+        "needTool1": 21,
+        "storeType": 1,
+        "needTool3": 21,
+        "storeMax": 575,
+        "needTool2": 21
+    },
+    {
+        "needTool1": 22,
+        "storeType": 1,
+        "needTool3": 22,
+        "storeMax": 600,
+        "needTool2": 22
+    },
+    {
+        "needTool1": 23,
+        "storeType": 1,
+        "needTool3": 23,
+        "storeMax": 625,
+        "needTool2": 23
+    },
+    {
+        "needTool1": 24,
+        "storeType": 1,
+        "needTool3": 24,
+        "storeMax": 650,
+        "needTool2": 24
+    },
+    {
+        "needTool1": 25,
+        "storeType": 1,
+        "needTool3": 25,
+        "storeMax": 675,
+        "needTool2": 25
+    },
+    {
+        "needTool1": 26,
+        "storeType": 1,
+        "needTool3": 26,
+        "storeMax": 700,
+        "needTool2": 26
+    },
+    {
+        "needTool1": 27,
+        "storeType": 1,
+        "needTool3": 27,
+        "storeMax": 725,
+        "needTool2": 27
+    },
+    {
+        "needTool1": 28,
+        "storeType": 1,
+        "needTool3": 28,
+        "storeMax": 750,
+        "needTool2": 28
+    },
+    {
+        "needTool1": 29,
+        "storeType": 1,
+        "needTool3": 29,
+        "storeMax": 775,
+        "needTool2": 29
+    },
+    {
+        "needTool1": 30,
+        "storeType": 1,
+        "needTool3": 30,
+        "storeMax": 800,
+        "needTool2": 30
+    },
+    {
+        "needTool1": 31,
+        "storeType": 1,
+        "needTool3": 31,
+        "storeMax": 825,
+        "needTool2": 31
+    },
+    {
+        "needTool1": 32,
+        "storeType": 1,
+        "needTool3": 32,
+        "storeMax": 850,
+        "needTool2": 32
+    },
+    {
+        "needTool1": 33,
+        "storeType": 1,
+        "needTool3": 33,
+        "storeMax": 875,
+        "needTool2": 33
+    },
+    {
+        "needTool1": 34,
+        "storeType": 1,
+        "needTool3": 34,
+        "storeMax": 900,
+        "needTool2": 34
+    },
+    {
+        "needTool1": 35,
+        "storeType": 1,
+        "needTool3": 35,
+        "storeMax": 925,
+        "needTool2": 35
+    },
+    {
+        "needTool1": 36,
+        "storeType": 1,
+        "needTool3": 36,
+        "storeMax": 950,
+        "needTool2": 36
+    },
+    {
+        "needTool1": 37,
+        "storeType": 1,
+        "needTool3": 37,
+        "storeMax": 975,
+        "needTool2": 37
+    },
+    {
+        "needTool1": 38,
+        "storeType": 1,
+        "needTool3": 38,
+        "storeMax": 1000,
+        "needTool2": 38
+    },
+    {
+        "needTool1": 39,
+        "storeType": 1,
+        "needTool3": 39,
+        "storeMax": 1025,
+        "needTool2": 39
+    },
+    {
+        "needTool1": 40,
+        "storeType": 1,
+        "needTool3": 40,
+        "storeMax": 1050,
+        "needTool2": 40
+    },
+    {
+        "needTool1": 41,
+        "storeType": 1,
+        "needTool3": 41,
+        "storeMax": 1075,
+        "needTool2": 41
+    },
+    {
+        "needTool1": 42,
+        "storeType": 1,
+        "needTool3": 42,
+        "storeMax": 1100,
+        "needTool2": 42
+    },
+    {
+        "needTool1": 43,
+        "storeType": 1,
+        "needTool3": 43,
+        "storeMax": 1125,
+        "needTool2": 43
+    },
+    {
+        "needTool1": 44,
+        "storeType": 1,
+        "needTool3": 44,
+        "storeMax": 1150,
+        "needTool2": 44
+    },
+    {
+        "needTool1": 45,
+        "storeType": 1,
+        "needTool3": 45,
+        "storeMax": 1175,
+        "needTool2": 45
+    },
+    {
+        "needTool1": 46,
+        "storeType": 1,
+        "needTool3": 46,
+        "storeMax": 1200,
+        "needTool2": 46
+    },
+    {
+        "needTool1": 47,
+        "storeType": 1,
+        "needTool3": 47,
+        "storeMax": 1225,
+        "needTool2": 47
+    },
+    {
+        "needTool1": 48,
+        "storeType": 1,
+        "needTool3": 48,
+        "storeMax": 1250,
+        "needTool2": 48
+    },
+    {
+        "needTool1": 49,
+        "storeType": 1,
+        "needTool3": 49,
+        "storeMax": 1275,
+        "needTool2": 49
+    },
+    {
+        "needTool1": 50,
+        "storeType": 1,
+        "needTool3": 50,
+        "storeMax": 1300,
+        "needTool2": 50
+    },
+    {
+        "needTool1": 51,
+        "storeType": 1,
+        "needTool3": 51,
+        "storeMax": 1325,
+        "needTool2": 51
+    },
+    {
+        "needTool1": 52,
+        "storeType": 1,
+        "needTool3": 52,
+        "storeMax": 1350,
+        "needTool2": 52
+    },
+    {
+        "needTool1": 53,
+        "storeType": 1,
+        "needTool3": 53,
+        "storeMax": 1375,
+        "needTool2": 53
+    },
+    {
+        "needTool1": 54,
+        "storeType": 1,
+        "needTool3": 54,
+        "storeMax": 1400,
+        "needTool2": 54
+    },
+    {
+        "needTool1": 55,
+        "storeType": 1,
+        "needTool3": 55,
+        "storeMax": 1425,
+        "needTool2": 55
+    },
+    {
+        "needTool1": 56,
+        "storeType": 1,
+        "needTool3": 56,
+        "storeMax": 1450,
+        "needTool2": 56
+    },
+    {
+        "needTool1": 57,
+        "storeType": 1,
+        "needTool3": 57,
+        "storeMax": 1475,
+        "needTool2": 57
+    },
+    {
+        "needTool1": 58,
+        "storeType": 1,
+        "needTool3": 58,
+        "storeMax": 1500,
+        "needTool2": 58
+    },
+    {
+        "needTool1": 59,
+        "storeType": 1,
+        "needTool3": 59,
+        "storeMax": 1525,
+        "needTool2": 59
+    },
+    {
+        "needTool1": 60,
+        "storeType": 1,
+        "needTool3": 60,
+        "storeMax": 1550,
+        "needTool2": 60
+    },
+    {
+        "needTool1": 61,
+        "storeType": 1,
+        "needTool3": 61,
+        "storeMax": 1575,
+        "needTool2": 61
+    },
+    {
+        "needTool1": 62,
+        "storeType": 1,
+        "needTool3": 62,
+        "storeMax": 1600,
+        "needTool2": 62
+    },
+    {
+        "needTool1": 63,
+        "storeType": 1,
+        "needTool3": 63,
+        "storeMax": 1625,
+        "needTool2": 63
+    },
+    {
+        "needTool1": 64,
+        "storeType": 1,
+        "needTool3": 64,
+        "storeMax": 1650,
+        "needTool2": 64
+    },
+    {
+        "needTool1": 65,
+        "storeType": 1,
+        "needTool3": 65,
+        "storeMax": 1675,
+        "needTool2": 65
+    },
+    {
+        "needTool1": 66,
+        "storeType": 1,
+        "needTool3": 66,
+        "storeMax": 1700,
+        "needTool2": 66
+    },
+    {
+        "needTool1": 67,
+        "storeType": 1,
+        "needTool3": 67,
+        "storeMax": 1725,
+        "needTool2": 67
+    },
+    {
+        "needTool1": 68,
+        "storeType": 1,
+        "needTool3": 68,
+        "storeMax": 1750,
+        "needTool2": 68
+    },
+    {
+        "needTool1": 69,
+        "storeType": 1,
+        "needTool3": 69,
+        "storeMax": 1775,
+        "needTool2": 69
+    },
+    {
+        "needTool1": 70,
+        "storeType": 1,
+        "needTool3": 70,
+        "storeMax": 1800,
+        "needTool2": 70
+    },
+    {
+        "needTool1": 71,
+        "storeType": 1,
+        "needTool3": 71,
+        "storeMax": 1825,
+        "needTool2": 71
+    },
+    {
+        "needTool1": 72,
+        "storeType": 1,
+        "needTool3": 72,
+        "storeMax": 1850,
+        "needTool2": 72
+    },
+    {
+        "needTool1": 73,
+        "storeType": 1,
+        "needTool3": 73,
+        "storeMax": 1875,
+        "needTool2": 73
+    },
+    {
+        "needTool1": 74,
+        "storeType": 1,
+        "needTool3": 74,
+        "storeMax": 1900,
+        "needTool2": 74
+    },
+    {
+        "needTool1": 75,
+        "storeType": 1,
+        "needTool3": 75,
+        "storeMax": 1925,
+        "needTool2": 75
+    },
+    {
+        "needTool1": 76,
+        "storeType": 1,
+        "needTool3": 76,
+        "storeMax": 1950,
+        "needTool2": 76
+    },
+    {
+        "needTool1": 77,
+        "storeType": 1,
+        "needTool3": 77,
+        "storeMax": 1975,
+        "needTool2": 77
+    },
+    {
+        "needTool1": 78,
+        "storeType": 1,
+        "needTool3": 78,
+        "storeMax": 2000,
+        "needTool2": 78
+    },
+    {
+        "needTool1": 79,
+        "storeType": 1,
+        "needTool3": 79,
+        "storeMax": 2025,
+        "needTool2": 79
+    },
+    {
+        "needTool1": 1,
+        "storeType": 2,
+        "needTool3": 1,
+        "storeMax": 75,
+        "needTool2": 1
+    },
+    {
+        "needTool1": 2,
+        "storeType": 2,
+        "needTool3": 2,
+        "storeMax": 100,
+        "needTool2": 2
+    },
+    {
+        "needTool1": 3,
+        "storeType": 2,
+        "needTool3": 3,
+        "storeMax": 125,
+        "needTool2": 3
+    },
+    {
+        "needTool1": 4,
+        "storeType": 2,
+        "needTool3": 4,
+        "storeMax": 150,
+        "needTool2": 4
+    },
+    {
+        "needTool1": 5,
+        "storeType": 2,
+        "needTool3": 5,
+        "storeMax": 175,
+        "needTool2": 5
+    },
+    {
+        "needTool1": 6,
+        "storeType": 2,
+        "needTool3": 6,
+        "storeMax": 200,
+        "needTool2": 6
+    },
+    {
+        "needTool1": 7,
+        "storeType": 2,
+        "needTool3": 7,
+        "storeMax": 225,
+        "needTool2": 7
+    },
+    {
+        "needTool1": 8,
+        "storeType": 2,
+        "needTool3": 8,
+        "storeMax": 250,
+        "needTool2": 8
+    },
+    {
+        "needTool1": 9,
+        "storeType": 2,
+        "needTool3": 9,
+        "storeMax": 275,
+        "needTool2": 9
+    },
+    {
+        "needTool1": 10,
+        "storeType": 2,
+        "needTool3": 10,
+        "storeMax": 300,
+        "needTool2": 10
+    },
+    {
+        "needTool1": 11,
+        "storeType": 2,
+        "needTool3": 11,
+        "storeMax": 325,
+        "needTool2": 11
+    },
+    {
+        "needTool1": 12,
+        "storeType": 2,
+        "needTool3": 12,
+        "storeMax": 350,
+        "needTool2": 12
+    },
+    {
+        "needTool1": 13,
+        "storeType": 2,
+        "needTool3": 13,
+        "storeMax": 375,
+        "needTool2": 13
+    },
+    {
+        "needTool1": 14,
+        "storeType": 2,
+        "needTool3": 14,
+        "storeMax": 400,
+        "needTool2": 14
+    },
+    {
+        "needTool1": 15,
+        "storeType": 2,
+        "needTool3": 15,
+        "storeMax": 425,
+        "needTool2": 15
+    },
+    {
+        "needTool1": 16,
+        "storeType": 2,
+        "needTool3": 16,
+        "storeMax": 450,
+        "needTool2": 16
+    },
+    {
+        "needTool1": 17,
+        "storeType": 2,
+        "needTool3": 17,
+        "storeMax": 475,
+        "needTool2": 17
+    },
+    {
+        "needTool1": 18,
+        "storeType": 2,
+        "needTool3": 18,
+        "storeMax": 500,
+        "needTool2": 18
+    },
+    {
+        "needTool1": 19,
+        "storeType": 2,
+        "needTool3": 19,
+        "storeMax": 525,
+        "needTool2": 19
+    },
+    {
+        "needTool1": 20,
+        "storeType": 2,
+        "needTool3": 20,
+        "storeMax": 550,
+        "needTool2": 20
+    },
+    {
+        "needTool1": 21,
+        "storeType": 2,
+        "needTool3": 21,
+        "storeMax": 575,
+        "needTool2": 21
+    },
+    {
+        "needTool1": 22,
+        "storeType": 2,
+        "needTool3": 22,
+        "storeMax": 600,
+        "needTool2": 22
+    },
+    {
+        "needTool1": 23,
+        "storeType": 2,
+        "needTool3": 23,
+        "storeMax": 625,
+        "needTool2": 23
+    },
+    {
+        "needTool1": 24,
+        "storeType": 2,
+        "needTool3": 24,
+        "storeMax": 650,
+        "needTool2": 24
+    },
+    {
+        "needTool1": 25,
+        "storeType": 2,
+        "needTool3": 25,
+        "storeMax": 675,
+        "needTool2": 25
+    },
+    {
+        "needTool1": 26,
+        "storeType": 2,
+        "needTool3": 26,
+        "storeMax": 700,
+        "needTool2": 26
+    },
+    {
+        "needTool1": 27,
+        "storeType": 2,
+        "needTool3": 27,
+        "storeMax": 725,
+        "needTool2": 27
+    },
+    {
+        "needTool1": 28,
+        "storeType": 2,
+        "needTool3": 28,
+        "storeMax": 750,
+        "needTool2": 28
+    },
+    {
+        "needTool1": 29,
+        "storeType": 2,
+        "needTool3": 29,
+        "storeMax": 775,
+        "needTool2": 29
+    },
+    {
+        "needTool1": 30,
+        "storeType": 2,
+        "needTool3": 30,
+        "storeMax": 800,
+        "needTool2": 30
+    },
+    {
+        "needTool1": 31,
+        "storeType": 2,
+        "needTool3": 31,
+        "storeMax": 825,
+        "needTool2": 31
+    },
+    {
+        "needTool1": 32,
+        "storeType": 2,
+        "needTool3": 32,
+        "storeMax": 850,
+        "needTool2": 32
+    },
+    {
+        "needTool1": 33,
+        "storeType": 2,
+        "needTool3": 33,
+        "storeMax": 875,
+        "needTool2": 33
+    },
+    {
+        "needTool1": 34,
+        "storeType": 2,
+        "needTool3": 34,
+        "storeMax": 900,
+        "needTool2": 34
+    },
+    {
+        "needTool1": 35,
+        "storeType": 2,
+        "needTool3": 35,
+        "storeMax": 925,
+        "needTool2": 35
+    },
+    {
+        "needTool1": 36,
+        "storeType": 2,
+        "needTool3": 36,
+        "storeMax": 950,
+        "needTool2": 36
+    },
+    {
+        "needTool1": 37,
+        "storeType": 2,
+        "needTool3": 37,
+        "storeMax": 975,
+        "needTool2": 37
+    },
+    {
+        "needTool1": 38,
+        "storeType": 2,
+        "needTool3": 38,
+        "storeMax": 1000,
+        "needTool2": 38
+    },
+    {
+        "needTool1": 39,
+        "storeType": 2,
+        "needTool3": 39,
+        "storeMax": 1025,
+        "needTool2": 39
+    },
+    {
+        "needTool1": 40,
+        "storeType": 2,
+        "needTool3": 40,
+        "storeMax": 1050,
+        "needTool2": 40
+    },
+    {
+        "needTool1": 41,
+        "storeType": 2,
+        "needTool3": 41,
+        "storeMax": 1075,
+        "needTool2": 41
+    },
+    {
+        "needTool1": 42,
+        "storeType": 2,
+        "needTool3": 42,
+        "storeMax": 1100,
+        "needTool2": 42
+    },
+    {
+        "needTool1": 43,
+        "storeType": 2,
+        "needTool3": 43,
+        "storeMax": 1125,
+        "needTool2": 43
+    },
+    {
+        "needTool1": 44,
+        "storeType": 2,
+        "needTool3": 44,
+        "storeMax": 1150,
+        "needTool2": 44
+    },
+    {
+        "needTool1": 45,
+        "storeType": 2,
+        "needTool3": 45,
+        "storeMax": 1175,
+        "needTool2": 45
+    },
+    {
+        "needTool1": 46,
+        "storeType": 2,
+        "needTool3": 46,
+        "storeMax": 1200,
+        "needTool2": 46
+    },
+    {
+        "needTool1": 47,
+        "storeType": 2,
+        "needTool3": 47,
+        "storeMax": 1225,
+        "needTool2": 47
+    },
+    {
+        "needTool1": 48,
+        "storeType": 2,
+        "needTool3": 48,
+        "storeMax": 1250,
+        "needTool2": 48
+    },
+    {
+        "needTool1": 49,
+        "storeType": 2,
+        "needTool3": 49,
+        "storeMax": 1275,
+        "needTool2": 49
+    },
+    {
+        "needTool1": 50,
+        "storeType": 2,
+        "needTool3": 50,
+        "storeMax": 1300,
+        "needTool2": 50
+    },
+    {
+        "needTool1": 51,
+        "storeType": 2,
+        "needTool3": 51,
+        "storeMax": 1325,
+        "needTool2": 51
+    },
+    {
+        "needTool1": 52,
+        "storeType": 2,
+        "needTool3": 52,
+        "storeMax": 1350,
+        "needTool2": 52
+    },
+    {
+        "needTool1": 53,
+        "storeType": 2,
+        "needTool3": 53,
+        "storeMax": 1375,
+        "needTool2": 53
+    },
+    {
+        "needTool1": 54,
+        "storeType": 2,
+        "needTool3": 54,
+        "storeMax": 1400,
+        "needTool2": 54
+    },
+    {
+        "needTool1": 55,
+        "storeType": 2,
+        "needTool3": 55,
+        "storeMax": 1425,
+        "needTool2": 55
+    },
+    {
+        "needTool1": 56,
+        "storeType": 2,
+        "needTool3": 56,
+        "storeMax": 1450,
+        "needTool2": 56
+    },
+    {
+        "needTool1": 57,
+        "storeType": 2,
+        "needTool3": 57,
+        "storeMax": 1475,
+        "needTool2": 57
+    },
+    {
+        "needTool1": 58,
+        "storeType": 2,
+        "needTool3": 58,
+        "storeMax": 1500,
+        "needTool2": 58
+    },
+    {
+        "needTool1": 59,
+        "storeType": 2,
+        "needTool3": 59,
+        "storeMax": 1525,
+        "needTool2": 59
+    },
+    {
+        "needTool1": 60,
+        "storeType": 2,
+        "needTool3": 60,
+        "storeMax": 1550,
+        "needTool2": 60
+    },
+    {
+        "needTool1": 61,
+        "storeType": 2,
+        "needTool3": 61,
+        "storeMax": 1575,
+        "needTool2": 61
+    },
+    {
+        "needTool1": 62,
+        "storeType": 2,
+        "needTool3": 62,
+        "storeMax": 1600,
+        "needTool2": 62
+    },
+    {
+        "needTool1": 63,
+        "storeType": 2,
+        "needTool3": 63,
+        "storeMax": 1625,
+        "needTool2": 63
+    },
+    {
+        "needTool1": 64,
+        "storeType": 2,
+        "needTool3": 64,
+        "storeMax": 1650,
+        "needTool2": 64
+    },
+    {
+        "needTool1": 65,
+        "storeType": 2,
+        "needTool3": 65,
+        "storeMax": 1675,
+        "needTool2": 65
+    },
+    {
+        "needTool1": 66,
+        "storeType": 2,
+        "needTool3": 66,
+        "storeMax": 1700,
+        "needTool2": 66
+    },
+    {
+        "needTool1": 67,
+        "storeType": 2,
+        "needTool3": 67,
+        "storeMax": 1725,
+        "needTool2": 67
+    },
+    {
+        "needTool1": 68,
+        "storeType": 2,
+        "needTool3": 68,
+        "storeMax": 1750,
+        "needTool2": 68
+    },
+    {
+        "needTool1": 69,
+        "storeType": 2,
+        "needTool3": 69,
+        "storeMax": 1775,
+        "needTool2": 69
+    },
+    {
+        "needTool1": 70,
+        "storeType": 2,
+        "needTool3": 70,
+        "storeMax": 1800,
+        "needTool2": 70
+    },
+    {
+        "needTool1": 71,
+        "storeType": 2,
+        "needTool3": 71,
+        "storeMax": 1825,
+        "needTool2": 71
+    },
+    {
+        "needTool1": 72,
+        "storeType": 2,
+        "needTool3": 72,
+        "storeMax": 1850,
+        "needTool2": 72
+    },
+    {
+        "needTool1": 73,
+        "storeType": 2,
+        "needTool3": 73,
+        "storeMax": 1875,
+        "needTool2": 73
+    },
+    {
+        "needTool1": 74,
+        "storeType": 2,
+        "needTool3": 74,
+        "storeMax": 1900,
+        "needTool2": 74
+    },
+    {
+        "needTool1": 75,
+        "storeType": 2,
+        "needTool3": 75,
+        "storeMax": 1925,
+        "needTool2": 75
+    },
+    {
+        "needTool1": 76,
+        "storeType": 2,
+        "needTool3": 76,
+        "storeMax": 1950,
+        "needTool2": 76
+    },
+    {
+        "needTool1": 77,
+        "storeType": 2,
+        "needTool3": 77,
+        "storeMax": 1975,
+        "needTool2": 77
+    },
+    {
+        "needTool1": 78,
+        "storeType": 2,
+        "needTool3": 78,
+        "storeMax": 2000,
+        "needTool2": 78
+    },
+    {
+        "needTool1": 79,
+        "storeType": 2,
+        "needTool3": 79,
+        "storeMax": 2025,
+        "needTool2": 79
+    }
+]

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="178" height="190" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing" xmlns:game="game.*">
+	<w:HostComponent name="egret.gui.ItemRenderer"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="up"/>
+		<e:State name="down"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset id="bg" horizontalCenter="0" verticalCenter="0" source="SCJZ_dikuanglan" touchEnabled="true" locked="true" visible="false"/>
+	<e:UIAsset id="iconAsset" width="74" source="1202_huangyou" x="52" y="76"/>
+	<e:Button skinName="skins.uicompenet.Production.ProductionSpeedButtonSkin" label="8" anchorX="0.5" anchorY="0.5" x="86" y="188" visible="false" locked="true"/>
+	<e:UIAsset id="capAsset" source="SCJZ_dikuanglantou" y="40" x="42" locked="true" visible="false"/>
+	<e:UIAsset id="mcAsset" width="147" height="149" x="15" y="32" locked="true" visible="false"/>
+	<game:SpeedButton id="speedButton" label="0" x="86" y="188" anchorX="0.5" anchorY="0.5" skinName="skins.uicompenet.Production.ProductionSpeedButtonSkin" locked="true"/>
+</e:Skin>

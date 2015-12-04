@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?><e:Skin width="480" height="480" currentState="up" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">	<w:HostComponent name="egret.gui.SkinnableComponent"/>	<w:Declarations/>	<e:states>		<e:State name="normal"/>	</e:states>
+	<e:UIAsset source="TC_dikuang" scale9Grid="166,99,42,181" x="2" width="476" height="479" y="0"/>
+	<e:UIAsset source="LC_baibang" scale9Grid="56,33,337,203" x="15" height="400" y="62"/>
+	<e:UIAsset source="SZ_shezhi" x="207" y="15"/>
+	<e:UIAsset source="SZ_bang" y="111" x="118"/>
+	<e:UIAsset id="signBtn" source="SZ_qianbi" y="124" x="413" touchEnabled="true" locked="true" visible="false"/>
+	<e:UIAsset source="SZ_touxiang" x="44" y="85"/>
+	<e:UIAsset id="avatarAsset" source="SZ_tx" x="50" y="96"/>
+	<e:UIAsset source="SZ_yinxiang" x="264" y="160" locked="true" visible="false"/>
+	<e:UIAsset source="SZ_yinyue" x="48" y="160"/>
+	<e:Label bold="true" size="18" text="用户ID：" textColor="0x180E00" y="87" fontFamily="Microsoft YaHei" x="126"/>
+	<e:Label id="useridLabel" textColor="0x180E00" size="18" bold="true" text="1000017800" x="202" width="122" fontFamily="Arial" y="88"/>
+	<e:Label fontFamily="Microsoft YaHei" size="18" bold="true" text="VIP 等级：" textColor="0x180E00" y="85" x="326" locked="true" visible="false"/>
+	<e:Label id="levelLabel" textColor="0x180E00" size="18" bold="true" text="100" x="415" fontFamily="Arial" width="41" y="86" locked="true" visible="false"/>
+	<e:Label id="signLabel" text="欢迎来到我的农场！" textColor="0x180E00" size="18" verticalAlign="middle" x="134" fontFamily="微软雅黑" y="124" bold="true"/>
+	<e:Label textColor="0x180E00" size="18" verticalAlign="middle" text="音乐" x="92" y="172" fontFamily="微软雅黑" bold="true"/>
+	<e:Label textColor="0x180E00" size="18" verticalAlign="middle" text="音效" x="308" y="172" fontFamily="微软雅黑" bold="true" locked="true" visible="false"/>
+	<e:HSlider id="bgSoundSlider" skinName="skins.uicompenet.Setting.SoundHSliderSkin" y="201" maximum="100" minimum="0" value="50" liveDragging="true" stepSize="1" slideDuration="1" showTrackHighlight="true" x="58" width="358"/>
+	<e:HSlider id="audioSlider" skinName="skins.uicompenet.Setting.SoundHSliderSkin" x="255" y="199" maximum="100" minimum="0" stepSize="1" value="80" liveDragging="true" slideDuration="1" showTrackHighlight="true" locked="true" visible="false"/>
+	<e:UIAsset x="29" y="247" width="418" height="198" scale9Grid="16,16,247,100" source="DD_9"/>
+	<e:Button id="modNameBtn" skinName="skins.uicompenet.Setting.SettingButtonSkin" label="修改昵称" icon="SZ_6" anchorX="0.5" anchorY="0.5" x="131" y="289"/>
+	<e:Button id="openDiamondBtn" skinName="skins.uicompenet.Setting.SettingButtonSkin" label="开启钻石确认" icon="SZ_5" anchorX="0.5" anchorY="0.5" x="346" y="289" visible="false"/>
+	<e:Button id="websiteBtntn" skinName="skins.uicompenet.Setting.SettingButtonSkin" label="访问官网" icon="SZ_4" anchorX="0.5" anchorY="0.5" x="346" y="349" locked="true" visible="false"/>
+	<e:Button id="accountBtn" skinName="skins.uicompenet.Setting.SettingButtonSkin" label="账号切换" icon="SZ_1" anchorX="0.5" anchorY="0.5" x="346" y="289"/>
+	<e:Button id="langBtn" skinName="skins.uicompenet.Setting.SettingButtonSkin" label="语言切换" icon="SZ_2" anchorX="0.5" anchorY="0.5" x="131" y="409.5" visible="false" locked="true"/>
+	<e:Button id="helpBtn" skinName="skins.uicompenet.Setting.SettingButtonSkin" label="帮助与支持" icon="SZ_3" anchorX="0.5" anchorY="0.5" x="131" y="349" locked="true" visible="false"/>
+	<e:Button id="closeButton" label="按钮" skinName="skins.simple.CloseButtonSkin" y="8" x="414"/></e:Skin>

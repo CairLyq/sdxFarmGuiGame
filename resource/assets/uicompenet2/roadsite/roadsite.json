@@ -1,0 +1,102 @@
+{"file": "roadsite.png", "frames": {
+    "SP-gug": {
+        "x": 1,
+        "y": 80,
+        "w": 136,
+        "h": 26,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 136,
+        "sourceH": 26
+    },
+    "SP-jian": {
+        "x": 225,
+        "y": 1,
+        "w": 29,
+        "h": 20,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 29,
+        "sourceH": 20
+    },
+    "SP-jiantou": {
+        "x": 1,
+        "y": 108,
+        "w": 60,
+        "h": 49,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 60,
+        "sourceH": 49
+    },
+    "SP-koua": {
+        "x": 1,
+        "y": 1,
+        "w": 179,
+        "h": 42,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 179,
+        "sourceH": 42
+    },
+    "SP-kua": {
+        "x": 182,
+        "y": 1,
+        "w": 41,
+        "h": 42,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 41,
+        "sourceH": 42
+    },
+    "sp-lajiao": {
+        "x": 139,
+        "y": 97,
+        "w": 58,
+        "h": 60,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 58,
+        "sourceH": 60
+    },
+    "SP-mianfei": {
+        "x": 172,
+        "y": 45,
+        "w": 81,
+        "h": 50,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 81,
+        "sourceH": 50
+    },
+    "SP-sdf": {
+        "x": 199,
+        "y": 97,
+        "w": 52,
+        "h": 53,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 52,
+        "sourceH": 53
+    },
+    "SP-sj": {
+        "x": 63,
+        "y": 108,
+        "w": 51,
+        "h": 26,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 51,
+        "sourceH": 26
+    },
+    "SP-tiao": {
+        "x": 1,
+        "y": 45,
+        "w": 169,
+        "h": 33,
+        "offX": 0,
+        "offY": 0,
+        "sourceW": 169,
+        "sourceH": 33
+    }
+}}

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="480" height="630" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset id="bg" source="YZ_02" horizontalCenter="0" y="69"/>
+	<e:UIAsset id="close_btn" source="LC_guanbi" height="55" x="408" y="32"/>
+	<e:Group id="animal_con" width="382" height="0" touchEnabled="true" touchChildren="true" x="52" y="277">
+		<e:layout>
+			<e:BasicLayout/>
+		</e:layout>
+	</e:Group>
+	<e:UIAsset source="SCJZ_xiaodilan" y="449" x="5"/>
+	<e:UIAsset source="LC_baibang" scale9Grid="56,33,337,203" width="450" height="112" y="469" x="14"/>
+	<e:UIAsset source="LC_dioahua" y="460" x="10"/>
+	<e:UIAsset scaleX="-1" source="LC_dioahua" y="460" x="469"/>
+	<e:UIAsset scaleY="-1" source="LC_dioahua" y="594" x="10"/>
+	<e:UIAsset scaleY="-1" scaleX="-1" source="LC_dioahua" y="594" x="469"/>
+	<e:SkinnableComponent id="animal_ci" skinName="skins.uicompenet.BreedingV2.BreedingItemSkin" y="479" x="121"/>
+	<e:SkinnableComponent id="feed_ci" skinName="skins.uicompenet.BreedingV2.BreedingItemSkin" y="479" x="245"/>
+</e:Skin>

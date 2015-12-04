@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin width="147" height="147" xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.ItemRenderer"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="up"/>
+		<e:State name="down"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset source="tuxiangkuang" x="25" y="15"/>
+	<e:UIAsset id="avatarAsset" x="30" y="14" source="touxiang"/>
+	<e:Label id="labelDisplay" textColor="0x000000" text="土豪NPC" fontFamily="Microsoft YaHei" textAlign="center" size="20" width="138" x="5" y="119"/>
+	<e:UIAsset id="iconAsset" x="11" y="2" source="HT-sd"/>
+	<e:UIAsset source="MRRW-jinyanzhi" x="102" y="1"/>
+	<e:Label id="experienceLabel" textColor="0xFFFFFF" fontFamily="Arial" stroke="2" size="20" strokeColor="0x5E3700" bold="true" x="105" y="9" text="60"/>
+</e:Skin>
